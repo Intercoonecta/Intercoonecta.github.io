@@ -15,6 +15,14 @@ Este enlace los llevará a una versión temporal del sitio donde pueden confirma
 
 Pueden ver un ejemplo de esto en un PR reciente, como este: #3
 
+Es sencillo editar una página directamente desde el sitio web: en los íconos arriba a la derecha de cada página, presionen el ícono de gihub y luego seleccionen "suggest edit". Esto los lleva a github, con el interfaz de modificación del markdown. 
+![image](https://user-images.githubusercontent.com/742403/220717342-8afb20b4-5ee4-4547-9c92-c5011633431b.png)
+
+Cuando estén listos a enviar los cambios, por favor seleccionen "Create a new branch for this commit and start a pull request" antes de presionar "Commit changes". Esto nos permitir a otros revisar los cambios antes de aprobarlos.
+
+![image](https://user-images.githubusercontent.com/742403/220717826-e1062654-4757-4bcb-9d85-aa8300dcf432.png)
+
+
 Hay dos archivos importantes de configuración del sitio:
 - [`_config.yml`](sitio/_config.yml). [Configuraciones básicas del sitio](https://jupyterbook.org/en/stable/customize/config.html). Raremente tendremos que modificar esto.
 - [`_toc.yml`](sitio/_toc.yml). "Table of Content". [Organización de las páginas en el sitio.](https://jupyterbook.org/en/stable/basics/organize.html)
