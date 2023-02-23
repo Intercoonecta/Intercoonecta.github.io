@@ -2,7 +2,7 @@
 
 - Marian Peña Sáenz (Centro Oceanográfico de Baleares, Instituto Español de Oceanografía, IEO, CSIC, España)
 
-- Emilio Mayorga (Universidad de Washington, Seattle,USA)
+- Emilio Mayorga (Universidad de Washington, Seattle, USA)
 
 - Dennise Fierro Arcos (Universidad de Tasmania, Autralia)
 
@@ -10,7 +10,7 @@
 
 - Laura Gómez Navarro (Universidad de Utrecht, Países Bajos)
 
-- David Correa Chilón (Instituto del Mar del Perú, IMARPE)
+- David Correa Chilón (Instituto del Mar del Perú, IMARPE, Perú)
 
 ## Mentores de proyectos
 
