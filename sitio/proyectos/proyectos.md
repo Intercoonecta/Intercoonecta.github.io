@@ -26,3 +26,11 @@ A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puede
 - **breve descripción:** Existen diversas librerías en R y Python para el procesado de datos acústicos (más desarrollado en Python). Este proyecto estaría enfocado en la aplicación y extensión de las funciones disponibles a datos generados por ecosondas.
 - **Lenguaje:** R: Echogram; Python: echopype, echopy
 - **Horario:** Disponible durante proyectos A y B. 11:00-13:00 Trabajo en grupo Proyectos A 15:00-17:00 Trabajo en grupo Proyectos B
+
+## PROYECTO 4
+
+- **Título:** Seguimiento de masas de agua con OceanParcel
+- **Mentor:** Claudio Pierard
+- **breve descripción:** Muestrear de manera Lagrangiana la temperatura y salinidad usando OceanParcels, para entender el transporte de  distintas masas de agua en el océano.
+- **Lenguaje:**  Python
+- **Horario:** Disponible 11:00-13:00 Trabajo en grupo Proyectos A
