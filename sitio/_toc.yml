@@ -28,8 +28,12 @@ parts:
   - file: tutoriales
 - caption: Proyectos
   chapters:
-  - file: proyectos
-  - file: nuevoproyecto
+  - file: proyectos/index
+    title: Descripción
+  - file: proyectos/proyectos
+    title: Lista de proyectos
+  - file: proyectos/nuevoproyecto
+    title: Sugerir proyectos
 - caption: Recursos
   chapters:
   - file: jupyter_y_python
