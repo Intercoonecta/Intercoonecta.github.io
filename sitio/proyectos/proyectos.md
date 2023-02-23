@@ -31,6 +31,6 @@ A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puede
 
 - **Título:** Seguimiento de masas de agua con OceanParcel
 - **Mentor:** Claudio Pierard
-- **breve descripción:** Muestrear de manera Lagrangiana la temperatura y salinidad usando OceanParcels, para entender el transporte de  distintas masas de agua en el océano.
+- **breve descripción:** Muestrear de manera Lagrangiana la temperatura y salinidad con el software abierto OceanParcels con salidas de Copernicus Marine Services. Se analizaran las simulaciones usando las trajectorias de las particulas y diagramas T-S. El objetivo es entender el transporte de  distintas masas de agua en el océano. Los detalles se definiran al principio del proyecto.
 - **Lenguaje:**  Python
 - **Horario:** Disponible 11:00-13:00 Trabajo en grupo Proyectos A
