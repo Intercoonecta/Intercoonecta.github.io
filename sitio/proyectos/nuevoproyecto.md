@@ -1,6 +1,6 @@
 # Sugerencia de nuevo proyecto
 
-Si te interesa participar en un proyecto no incluido entre las propuestas puedes crear tu propia sugerencia usando esta plantilla. Envíala a la coordinadora del Hackatón.
+Si te interesa participar en un proyecto no incluido entre las propuestas puedes crear tu propia sugerencia usando esta plantilla. Completa lo más posible toda la información y pon tu propuesta en el foro de la plataforma.
 
 
 ## Título del proyecto
