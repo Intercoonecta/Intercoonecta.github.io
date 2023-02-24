@@ -42,3 +42,16 @@ A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puede
 - **breve descripción:** Las áreas de afloramiento y plataformas continentales representes dos tipos de regiones oceanográficas comunes, con gran producción primaria y riqueza biológica, y con grandes contrastes entre sí. En este proyecto tendremos la oportunidad de utilizar fuentes diversas de datos biológicos y biogeoquímicos, y diferentes métodos de análisis y visualización, para presentar contrastes o similitudes entre estos sistemas. Podemos concentrarnos en regiones marinas en Latinoamérica o hacer un análisis más amplio. Datos relevantes incluyen datos de satélite de clorofila-a, la base de datos del Atlas Mundial de los Océanos (WOA), la Base de Datos Oceanográficos Mundiales (WOD), el Sistema de Información de Biodiversidad del Océano (OBIS), y datos de regiones marinas como los Sistemas Marinos Grandes (LME) o las Ecoregiones Marines del Mundo (MEOW).
 - **Lenguaje:** Python principalmente, pero algunos también pueden trabajar en R
 - **Horario:** Disponible 15:00-17:00 Trabajo en grupo Proyectos B
+
+
+## PROYECTO 6
+
+- **Título:** IDENTIFICACIÓN DE EVENTOS A TRAVÉS DE UMBRALES VARIABLES
+- **Mentor:** David Correa
+- **breve descripción:** A partir de información histórica satelital, de frecuencia diaria,  se establecen umbrales inferiores y superiores, variables en el tiempo, a través de cuartiles y una ventana móvil intraestacional. La metodología permitiría la identificación de eventos en una determina localización, a través de una serie de tiempo diaria, llegando a determinar, el tiempo de duración, variabilidad, intensidad máxima y mínima del evento, entre otras estadísticas. La metodología podría ser aplicable a información satelital diaria, como velocidad del viento, temperaturas superficial del mar u otros.
+LA VARIABILIDAD INTRAESTACIONAL: se refiere a cambios en el sistema  acoplado océano – atmosfera que ocurren en una escala temporal entre 25 a 80 días.
+.
+- **Lenguaje:** Python 
+- **Horario:**  Disponible durante proyectos A y B. 11:00-13:00 Trabajo en grupo Proyectos A 15:00-17:00 Trabajo en grupo Proyectos B
+
+
