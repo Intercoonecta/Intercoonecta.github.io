@@ -25,6 +25,8 @@ parts:
     #     title: Python
 - caption: Tutoriales
   chapters:
+  - file: primeros-pasos
+    title: Primeros pasos
   - file: tutoriales
 - caption: Proyectos
   chapters:

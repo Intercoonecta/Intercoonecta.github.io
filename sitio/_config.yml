@@ -15,6 +15,12 @@ execute:
 # General execution settings
 only_build_toc_files: true
 
+parse:
+  myst_enable_extensions:
+  - colon_fence
+  - dollarmath
+  - linkify
+
 # Information about where the book exists on the web
 repository:
   url: https://github.com/Intercoonecta/Intercoonecta.github.io  # Online location of your book
