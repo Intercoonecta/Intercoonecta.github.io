@@ -27,6 +27,16 @@ parts:
   - file: primeros-pasos
     title: Primeros pasos
   - file: tutoriales
+- caption: Proyectos
+  chapters:
+  - file: proyectos/index
+    title: Descripción
+  - file: proyectos/proyectos
+    title: Lista de proyectos
+  - file: proyectos/nuevoproyecto
+    title: Sugerir proyectos
+- caption: Otros Tutoriales
+  chapters:
   - file: aulainvertida
     sections:
     - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-github/Github.md
@@ -46,14 +56,6 @@ parts:
       title: Redes espaciales, R
     - url: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones
       title: Biodiversidad marina, R
-- caption: Proyectos
-  chapters:
-  - file: proyectos/index
-    title: Descripción
-  - file: proyectos/proyectos
-    title: Lista de proyectos
-  - file: proyectos/nuevoproyecto
-    title: Sugerir proyectos
 - caption: Recursos
   chapters:
   - file: jupyter_y_python
