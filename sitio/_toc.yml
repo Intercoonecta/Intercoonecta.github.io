@@ -11,7 +11,6 @@ parts:
   chapters:
   #maxdepth: 2  # The displayed Table of Contents will only have two levels
   - file: hackaton-que-es
-  - file: aulainvertida
   - file: organizadores
     # sections:
     # - file: ic/aulainv/tutoriales
@@ -28,6 +27,25 @@ parts:
   - file: primeros-pasos
     title: Primeros pasos
   - file: tutoriales
+  - file: aulainvertida
+    sections:
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-github/Github.md
+      title: Git y GitHub
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-R/R.md
+      title: R
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/Jupyter.md
+      title: Jupyter
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Python/Python.md
+      title: Python
+  - file: ohw22-espanol
+    title: OHW 2022 en español
+    sections:
+    - url: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy
+      title: Datos espaciales, R
+    - url: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks
+      title: Redes espaciales, R
+    - url: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones
+      title: Biodiversidad marina, R
 - caption: Proyectos
   chapters:
   - file: proyectos/index
@@ -39,5 +57,3 @@ parts:
 - caption: Recursos
   chapters:
   - file: jupyter_y_python
-  - file: ohw22-espanol
-    title: OHW 2022 en español
