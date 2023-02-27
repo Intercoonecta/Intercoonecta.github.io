@@ -16,11 +16,11 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 | Hora |	Charla |	Presentador/a | 
 | ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian| 
-|08:15-08:30| Reproducibilidad y acceso abierto|	Laura |	
+|08:15-08:30| [Reproducibilidad y ciencia abierta](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Ciencia_abierta/Ciencia_abierta.pdf) |	Laura |
 |08:30-09:15| Entrada a Jupyter Hub en Python|	Emilio|
-|09:15-10:00|	Datos online|	Laura| 
+|09:15-10:00|	[Datos online](https://github.com/Intercoonecta/tutoriales/blob/main/lunes/datos_online.ipynb) |	Laura| 
 |10:00-10:05| Entrada a Jupyter Hub en R|Emilio	|
-|10:05-10:50|	Visualización en R	|Héctor|
+|10:05-10:50|	[Visualización en R](https://github.com/Intercoonecta/tutoriales/blob/main/lunes/Visualizacion_en_R/Visualizacion_en_R.md)	|Héctor|
 |10:50-11:20|	Proyectos y grupos|Marian y Emilio	|
 |11:00-13:00| **Trabajo en grupo Proyectos A**| |
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
