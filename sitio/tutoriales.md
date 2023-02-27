@@ -1,15 +1,17 @@
 #  Tutoriales
 
-(Las horas incluidas en el programa son en horario de Guatemala, UTC-6)
+El hackatón toma lugar del lune 27 de febrero al viernes 3 de marzo, 2023, con una sesión de inauguración el viernes anterior, 24 de febrero.
 
-## Viernes 24 de febrero de 2023
+Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://www.zeitverschiebung.net/es/city/3598132)
+
+## Viernes 24 de febrero
 
 | Hora |	Evento | 
 | ------------- |--------|
 |11:00-11:30|	Sesión de inauguración| 
 |11:30-12:30| Sesión de dinamización de grupos| 
 
-## Lunes 27 de febrero de 2023
+## Lunes 27 de febrero
  
 | Hora |	Charla |	Presentador/a | 
 | ------------- |-------- | ------------- |
@@ -24,7 +26,7 @@
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
 
 
-## Martes 28 de febrero de 2023
+## Martes 28 de febrero
 
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
@@ -37,7 +39,7 @@
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
 
 
-## Miércoles 1 de marzo de 2023
+## Miércoles 1 de marzo
 
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
@@ -50,7 +52,7 @@
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
 
 
-## Jueves 2 de marzo de 2023
+## Jueves 2 de marzo
 
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
@@ -61,7 +63,7 @@
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
 
 
-## Viernes 3 de marzo de 2023
+## Viernes 3 de marzo
 
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
