@@ -44,9 +44,9 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian|
-|08:15-09:00|	Datos temporales en R|	Denisse (vídeo)|
+|08:15-09:00|	[Datos temporales en R](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/Dia3_Datos_temporales_R.md)|	Denisse (vídeo)|
 |09:00-09:45|	Datos temporales en Python|	David|
-|09:45-10:30|	Echopype| 	Emilio |
+|09:45-10:30|	[Echopype](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/acustica_python/echopype_procesamiento_ecosonar.ipynb)| 	Emilio |
 |10:30-11:00| Revisión de proyectos| 	Marian|
 |11:00-13:00| **Trabajo en grupo Proyectos A**| |
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
