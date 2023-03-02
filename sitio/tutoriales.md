@@ -31,7 +31,7 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian|
-|08:15-09:00|	[Datos espaciales en R](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Dia2_Datos_espaciales_R.md)|	Denisse (vídeo)|
+|08:15-09:00|	[Datos espaciales en R](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Dia2_Datos_espaciales_R/Dia2_Datos_espaciales_R.md)|	Denisse (vídeo)|
 |09:00-09:45|	[Paquete echogram en R](https://github.com/Intercoonecta/tutoriales/blob/main/martes/El_paquete_echogram_R/echogramR.md)| 	Héctor|
 |09:45-10:30|	[Visualización en Python](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Dia2_Visualizacion_Python.pdf)|	David|
 |10:30-11:15|		[Datos espaciales en Python](https://github.com/Intercoonecta/tutoriales/blob/main/martes/datos_espaciales_python)| 	Emilio|
@@ -44,7 +44,7 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian|
-|08:15-09:15|	[Datos temporales en R](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/Dia3_Datos_temporales_R.md)|	Denisse (vídeo)|
+|08:15-09:15|	[Datos temporales en R](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/Dia3_Datos_temporales_R/Dia3_Datos_temporales_R.md)|	Denisse (vídeo)|
 |09:15-10:30|	[Echopype](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/acustica_python/echopype_procesamiento_ecosonar.ipynb)| 	Emilio |
 |10:30-11:00| Datos temporales en Python y repositorios| 	Emilio y Marian |
 |11:00-11:30| Revisión de proyectos| 	Marian y Emilio|
