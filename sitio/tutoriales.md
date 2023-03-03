@@ -21,7 +21,7 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 |09:15-10:00|	[Datos online](https://github.com/Intercoonecta/tutoriales/blob/main/lunes/datos_online.ipynb) |	Laura| 
 |10:00-10:05| Entrada a Jupyter Hub en R|Emilio	|
 |10:05-10:50|	[Visualización en R](https://github.com/Intercoonecta/tutoriales/blob/main/lunes/Visualizacion_en_R/Visualizacion_en_R.md)	|Héctor|
-|10:50-11:20|	Proyectos y grupos|Marian y Emilio	|
+|10:50-11:20|	Proyectos y grupos|Todos|
 |11:30-13:30| **Trabajo en grupo Proyectos A**| |
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
 
