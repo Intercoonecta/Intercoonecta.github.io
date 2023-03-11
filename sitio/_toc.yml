@@ -5,28 +5,34 @@ format: jb-book
 root: index 
 
 parts:
-# - chapters:
-#   - file: intro_ohwes
 - caption: 
   chapters:
-  #maxdepth: 2  # The displayed Table of Contents will only have two levels
   - file: hackaton-que-es
   - file: organizadores
-    # sections:
-    # - file: ic/aulainv/tutoriales
-    #   title: Tutoriales de Introducción
-    #   sections:
-    #   - file: ic/aulainv/R/R.md
-    #     title: R
-    #     sections:
-    #     - file: ic/aulainv/R/IntroduccionaR.md
-    #   - file: ic/aulainv/python/Python.md
-    #     title: Python
 - caption: Tutoriales
   chapters:
   - file: primeros-pasos
     title: Primeros pasos
   - file: tutoriales
+    sections:
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Ciencia_abierta/
+      title: Ciencia abierta
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Datos_online/
+      title: Datos online
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Visualizacion_en_R/
+      title: Visualización en R
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/Dia2_Datos_espaciales_R/
+      title: Datos espaciales en R
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/visualizacion_python/
+      title: Datos temporales en R
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/El_paquete_echogram_R/
+      title: Visualización en Python
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/datos_espaciales_python/
+      title: Datos espaciales en Python
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/miercoles/Dia3_Datos_temporales_R/
+      title: Acústica - ecosondas, R
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/miercoles/acustica_python/
+      title: Acústica - ecosondas, Python
 - caption: Proyectos
   chapters:
   - file: proyectos/index
@@ -39,13 +45,13 @@ parts:
   chapters:
   - file: aulainvertida
     sections:
-    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-github/Github.md
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
       title: Git y GitHub
-    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-R/R.md
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md
       title: R
-    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/Jupyter.md
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md
       title: Jupyter
-    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Python/Python.md
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
       title: Python
   - file: ohw22-espanol
     title: OHW 2022 en español
