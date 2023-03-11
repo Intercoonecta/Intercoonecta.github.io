@@ -23,13 +23,13 @@ parts:
       title: Visualización en R
     - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/Dia2_Datos_espaciales_R/
       title: Datos espaciales en R
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/visualizacion_python/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/miercoles/Dia3_Datos_temporales_R/
       title: Datos temporales en R
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/El_paquete_echogram_R/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/visualizacion_python/
       title: Visualización en Python
     - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/datos_espaciales_python/
       title: Datos espaciales en Python
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/miercoles/Dia3_Datos_temporales_R/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/El_paquete_echogram_R/
       title: Acústica - ecosondas, R
     - url: https://github.com/Intercoonecta/tutoriales/tree/main/miercoles/acustica_python/
       title: Acústica - ecosondas, Python
