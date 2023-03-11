@@ -4,6 +4,7 @@ El hackatón toma lugar del **lunes 27 de febrero al viernes 3 de marzo, 2023**,
 
 Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://www.zeitverschiebung.net/es/city/3598132)
 
+Todos los materiales de los tutoriales se encuentran en el repositorio https://github.com/Intercoonecta/tutoriales/
 ## Viernes 24 de febrero
 
 | Hora |	Evento | 
