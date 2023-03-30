@@ -17,12 +17,12 @@ Todos los materiales de los tutoriales se encuentran en el repositorio https://g
 | Hora |	Charla |	Presentador/a | 
 | ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian| 
-|08:15-09:00| [Reproducibilidad y ciencia abierta](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Ciencia_abierta/Ciencia_abierta.pdf) |	Laura |
-|09:00-09:15| Entrada a Jupyter Hub en Python|	Emilio|
-|09:15-10:00|	[Datos online](https://github.com/Intercoonecta/tutoriales/blob/main/lunes/datos_online.ipynb) |	Laura| 
-|10:00-10:05| Entrada a Jupyter Hub en R|Emilio	|
-|10:05-10:50|	[Visualización en R](https://github.com/Intercoonecta/tutoriales/blob/main/lunes/Visualizacion_en_R/Visualizacion_en_R.md)	|Héctor|
-|10:50-11:20|	Proyectos y grupos|Todos|
+|08:15-09:00| [Reproducibilidad y ciencia abierta](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Ciencia_abierta/Ciencia_abierta.pdf) ([video](https://youtu.be/NYAq1xrc8Zc)) |	Laura |
+|09:00-09:15| Entrada a Jupyter Hub en Python ([video](https://youtu.be/DJV7gOUVGDc)) |	Emilio|
+|09:15-10:00|	[Datos online](https://github.com/Intercoonecta/tutoriales/blob/main/lunes/datos_online.ipynb) ([video](https://youtu.be/Qbn_Y4sm4Oc)) |	Laura| 
+|10:00-10:05| Entrada a Jupyter Hub en R ([video](https://youtu.be/DJV7gOUVGDc)) | Emilio	|
+|10:05-10:50|	[Visualización en R](https://github.com/Intercoonecta/tutoriales/blob/main/lunes/Visualizacion_en_R/Visualizacion_en_R.md) ([video](https://youtu.be/20Gjx1-0D0Y))	|Héctor|
+|10:50-11:20|	Proyectos y grupos ([video](https://youtu.be/GQpnUxn_Ah8)) |Todos|
 |11:30-13:30| **Trabajo en grupo Proyectos A**| |
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
 
