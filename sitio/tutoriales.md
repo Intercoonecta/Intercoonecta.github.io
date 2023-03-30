@@ -32,10 +32,10 @@ Todos los materiales de los tutoriales se encuentran en el repositorio https://g
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian|
-|08:15-09:00|	[Datos espaciales en R](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Dia2_Datos_espaciales_R/Dia2_Datos_espaciales_R.md)|	Denisse (vídeo)|
-|09:00-09:45|	[Paquete echogram en R](https://github.com/Intercoonecta/tutoriales/blob/main/martes/El_paquete_echogram_R/echogramR.md)| 	Héctor|
-|09:45-10:30|	[Visualización en Python](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Dia2_Visualizacion_Python.pdf)|	David|
-|10:30-11:15|		[Datos espaciales en Python](https://github.com/Intercoonecta/tutoriales/blob/main/martes/datos_espaciales_python)| 	Emilio|
+|08:15-09:00|	[Datos espaciales en R](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Dia2_Datos_espaciales_R/Dia2_Datos_espaciales_R.md)|	Denisse ([vídeo](https://youtu.be/8DEZHXv15XQ)) |
+|09:00-09:45|	[Paquete echogram en R](https://github.com/Intercoonecta/tutoriales/blob/main/martes/El_paquete_echogram_R/echogramR.md) ([vídeo](https://youtu.be/wMR-XZvyFAU)) | 	Héctor|
+|09:45-10:30|	[Visualización en Python](https://github.com/Intercoonecta/tutoriales/blob/main/martes/Dia2_Visualizacion_Python.pdf) ([vídeo](https://youtu.be/fWtGZ0w6j48)) |	David|
+|10:30-11:15|		[Datos espaciales en Python](https://github.com/Intercoonecta/tutoriales/blob/main/martes/datos_espaciales_python) ([vídeo](https://youtu.be/IP0sGy8JxRQ)) | 	Emilio|
 |11:15-13:15| **Trabajo en grupo Proyectos A**| |
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
 
@@ -45,10 +45,10 @@ Todos los materiales de los tutoriales se encuentran en el repositorio https://g
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian|
-|08:15-09:15|	[Datos temporales en R](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/Dia3_Datos_temporales_R/Dia3_Datos_temporales_R.md)|	Denisse (vídeo)|
-|09:15-10:30|	[Echopype](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/acustica_python/echopype_procesamiento_ecosonar.ipynb)| 	Emilio |
-|10:30-11:00| Datos temporales en Python y repositorios| 	Emilio y Marian |
-|11:00-11:30| Revisión de proyectos| 	Marian y Emilio|
+|08:15-09:15|	[Datos temporales en R](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/Dia3_Datos_temporales_R/Dia3_Datos_temporales_R.md)|	Denisse ([vídeo](https://youtu.be/I9-e98f5N0M))|
+|09:15-10:30|	[Echopype](https://github.com/Intercoonecta/tutoriales/blob/main/miercoles/acustica_python/echopype_procesamiento_ecosonar.ipynb) ([video](https://youtu.be/Cmx4y8J6Dlc)) | 	Emilio |
+|10:30-11:00| Datos temporales en Python y repositorios ([video](https://youtu.be/x4t1GpYCPcA)) | 	Emilio y Marian |
+|11:00-11:30| Revisión de proyectos ([video](https://youtu.be/mBrIKHw5twA)) | 	Marian y Emilio|
 |11:00-13:00| **Trabajo en grupo Proyectos A**| |
 |15:00-17:00| **Trabajo en grupo Proyectos B**| |
 
@@ -69,6 +69,6 @@ Todos los materiales de los tutoriales se encuentran en el repositorio https://g
 |Hora|	Charla|	Presentador/a|
 | ------------- |-------- | ------------- |
 |08:15-08:30|	Bienvenida|	Marian|
-|08:30-11:00|	Presentaciones de los grupos|	Todos|
+|08:30-11:00|	Presentaciones de los grupos ([video](https://www.youtube.com/watch?v=mJrW06hmGhc)) |	Todos|
 |11:00-11:15|	Despedida|	Todos|
 
