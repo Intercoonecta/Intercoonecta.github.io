@@ -2,7 +2,16 @@
 
 **Marian Peña, Héctor Villalobos, Denisse Fierro Arcos, Emilio Mayorga, Laura Gómez Navarro, David Correa** 
 
-Este hackatón forma parte de la iniciativa del [OceanHackWeek](https://oceanhackweek.org) en su versión en español y es una de las actividades del proyecto [INVIPESCA-FORT](https://www.ieo.es/es_ES/web/murcia/noticias?p_p_id=ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_journalId=7728697&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_anioFiltro=-1&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_categoryFiltro=-1&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_mode=detail) financiado por el gobierno de España a través de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es) de la [AECID](https://aecid.es) y el CSIC.
+Este hackatón forma parte de la iniciativa del [OceanHackWeek (OHW)](https://oceanhackweek.org) en su versión en español y es una de las actividades del proyecto [INVIPESCA-FORT](https://www.ieo.es/es_ES/web/murcia/noticias?p_p_id=ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_journalId=7728697&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_anioFiltro=-1&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_categoryFiltro=-1&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_mode=detail) financiado por el gobierno de España a través de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es) de la [AECID](https://aecid.es) y el CSIC.
+
+
+```{admonition} Instrucciones para el uso de la plataforma JupyterHub
+- Entrada a la plataforma: https://oceanhackweek.2i2c.cloud
+- Para actualizar los tutoriales en la plataforma, [sigan estas instrucciones](https://intercoonecta.github.io/primeros-pasos.html#como-consigo-el-repositorio-de-los-tutoriales-en-el-hub)
+- Favor cerrar la sesión cuando termine de usarla por el día
+  - Python: `Archivo > Panel de Control`, luego presione `Stop My Server` y `logout`
+  - R: Presione el enlace https://oceanhackweek.2i2c.cloud/hub/home, y luego presione `Stop My Server` y `logout`
+```
 
 ## Destinatarios
 
@@ -10,8 +19,10 @@ Este hackatón forma parte de la iniciativa del [OceanHackWeek](https://oceanhac
 
 ## Fechas
 
+- Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
 - Hackaton: 27 de febrero a 3 de marzo de 2023
-- Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre (más dos horas de tutoría online).
+
+
 
 ## Requisitos
 
@@ -19,8 +30,10 @@ Para participar en este hackaton es necesario poder desarrollar código en R o P
 
 ## ¿Cómo participar?
 
-- Hackatón: El período de postulación cerró el 6 de febrero, 2023. El anuncio anterior se encuentra [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol).
 - Aula Invertida: esta actividad concluyó el 9 de diciembre, 2022. Para mayor información sobre esta actividad y para acceso a los tutoriales y demás materiales, consulta [esta página](aulainvertida).
+- Hackatón: El período de postulación cerró el 6 de febrero, 2023. El anuncio anterior se encuentra [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol).
+
+
 
 ## Certificado
 
