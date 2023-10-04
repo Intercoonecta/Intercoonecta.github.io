@@ -9,8 +9,28 @@ parts:
   chapters:
   - file: hackaton-que-es
   - file: organizadores
+- caption: Aula invertida
+    chapters:
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
+      title: Git y GitHub
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md
+      title: R
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md
+      title: Jupyter
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
+      title: Python
 - caption: Tutoriales
   chapters:
+- file: aulainvertida
+    sections:
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
+      title: Git y GitHub
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md
+      title: R
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md
+      title: Jupyter
+    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
+      title: Python
   - file: primeros-pasos
     title: Primeros pasos
   - file: tutoriales
@@ -43,16 +63,7 @@ parts:
     title: Sugerir proyectos
 - caption: Otros Tutoriales
   chapters:
-  - file: aulainvertida
-    sections:
-    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
-      title: Git y GitHub
-    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md
-      title: R
-    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md
-      title: Jupyter
-    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
-      title: Python
+  
   - file: ohw22-espanol
     title: OHW 2022 en español
     sections:
