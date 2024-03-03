@@ -14,3 +14,5 @@ El período de postulación cerró el 11 de noviembre, 2022. El anuncio anterior
 ![Instituciones logos](/imagenes/instituciones-logos.png)
 
 ![AECID barra logo](/imagenes/AECDI-logo-barra.png)
+
+<a href="https://info.flagcounter.com/2Ay8"><img src="https://s01.flagcounter.com/countxl/2Ay8/bg_DBFDFF/txt_000000/border_CCCCCC/columns_5/maxflags_90/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
