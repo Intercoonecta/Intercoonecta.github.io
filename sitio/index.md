@@ -2,7 +2,8 @@
 
 **Marian Peña, Héctor Villalobos, Denisse Fierro Arcos, Emilio Mayorga, Laura Gómez Navarro, David Correa** 
 <img src=https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/4483ff3f-fb5f-4fe5-a1a9-87a65cf07bc6 style="width:200px;"/>
-<img src=[https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/4483ff3f-fb5f-4fe5-a1a9-87a65cf07bc6](https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/fd53140a-b0a5-43a4-b7ad-774d6c18faf7) style="width:200px;"/>
+
+<img src=https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/fd53140a-b0a5-43a4-b7ad-774d6c18faf7 style="width:200px;"/>
 
 
 
