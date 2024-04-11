@@ -2,7 +2,27 @@
 
 **Marian Peña, Héctor Villalobos, Denisse Fierro Arcos, Emilio Mayorga, Laura Gómez Navarro, David Correa** 
 
-Este hackatón forma parte de la iniciativa del [OceanHackWeek (OHW)](https://oceanhackweek.org) en su versión en español y es una de las actividades del proyecto [INVIPESCA-FORT](https://www.ieo.es/es_ES/web/murcia/noticias?p_p_id=ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_journalId=7728697&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_anioFiltro=-1&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_categoryFiltro=-1&_ieolistadosestructuramain_WAR_IEOListadoContenidosPorEstructuraportlet_mode=detail) financiado por el gobierno de España a través de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es) de la [AECID](https://aecid.es) y el CSIC.
+¿Qué es OHWe? Las Hackweeks son eventos intensivos e interactivos de aprendizaje de ciencia de datos que incluyen tutoriales sobre metodologías avanzadas, aprendizaje entre pares y trabajo colaborativo en proyectos. La iniciativa [OceanHackWeek (OHW)](https://oceanhackweek.org) ha avanzado en este enfoque y ha involucrado a casi 400 participantes de todos los continentes desde 2018 a través de eventos anuales presenciales, virtuales e híbridos. OHW es un enfoque innovador para enseñar habilidades de ciencia de datos dirigidas a apoyar a científicos marinos y administradores de recursos. Después de 4 años de exitosos eventos OHW en inglés, desarrollamos recursos y eventos en español como una iniciativa equitativa, inclusiva y de desarrollo de capacidades que aborda las barreras lingüísticas y culturales. La iniciativa OHW en Español (OHWe) adaptó el modelo bien establecido de OHW para servir a las comunidades de habla hispana a través de eventos virtuales e híbridos gratuitos que convocan a diversos participantes y organizadores de toda América Latina y a hispanohablantes de todo el mundo.
+
+Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es), las primeras actividades tuvieron lugar com parte del proyecto INVIPESCA-FORT en 2022 y 2023:
+- Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
+- Hackaton: 27 de febrero a 3 de marzo de 2023
+
+En 2024-2025 y enmarcadas en el proyecto HACKATONES, las actividades planeadas son:
+
+  
+| Año|     Mes |  Actividad| 
+| ------|  --------------- | ------------------------| 
+| 2024 |   20 y 21 de mayo    | Webinario| 
+| 2024 |  17 al 28 de julio de       |       Aula invertida 2024| 
+| 2024 |  intermedia 7 al 18 de octubre de            |   Taller intermedio 2024| 
+| 2024 | 25 al 29 de noviembre de     |           Hackaton 2024| 
+| 2025 |  5 al 16 de mayo    |    Aula invertida 2025| 
+| 2025|   06 al 17 de octubre    |         Taller intermedio 2025| 
+| 2025 |  24 al 28 de noviembre de     |           Hackaton 2025| 
+
+
+Los hackatones son altamento interactivos gracias al uso de la plataforma JupyterHub
 
 
 ```{admonition} Instrucciones para el uso de la plataforma JupyterHub
@@ -16,12 +36,6 @@ Este hackatón forma parte de la iniciativa del [OceanHackWeek (OHW)](https://oc
 ## Destinatarios
 
 - Investigadores, técnicos y estudiantes de América Latina y el Caribe
-
-## Fechas
-
-- Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
-- Hackaton: 27 de febrero a 3 de marzo de 2023
-- **Nuevas fechas para aula invertida, curso intermedio y Hackaton en 2024 y 2025 en breve!**
 
 
 
