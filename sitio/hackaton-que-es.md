@@ -1,5 +1,5 @@
 # ¿Qué es un hackatón?
-![image](https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/03f5d49f-0e6c-4f73-b9f7-ec97ec180ff8)
+![image](https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/a70f4806-1308-45f4-903e-c694a1e03608)
 
 Un hackatón consiste en una semana intensiva de trabajo colaborativo centrado en el desarrollo de código abierto en torno a una temática concreta. En este caso el hackaton se desarrollará de forma online, utilizando los lenguajes de programación gratuitos R y Python y sobre el tratamiento de datos científicos marinos. La semana de trabajo se dividirá en horas de tutoriales avanzados en R y Python por la mañana (3h/dia) utilizando la plataforma jupyterhub, y trabajo en grupo en diversos proyectos por la tarde (3h/día). El hackatón asume unos conocimientos básicos en lenguajes de programación y trabajo colaborativo que pueden ser aprendidos de forma autónoma siguiendo los materiales del [aula invertida](aulainvertida).
 
