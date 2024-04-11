@@ -22,16 +22,7 @@ En 2024-2025 y enmarcadas en el proyecto HACKATONES, las actividades planeadas s
 | 2025 |  24 al 28 de noviembre de     |           Hackaton 2025| 
 
 
-Los hackatones son altamento interactivos gracias al uso de la plataforma JupyterHub
 
-
-```{admonition} Instrucciones para el uso de la plataforma JupyterHub
-- Entrada a la plataforma: https://oceanhackweek.2i2c.cloud
-- Para actualizar los tutoriales en la plataforma, [sigan estas instrucciones](https://intercoonecta.github.io/primeros-pasos.html#como-consigo-el-repositorio-de-los-tutoriales-en-el-hub)
-- Favor cerrar la sesión cuando termine de usarla por el día
-  - Python: `Archivo > Panel de Control`, luego presione `Stop My Server` y `logout`
-  - R: Presione el enlace https://oceanhackweek.2i2c.cloud/hub/home, y luego presione `Stop My Server` y `logout`
-```
 
 ## Destinatarios
 
