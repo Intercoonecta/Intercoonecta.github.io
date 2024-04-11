@@ -9,22 +9,22 @@
 
 ¿Qué es OHWe? Las Hackweeks son eventos intensivos e interactivos de aprendizaje de ciencia de datos que incluyen tutoriales sobre metodologías avanzadas, aprendizaje entre pares y trabajo colaborativo en proyectos. La iniciativa [OceanHackWeek (OHW)](https://oceanhackweek.org) ha avanzado en este enfoque y ha involucrado a casi 400 participantes de todos los continentes desde 2018 a través de eventos anuales presenciales, virtuales e híbridos. OHW es un enfoque innovador para enseñar habilidades de ciencia de datos dirigidas a apoyar a científicos marinos y administradores de recursos. Después de 4 años de exitosos eventos OHW en inglés, desarrollamos recursos y eventos en español como una iniciativa equitativa, inclusiva y de desarrollo de capacidades que aborda las barreras lingüísticas y culturales. La iniciativa OHW en Español (OHWe) adaptó el modelo bien establecido de OHW para servir a las comunidades de habla hispana a través de eventos virtuales e híbridos gratuitos que convocan a diversos participantes y organizadores de toda América Latina y a hispanohablantes de todo el mundo.
 
-Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es), las primeras actividades tuvieron lugar como parte del proyecto INVIPESCA-FORT en 2022 y 2023:
+Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es), las primeras actividades tuvieron lugar como parte del proyecto **INVIPESCA-FORT** en 2022 y 2023:
 - Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
 - Hackaton: 27 de febrero a 3 de marzo de 2023
 
-En 2024-2025 y enmarcadas en el proyecto HACKATONES, las actividades planeadas son:
+En 2024-2025 y enmarcadas en el proyecto **HACKATONES**, las actividades planeadas son:
 
   
 | Año|     Mes |  Actividad| 
 | ------|  --------------- | ------------------------| 
 | 2024 |   20 y 21 de mayo    | Webinario| 
-| 2024 |  17 al 28 de julio de       |       Aula invertida 2024| 
-| 2024 |  intermedia 7 al 18 de octubre de            |   Taller intermedio 2024| 
-| 2024 | 25 al 29 de noviembre de     |           Hackaton 2024| 
+| 2024 |  17 al 28 de julio       |       Aula invertida 2024| 
+| 2024 |  7 al 18 de octubre         |   Taller intermedio 2024| 
+| 2024 | 25 al 29 de noviembre   |           Hackaton 2024| 
 | 2025 |  5 al 16 de mayo    |    Aula invertida 2025| 
 | 2025|   06 al 17 de octubre    |         Taller intermedio 2025| 
-| 2025 |  24 al 28 de noviembre de     |           Hackaton 2025| 
+| 2025 |  24 al 28 de noviembre     |           Hackaton 2025| 
 
 
 
