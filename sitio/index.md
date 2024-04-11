@@ -16,7 +16,7 @@ Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) 
 En 2024-2025 y enmarcadas en el proyecto **HACKATONES**, las actividades planeadas son:
 
   
-| Año|     Mes |  Actividad| 
+| Año|     Fechas |  Actividad| 
 | ------|  --------------- | ------------------------| 
 | 2024 |   20 y 21 de mayo    | Webinario| 
 | 2024 |  17 al 28 de julio       |       Aula invertida 2024| 
@@ -37,14 +37,11 @@ En 2024-2025 y enmarcadas en el proyecto **HACKATONES**, las actividades planead
 
 ## Requisitos
 
-Para participar en este hackaton es necesario poder desarrollar código en R o Python, y manejarse en el uso de Jupyter y github. Existe la posibilidad de adquirir estos conocimientos siguiendo el material de estudio individual disponible en el [aula invertida](aulainvertida). 
+Para participar en el hackaton es necesario poder desarrollar código en R o Python, y manejarse en el uso de Jupyter y github. Existe la posibilidad de adquirir estos conocimientos siguiendo el material de estudio individual disponible en el [aula invertida](aulainvertida). 
 
 ## ¿Cómo participar?
 
-- Aula Invertida: esta actividad concluyó el 9 de diciembre, 2022. 
-- Hackatón: El período de postulación cerró el 6 de febrero, 2023. El anuncio anterior se encuentra [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol).
-
-- **Nuevas fechas para aula invertida, curso intermedio y Hackaton en 2024 y 2025 en breve!**
+- **Nuevos anuncios para aula invertida, curso intermedio y Hackaton en 2024 y 2025 en breve!**
 
 ## Certificado
 
