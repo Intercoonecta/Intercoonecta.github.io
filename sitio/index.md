@@ -2,9 +2,14 @@
 
 **Marian Peña, Héctor Villalobos, Denisse Fierro Arcos, Emilio Mayorga, Laura Gómez Navarro, David Correa** 
 
+![image](https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/4483ff3f-fb5f-4fe5-a1a9-87a65cf07bc6)
+
+![image](https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/fd53140a-b0a5-43a4-b7ad-774d6c18faf7)
+
+
 ¿Qué es OHWe? Las Hackweeks son eventos intensivos e interactivos de aprendizaje de ciencia de datos que incluyen tutoriales sobre metodologías avanzadas, aprendizaje entre pares y trabajo colaborativo en proyectos. La iniciativa [OceanHackWeek (OHW)](https://oceanhackweek.org) ha avanzado en este enfoque y ha involucrado a casi 400 participantes de todos los continentes desde 2018 a través de eventos anuales presenciales, virtuales e híbridos. OHW es un enfoque innovador para enseñar habilidades de ciencia de datos dirigidas a apoyar a científicos marinos y administradores de recursos. Después de 4 años de exitosos eventos OHW en inglés, desarrollamos recursos y eventos en español como una iniciativa equitativa, inclusiva y de desarrollo de capacidades que aborda las barreras lingüísticas y culturales. La iniciativa OHW en Español (OHWe) adaptó el modelo bien establecido de OHW para servir a las comunidades de habla hispana a través de eventos virtuales e híbridos gratuitos que convocan a diversos participantes y organizadores de toda América Latina y a hispanohablantes de todo el mundo.
 
-Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es), las primeras actividades tuvieron lugar com parte del proyecto INVIPESCA-FORT en 2022 y 2023:
+Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es), las primeras actividades tuvieron lugar como parte del proyecto INVIPESCA-FORT en 2022 y 2023:
 - Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
 - Hackaton: 27 de febrero a 3 de marzo de 2023
 
@@ -36,7 +41,7 @@ Para participar en este hackaton es necesario poder desarrollar código en R o P
 
 ## ¿Cómo participar?
 
-- Aula Invertida: esta actividad concluyó el 9 de diciembre, 2022. Para mayor información sobre esta actividad y para acceso a los tutoriales y demás materiales, consulta [esta página](aulainvertida).
+- Aula Invertida: esta actividad concluyó el 9 de diciembre, 2022. 
 - Hackatón: El período de postulación cerró el 6 de febrero, 2023. El anuncio anterior se encuentra [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol).
 
 - **Nuevas fechas para aula invertida, curso intermedio y Hackaton en 2024 y 2025 en breve!**
