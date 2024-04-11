@@ -21,6 +21,7 @@ Este hackatón forma parte de la iniciativa del [OceanHackWeek (OHW)](https://oc
 
 - Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
 - Hackaton: 27 de febrero a 3 de marzo de 2023
+- **Nuevas fechas para aula invertida, curso intermedio y Hackaton en 2024 y 2025 en breve!**
 
 
 
@@ -33,7 +34,7 @@ Para participar en este hackaton es necesario poder desarrollar código en R o P
 - Aula Invertida: esta actividad concluyó el 9 de diciembre, 2022. Para mayor información sobre esta actividad y para acceso a los tutoriales y demás materiales, consulta [esta página](aulainvertida).
 - Hackatón: El período de postulación cerró el 6 de febrero, 2023. El anuncio anterior se encuentra [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol).
 
-
+- **Nuevas fechas para aula invertida, curso intermedio y Hackaton en 2024 y 2025 en breve!**
 
 ## Certificado
 
