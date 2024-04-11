@@ -1,10 +1,10 @@
 # Bienvenido/a a Hackatón OceanHackWeek-INTERCOONECTA
 
 **Marian Peña, Héctor Villalobos, Denisse Fierro Arcos, Emilio Mayorga, Laura Gómez Navarro, David Correa** 
-<img src=https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/4483ff3f-fb5f-4fe5-a1a9-87a65cf07bc6 style="width:200px;"/>
-
-<img src=https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/fd53140a-b0a5-43a4-b7ad-774d6c18faf7 style="width:200px;"/>
-
+<p float="left">
+<img src=https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/4483ff3f-fb5f-4fe5-a1a9-87a65cf07bc6 style="width:100px;"/>
+<img src=https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/fd53140a-b0a5-43a4-b7ad-774d6c18faf7 style="width:300px;"/>
+</p>
 
 
 ¿Qué es OHWe? Las Hackweeks son eventos intensivos e interactivos de aprendizaje de ciencia de datos que incluyen tutoriales sobre metodologías avanzadas, aprendizaje entre pares y trabajo colaborativo en proyectos. La iniciativa [OceanHackWeek (OHW)](https://oceanhackweek.org) ha avanzado en este enfoque y ha involucrado a casi 400 participantes de todos los continentes desde 2018 a través de eventos anuales presenciales, virtuales e híbridos. OHW es un enfoque innovador para enseñar habilidades de ciencia de datos dirigidas a apoyar a científicos marinos y administradores de recursos. Después de 4 años de exitosos eventos OHW en inglés, desarrollamos recursos y eventos en español como una iniciativa equitativa, inclusiva y de desarrollo de capacidades que aborda las barreras lingüísticas y culturales. La iniciativa OHW en Español (OHWe) adaptó el modelo bien establecido de OHW para servir a las comunidades de habla hispana a través de eventos virtuales e híbridos gratuitos que convocan a diversos participantes y organizadores de toda América Latina y a hispanohablantes de todo el mundo.
