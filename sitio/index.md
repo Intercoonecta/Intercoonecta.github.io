@@ -17,7 +17,7 @@ En 2024-2025 y enmarcadas en el proyecto **HACKATONES**, las actividades planead
   
 | Año|     Fechas |  Actividad| 
 | ------|  --------------- | ------------------------| 
-| 2024 |   20 y 21 de mayo    | Webinario| 
+| 2024 |   21 y 22 de mayo    | Webinario| 
 | 2024 |  17 al 28 de julio       |       Aula invertida 2024| 
 | 2024 |  7 al 18 de octubre         |   Taller intermedio 2024| 
 | 2024 | 25 al 29 de noviembre   |           Hackaton 2024| 
