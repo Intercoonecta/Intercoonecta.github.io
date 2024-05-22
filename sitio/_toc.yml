@@ -67,4 +67,5 @@ parts:
       title: Biodiversidad marina, R
 - caption: Recursos
   chapters:
+  - file: Datos_en_abiertoLAyC.md
   - file: jupyter_y_python
