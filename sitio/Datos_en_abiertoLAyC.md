@@ -1,4 +1,4 @@
-# Inventario de páginas de datos abiertos para Latinoamerica y El Caribe
+# Datos en abiertos para Latinoamerica y El Caribe
 
 ## Mundiales
 https://globalfishingwatch.org/map
