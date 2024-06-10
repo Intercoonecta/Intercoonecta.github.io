@@ -12,18 +12,18 @@ Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) 
 - Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
 - Hackaton: 27 de febrero a 3 de marzo de 2023
 
-En 2024-2025 y enmarcadas en el proyecto **HACKATONES**, las actividades planeadas son:
+En 2024-2025 y enmarcadas en el proyecto **HACKATONES 2023-2025**, las actividades planeadas son:
 
   
-| Año|     Fechas |  Actividad| 
-| ------|  --------------- | ------------------------| 
-| 2024 |   21 y 22 de mayo    | Webinario| 
-| 2024 |  17 al 28 de julio       |       Aula invertida 2024| 
-| 2024 |  7 al 18 de octubre         |   Taller intermedio 2024| 
-| 2024 | 25 al 29 de noviembre   |           Hackaton 2024| 
-| 2025 |  5 al 16 de mayo    |    Aula invertida 2025| 
-| 2025|   06 al 17 de octubre    |         Taller intermedio 2025| 
-| 2025 |  24 al 28 de noviembre     |           Hackaton 2025| 
+| Año|     Fechas |  Actividad| Estado| 
+| ------|  --------------- | ------------------------| ----------| 
+| 2024 |   21 y 22 de mayo    | Webinario| Acabado| 
+| 2024 |  17 al 28 de julio       |       Aula invertida 2024|[Inscripciones hasta 1 julio](shorturl.at/pEUzh ) | 
+| 2024 |  7 al 18 de octubre         |   Taller intermedio 2024| | 
+| 2024 | 25 al 29 de noviembre   |           Hackaton 2024| | 
+| 2025 |  5 al 16 de mayo    |    Aula invertida 2025| | 
+| 2025|   06 al 17 de octubre    |         Taller intermedio 2025| | 
+| 2025 |  24 al 28 de noviembre     |           Hackaton 2025| | 
 
 
 
