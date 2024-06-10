@@ -1,4 +1,4 @@
-# Primeros pasos para los tutoriales
+# Primeros pasos para el hackaton
 
 ## Introducción
 
