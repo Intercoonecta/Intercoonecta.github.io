@@ -21,7 +21,10 @@ parts:
       title: Jupyter
     - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
       title: Python
-- caption: Tutoriales
+- caption: Curso intermedio
+- file: tutoriales_intermedios
+  title: tutoriales intermedios
+- caption: HACKATON
   chapters:
   - file: primeros-pasos
     title: Primeros pasos
