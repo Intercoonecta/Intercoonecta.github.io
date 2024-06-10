@@ -38,13 +38,7 @@ En 2024-2025 y enmarcadas en el proyecto **HACKATONES 2023-2025**, las actividad
 
 Para participar en el hackaton es necesario poder desarrollar código en R o Python, y manejarse en el uso de Jupyter y github. Existe la posibilidad de adquirir estos conocimientos siguiendo el material de estudio individual disponible en el [aula invertida](aulainvertida). 
 
-## ¿Cómo participar?
 
-- Webinario: inscríbete [aquí](https://encr.pw/o2xv3)
-![image](https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/28396f23-211e-4a12-891e-fb6dc5a3fc04)
-
-  
-- **Nuevos anuncios para aula invertida, curso intermedio y Hackaton en 2024 y 2025 en breve!**
 
 ## Certificado
 
