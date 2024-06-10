@@ -28,6 +28,19 @@ parts:
   chapters:
   - file: primeros-pasos
   - file: tutoriales2024
+    
+- caption: Proyectos
+  chapters:
+  - file: proyectos/index
+    title: Descripción
+  - file: proyectos/proyectos
+    title: Lista de proyectos
+  - file: proyectos/nuevoproyecto
+    title: Sugerir proyectos
+- caption: Otros Tutoriales
+  chapters:
+  - file: tutoriales2023
+    title: OHW 2023 
     sections:
     - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Ciencia_abierta/
       title: Ciencia abierta
@@ -47,18 +60,6 @@ parts:
       title: Acústica - ecosondas, R
     - url: https://github.com/Intercoonecta/tutoriales/tree/main/miercoles/acustica_python/
       title: Acústica - ecosondas, Python
-- caption: Proyectos
-  chapters:
-  - file: proyectos/index
-    title: Descripción
-  - file: proyectos/proyectos
-    title: Lista de proyectos
-  - file: proyectos/nuevoproyecto
-    title: Sugerir proyectos
-- caption: Otros Tutoriales
-  chapters:
-  - file: tutoriales2023
-    title: OHW 2023 
   - file: ohw22-espanol
     title: OHW 2022
     sections:
