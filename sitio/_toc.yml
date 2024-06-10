@@ -29,7 +29,8 @@ parts:
   chapters:
   - file: primeros-pasos
     title: Primeros pasos
-  - file: tutoriales
+  - file: tutoriales2024
+    title:Tutoriales de Hackaton 2024
     sections:
     - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Ciencia_abierta/
       title: Ciencia abierta
@@ -59,9 +60,10 @@ parts:
     title: Sugerir proyectos
 - caption: Otros Tutoriales
   chapters:
-  
+  - file: tutoriales2023
+    title: OHW 2023 
   - file: ohw22-espanol
-    title: OHW 2022 en español
+    title: OHW 2022
     sections:
     - url: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy
       title: Datos espaciales, R
