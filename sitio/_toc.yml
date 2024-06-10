@@ -22,7 +22,7 @@ parts:
     - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
       title: Python
 - caption: Curso intermedio
-- file: tutoriales_intermedios
+- file: tutorialesintermedios
   title: tutoriales intermedios
 - caption: HACKATON
   chapters:
