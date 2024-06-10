@@ -7,7 +7,7 @@ root: index
 parts:
 - caption: 
   chapters:
-  - file: hackaton-que-es
+  
   - file: organizadores
 - caption: Aula invertida
   chapters:
@@ -26,6 +26,7 @@ parts:
   - file: tutorialesintermedios
 - caption: HACKATON
   chapters:
+  - file: hackaton-que-es
   - file: primeros-pasos
   - file: tutoriales2024
     
