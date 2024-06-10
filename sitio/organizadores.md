@@ -12,10 +12,12 @@
 
 - David Correa Chilón (Instituto del Mar del Perú, IMARPE, Perú)
 
-## Mentores de proyectos
-
 - Yeray Santana-Falcón (Centre National de Recherches Météorologiques Francia)
 
 - Claudio Santana (Universidad de Utrecht, Países Bajos)
 
-- Jorge Cornejo-Donoso (Taller y ciencia, Chile)
+- Jorge Cornejo-Donoso (Taller y ciencia, Chile) 
+  
+- Julia Jaca (Centro Oceanográfico de Baleares, Instituto Español de Oceanografía, IEO, CSIC, España)
+
+- Marina Sanz (Centro Oceanográfico de Baleares, Instituto Español de Oceanografía, IEO, CSIC, España)
