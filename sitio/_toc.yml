@@ -24,13 +24,10 @@ parts:
 - caption: Curso intermedio
   chapters:
   - file: tutorialesintermedios
-  title: tutoriales intermedios
 - caption: HACKATON
   chapters:
   - file: primeros-pasos
-    title: Primeros pasos
   - file: tutoriales2024
-    title:Tutoriales de Hackaton 2024
     sections:
     - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Ciencia_abierta/
       title: Ciencia abierta
