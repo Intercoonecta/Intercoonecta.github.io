@@ -21,6 +21,8 @@ parts:
       title: Jupyter
     - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
       title: Python
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md
+      title: Markdown y Rmarkdown
 - caption: Curso intermedio
   chapters:
   - file: tutorialesintermedios
