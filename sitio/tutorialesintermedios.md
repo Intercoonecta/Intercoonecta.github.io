@@ -5,7 +5,8 @@
 - Presentación de la actividad y equipo de tutores
 - Uso de JupyterHub para R y Python (40’+preguntas)
 - R vs Python
-- Foro-debate
+  - Presentación
+  - Foro-debate
 
 ## Dia 17/10/2024 (2.5 horas)
 
