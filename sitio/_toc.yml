@@ -30,7 +30,8 @@ parts:
   chapters:
   - file: hackaton-que-es
   - file: primeros-pasos
-  - file: tutoriales2024
+  - file: ohw2024
+    title: OHW 2024
     
 - caption: Proyectos
   chapters:
@@ -44,7 +45,7 @@ parts:
     title: Sugerir proyectos
 - caption: Otros Tutoriales
   chapters:
-  - file: tutoriales2023
+  - file: ohw2023
     title: OHW 2023 
     sections:
     - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Ciencia_abierta/
