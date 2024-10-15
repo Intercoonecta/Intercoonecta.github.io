@@ -11,7 +11,7 @@
 ## Dia 17/10/2024 (2.5 horas)
 
 - Datos temporales en R (40’+preguntas) [material](https://github.com/Intercoonecta/Talleres_intermedios/tree/main/17%20Octubre%202024/Hector) [video]()
-- Datos espacio-temporales en R (40’+preguntas) [material](https://github.com/Intercoonecta/Talleres_intermedios/tree/main/17%20Octubre%202024/Marina/Me%CC%81tricas%20clima%CC%81ticas) [video]
+- Datos espacio-temporales en R (40’+preguntas) [material](https://github.com/Intercoonecta/Talleres_intermedios/tree/main/17%20Octubre%202024/Marina) [video]
 - Informe Rmarkdown y subida a github (40’+preguntas) [material](https://github.com/Intercoonecta/Talleres_intermedios/tree/main/17%20Octubre%202024/informeRMarkdown) [video]
 
 ## Dia 18/10/2024 (2.5 horas) 
