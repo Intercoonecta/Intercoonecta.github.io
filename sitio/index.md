@@ -1,6 +1,6 @@
 # Bienvenido/a a OceanHackWeek en español <img src=https://github.com/Intercoonecta/Intercoonecta.github.io/assets/1233089/4483ff3f-fb5f-4fe5-a1a9-87a65cf07bc6 style="width:50px;"/>
 
-**Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Charles Troupin, Jorge F. Cornejo-Donoso, Julia Jaca** 
+**Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Charles Troupin, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz** 
 
 
 Colaboradores previos: Denisse Fierro Arcos, David Correa
