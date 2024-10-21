@@ -3,7 +3,7 @@
 ## Dia 15/10/2024 (2 horas)
 
 - Presentación de la actividad y equipo de tutores
-- Uso de JupyterHub para R y Python (40’+preguntas) [material](https://github.com/Intercoonecta/Talleres_intermedios/blob/main/15-Octubre-2024/JupyterHub.md) [video]
+- Uso de JupyterHub para R y Python (40’+preguntas) [material](https://github.com/Intercoonecta/Talleres_intermedios/blob/main/15-Octubre-2024/JupyterHub.md) 
 - R vs Python
   - Presentación
   - Foro-debate
