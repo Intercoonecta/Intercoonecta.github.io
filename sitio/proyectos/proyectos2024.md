@@ -5,3 +5,34 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 -	Cambio climático: este reto incluirá propuestas en torno al análisis del efecto del cambio climático en los ecosistemas y los recurso pesqueros y potenciales herramientas de preservación y protección 
 -	Plásticos marinos: este reto se centrará en analizar la distribución espacial de los plásticos marinos en nuestros océanos, el papel  de las corrientes marinas, y el perjuicio sobre la biodiversidad marina y los recursos pesqueros. 
 - Sensibilización ciudadana: la concienciación ciudadana en materia de recursos pesqueros, medio ambiente, cambio climático etc es primordial. En una época de sobreinformación por redes sociales, la creación de dispositivos online con visualizadores atractivos y de carácter interactivo permitirán al ciudadano obtener información veraz con base científica .
+
+
+## PROYECTO 1
+
+- **Tema:** Pesca
+- **Mentores:** Héctor Villalobos, Marina Sanz
+- **Título:**
+- **breve descripción:** 
+- **Lenguaje:** R. 
+- **Participantes:** 
+- **Repositorio en GitHub:** 
+
+## PROYECTO 2
+
+- **Tema:** Modelado de distribución de plásticos
+- **Mentora:** Laura Gómez
+- **Título:** 
+- **breve descripción:** 
+- **Lenguaje:** Python
+- **Participantes:** 
+- **Repositorio en GitHub:** 
+
+## PROYECTO 3
+
+- **Tema:** Modelado de corrientes
+- **Mentor:** Charles Troupin
+- **Título:** 
+- **breve descripción:** 
+- **Lenguaje:** Python
+- **Participantes:** 
+- **Repositorio en GitHub:** 
