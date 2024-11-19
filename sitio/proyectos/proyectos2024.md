@@ -32,7 +32,7 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **Tema:** Modelado de corrientes y remolinos
 - **Mentor:** [Charles Troupin](https://github.com/ctroupin/)
 - **Título:** 
-- **breve descripción:** análisis de corrientes de la superficie del mar; representación (mapas) de corrientes con [Matplotlib](https://matplotlib.org/); presentación de las plataformas que proporcionan datos de corrientes; detección de remolinos a partir de datos de satélites (altimetría).
+- **breve descripción:** Los remolinos son estructuras oceánicas presentes en todos los océanos. Tienen un papel importante en la mezcla de masas de agua y en el transporte de nutrientes y de propriedades físicas, por ejemplo la temperatura. En este proyecto se pretende analizar la presencia de remolinos en varias zonas geográficas y estudiar una posible evolución temporal gracias a una herramienta de seguimiento de remolino (_eddy tracking_).
 - **Lenguaje:** Python
 - **Participantes:** 
 - **Repositorio en GitHub:** 
