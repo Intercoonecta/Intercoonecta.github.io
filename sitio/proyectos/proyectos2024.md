@@ -19,10 +19,10 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 
 ## PROYECTO 2
 
-- **Tema:** Modelado de distribución de plásticos
-- **Mentora:** Laura Gómez
+- **Tema:** Simulaciones y análisis de contaminación marina
+- **Mentora:** Laura Gómez Navaro
 - **Título:** 
-- **breve descripción:** 
+- **breve descripción:** La contaminación marina implica tanto contaminación marina por plásticos, petróleo u otros como _Sargassum_, un alga que llega en cantidades excesivas en algunas costas tropicales. Una herramienta que podemos usar son las simulaciones Lagrangianas para generar estimaciones de las trayectorias de los diferentes tipos de contaminación marina.  El análisis de estas no puede ayudar de entender su origen, destino y a identificar las diferentes zonas de acumulación.
 - **Lenguaje:** Python
 - **Participantes:** 
 - **Repositorio en GitHub:** 
