@@ -37,10 +37,10 @@ parts:
   chapters:
   - file: proyectos/index
     title: Descripción
-  - file: proyectos/proyectos2023
-    title: Lista de proyectos 2023
   - file: proyectos/proyectos2024
     title: Lista de proyectos 2024
+  - file: proyectos/proyectos2023
+    title: Lista de proyectos 2023
   - file: proyectos/nuevoproyecto
     title: Sugerir proyectos
 - caption: Otros Tutoriales
