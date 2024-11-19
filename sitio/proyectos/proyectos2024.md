@@ -29,10 +29,10 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 
 ## PROYECTO 3
 
-- **Tema:** Modelado de corrientes
-- **Mentor:** Charles Troupin
+- **Tema:** Modelado de corrientes y remolinos
+- **Mentor:** [Charles Troupin](https://github.com/ctroupin/)
 - **Título:** 
-- **breve descripción:** 
+- **breve descripción:** análisis de corrientes de la superficie del mar; representación (mapas) de corrientes con [Matplotlib](https://matplotlib.org/); presentación de las plataformas que proporcionan datos de corrientes; detección de remolinos a partir de datos de satélites (altimetría).
 - **Lenguaje:** Python
 - **Participantes:** 
 - **Repositorio en GitHub:** 
