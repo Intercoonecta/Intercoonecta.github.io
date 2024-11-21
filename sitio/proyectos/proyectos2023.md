@@ -1,5 +1,7 @@
 # Proyectos 2023
 
+Los temas principales de los tutoriales serán el tratamiento de datos espaciales y temporales, y el procesado de datos acústicos submarinos. Los participantes en el hackaton podrán diseñar sus propios proyectos, asesorados por los tutores, pero dispondrán así mismo de una lista de ideas en las que trabajar. Los proyectos podrán estar incluídos dentro de tres temáticas: OCEANOGRAFÍA, DATOS PESQUEROS, ACÚSTICA PESQUERA. Los participantes harán una presentación de sus proyectos el último día del hackaton.
+
 A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puedes unirte a una de estas propuestas o [sugerir una nueva aquí](nuevoproyecto.md).
 
 
