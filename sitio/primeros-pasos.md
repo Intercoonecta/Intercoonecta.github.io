@@ -31,13 +31,13 @@ El enlace `nbgitpuller` es mágico, pero no puede detectar qué perfil está eje
 
 :::{tab-item} Python
 
-[Haga pull del repositorio de los tutoriales para el perfil de Python](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2Ftutoriales&urlpath=lab%2Ftree%2Ftutoriales)
+[Haga pull del repositorio de los tutoriales para el perfil de Python](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2FtutorialesOHW2024&urlpath=lab%2Ftree%2FtutorialesOHW2024)
 
 :::
 
 :::{tab-item} R
 
-[Haga pull del repositorio de los tutoriales para el perfil de R](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2Ftutoriales&urlpath=rstudio)
+[Haga pull del repositorio de los tutoriales para el perfil de R](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2FtutorialesOHW2024&urlpath=rstudio)
 
 :::
 
