@@ -6,13 +6,18 @@
 
 [Jupyter](https://es.wikipedia.org/wiki/Proyecto_Jupyter) es un ecosistema abierto (*open source*) de computación desarrollado por el [Proyecto Jupyter](https://jupyter.org/) que incluye herramientas para el desarrollo, intercambio y presentación interactiva de código y proyectos de análisis de datos, con apoyo para una gran cantidad de lenguajes de programación (su nombre se deriva de los lenguajes de código abierto Julia, Python y R).
 
+### Más información, instrucciones y tutoriales sobre Jupyter
+
+Consulta [nuestro tutorial sobre Jupyter del programa "Aula Invertida"](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/Jupyter.md). Este tutorial incluye una reseña del uso de cuadernos Jupyter, [**instrucciones para cambiar el interfaz de JupyterLab al español**](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/jupyter-tutorial.md#cambiar-el-interfaz-al-espa%C3%B1ol), e instrucciones para instalar JupyterLab en tu computadora.
+
+```{admonition} Presiona aquí para leer más sobre el "ecosistema" de Jupyter
+:class: dropdown
+
 El ecosistema del Proyecto Jupyter está compuesto de tres elementos (ver [*"2.2 But first, what is Jupyter Notebook?"*](https://jupyter4edu.github.io/jupyter-edu-book/why-we-use-jupyter-notebooks.html#but-first-what-is-jupyter-notebook)): una colección de estándares, una comunidad y una serie de herramientas de software. [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) es una aplicación para crear, manejar y correr cuadernos (*notebooks*) Jupyter. Un [cuaderno Jupyter](https://es.wikipedia.org/wiki/Proyecto_Jupyter#Jupyter_Notebook) es un documento que permite mezclar código ejecutable, ecuaciones, visualizaciones y texto narrativo formateado. Un cuaderno puede combinar en un sólo documento el código, los datos que utiliza y sus resultados, incluyendo explicaciones, gráficas y contenido multimedia, de tal modo que pueda ser compartido ampliamente y corrido por otros con relativa facilidad. El cuaderno permite la creación de narrativas computacionales interactivas y reproducibles.
 
 El ecosistema Jupyter utiliza tecnología web que permite correr las aplicaciones en un navegador (*browser*) web con las computaciones ya sea en tu propia computadora ("local") o a través de servicios o servidores remotos, incluyendo en la nube. Los cuadernos Jupyter y el ecosistema Jupyter hoy en día gozan de una gran popularidad en aplicaciones de ciencias de datos y aplicaciones científicas en general, especialmente con el lenguaje Python.
 
-### Más información sobre Jupyter
-
-Para mayor información, consulta [nuestro tutorial sobre Jupyter del programa "Aula Invertida"](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/Jupyter.md). Este tutorial incluye una reseña del uso de cuadernos Jupyter, [**instrucciones para cambiar el interfaz de JupyterLab al español**](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/jupyter-tutorial.md#cambiar-el-interfaz-al-espa%C3%B1ol), e instrucciones para instalar JupyterLab en tu computadora.
+```
 
 ## Entorno computacional compartido, en la nube
 
@@ -116,10 +121,10 @@ Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales par
 
 Puedes obtener el mismo resultado que `nbgitpuller` utilizando `git` directamente, pero puede requerir una combinación complicada de `git add`, `git stash`, `git pull`, y `git stash apply` para retener tus cambios junto con los cambios hechos en el repositorio fuente.
 
-**¡Atención!**. Si comienzas utilizando el enlace de `nbgitpuller` y luego tratas de cambiar al uso de `git` directamente, cuando trates de usar el enlace de `nbgitpuller` de nuevo es muy probable que te encuentres con [resultados impredecibles (enlace en inglés)](https://jupyterhub.github.io/nbgitpuller/#when-to-use-nbgitpuller). Esto puede ser corregido borrando, moviendo o cambiando el nombre del directory de los tutoriales y utilizando `nbgitpuller` de nuevo.
+**¡Atención!** Si comienzas utilizando el enlace de `nbgitpuller` y luego tratas de cambiar al uso de `git` directamente, cuando trates de usar el enlace de `nbgitpuller` de nuevo es muy probable que te encuentres con [resultados impredecibles (enlace en inglés)](https://jupyterhub.github.io/nbgitpuller/#when-to-use-nbgitpuller). Esto puede ser corregido borrando, moviendo o cambiando el nombre del directory de los tutoriales y utilizando `nbgitpuller` de nuevo.
 
 
-## Cierra tu sesión en el Hub cada día. ¿Perderé todo mi trabajo?
+## Cierra tu sesión en el Hub cada día. ¿Perderás todo tu trabajo?
 
 **Es muy importante cerrar la sesión en el Hub cuando termines de usarla por el día o por un período prolongado.** Esto nos ayuda a reducir el costo de la infraestructura en la nube.
 
