@@ -7,7 +7,6 @@ root: index
 parts:
 - caption: 
   chapters:
-  
   - file: organizadores
 - caption: Aula invertida
   chapters:
@@ -30,6 +29,9 @@ parts:
   chapters:
   - file: hackaton-que-es
   - file: primeros-pasos
+    title: Primeros pasos
+  - file: JupyterHub
+    title: JupyterHub
   - file: ohw2024
     title: OHW 2024
     
