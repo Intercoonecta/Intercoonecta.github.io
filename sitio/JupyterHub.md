@@ -1,7 +1,5 @@
 # JupyterHub: Acceso a JupyterLab y RStudio en la nube
 
-*Gran parte del material abordado en este documento fue discutido y demostrado en vivo en nuestro evento de *OceanHackWeek en español* en marzo 2023. Puedes ver el video de 18 minutos [en YouTube en este enlace.](https://youtu.be/DJV7gOUVGDc?list=PLVH-j9gOscWnloDj-gidvtHV-5xeqr3BL&t=65)*
-
 ## ¿Qué es Jupyter?
 
 [Jupyter](https://es.wikipedia.org/wiki/Proyecto_Jupyter) es un ecosistema abierto (*open source*) de computación desarrollado por el [Proyecto Jupyter](https://jupyter.org/) que incluye herramientas para el desarrollo, intercambio y presentación interactiva de código y proyectos de análisis de datos, con apoyo para una gran cantidad de lenguajes de programación (su nombre se deriva de los lenguajes de código abierto Julia, Python y R).
@@ -9,6 +7,8 @@
 ### Más información, instrucciones y tutoriales sobre Jupyter
 
 Consulta [nuestro tutorial sobre Jupyter del programa "Aula Invertida"](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/Jupyter.md). Este tutorial incluye una reseña del uso de cuadernos Jupyter, [**instrucciones para cambiar el interfaz de JupyterLab al español**](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/jupyter-tutorial.md#cambiar-el-interfaz-al-espa%C3%B1ol), e instrucciones para instalar JupyterLab en tu computadora.
+
+[Aquí puedes acceder a un video en YouTube grabado durante el "Taller Intermedio"](https://youtu.be/SP3SnrQ2HTY?feature=shared&t=818), cuando cubrimos el tutorial de JupyterHub -- el material abarcado en esta página.
 
 ```{admonition} Presiona aquí para leer más sobre el "ecosistema" de Jupyter
 :class: dropdown
@@ -128,7 +128,11 @@ Puedes obtener el mismo resultado que `nbgitpuller` utilizando `git` directament
 
 **Es muy importante cerrar la sesión en el Hub cuando termines de usarla por el día o por un período prolongado.** Esto nos ayuda a reducir el costo de la infraestructura en la nube.
 
-### Si estás usando JupyterLab (Python)
+```{admonition} Presiona la pestaña correspondiente a la sesión (entorno) que estás usando actualmente
+
+::::{tab-set}
+
+:::{tab-item} Python / JupyterLab
 
 Accede al menú `Archivo > Panel de Control`:
 
@@ -140,9 +144,20 @@ luego presiona el botón `Stop My Server` y el enlace `logout` arriba a la derec
 
 El menú `Archivo > Cerrar sesión` en realidad no cierra la sesión del Hub, así que por favor sigue estos pasos.
 
-### Si estás usando RStudio (R)
+:::
 
-Los menús `File > Log out` y `File > Quit session` en realidad no hacen nada! Presiona el enlace https://oceanhackweek.2i2c.cloud/hub/home, y luego presiona el botón `Stop My Server` y el enlace `logout` arriba a la derecha, como mencionamos arriba.
+:::{tab-item} R / RStudio
+
+Los menús `File > Log out` y `File > Quit session` en realidad no hacen nada! Presiona el enlace https://oceanhackweek.2i2c.cloud/hub/home, y luego presiona el botón `Stop My Server` y el enlace `logout` arriba a la derecha, como mencionamos en las instrtucciones de Python.
+
+![hub shut down step 2](/imagenes/jupyterhub/ohwe24-shutdownhub-step2.png)
+
+:::
+
+::::
+
+```
+
 
 ### No perderás tu trabajo
 
