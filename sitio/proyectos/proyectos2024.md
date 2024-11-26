@@ -15,7 +15,7 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **breve descripción:** 
 - **Lenguaje:** R. 
 - **Participantes:** 
-- **Repositorio en GitHub:** 
+- **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe24-proy1-pesca
 
 ## PROYECTO 2
 
@@ -25,7 +25,7 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **breve descripción:** La contaminación marina implica tanto contaminación marina por plásticos, petróleo u otros como _Sargassum_, un alga que llega en cantidades excesivas en algunas costas tropicales. Una herramienta que podemos usar son las simulaciones Lagrangianas para generar estimaciones de las trayectorias de los diferentes tipos de contaminación marina.  El análisis de estas no puede ayudar de entender su origen, destino y a identificar las diferentes zonas de acumulación.
 - **Lenguaje:** Python
 - **Participantes:** 
-- **Repositorio en GitHub:** 
+- **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe24-proy2-plasticos
 
 ## PROYECTO 3
 
@@ -35,4 +35,4 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **breve descripción:** Los remolinos son estructuras oceánicas presentes en todos los océanos. Tienen un papel importante en la mezcla de masas de agua y en el transporte de nutrientes y de propriedades físicas, por ejemplo la temperatura. En este proyecto se pretende analizar la presencia de remolinos en varias zonas geográficas y estudiar una posible evolución temporal gracias a una herramienta de seguimiento de remolino (_eddy tracking_).
 - **Lenguaje:** Python
 - **Participantes:** 
-- **Repositorio en GitHub:** 
+- **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe24-proy3-corrientes-remolinos
