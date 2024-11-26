@@ -13,7 +13,7 @@ A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puede
 - **Lenguaje:** R, Python o con una combinación de ambos lenguajes. 
 - **Horario:** Disponible de 15:00-17:00 Trabajo en grupo Proyectos B
 - **Participantes:** Nicolas Restrepo, María Eugenia López, Milagros Castillo, Aura Buenfil, Greta Jankauskaite
-- **Repositorio en GitHub:** [https://github.com/Intercoonecta/proy1-graficando-datos-oceano](https://github.com/Intercoonecta/proy1-graficando-datos-oceano)
+- **Repositorio en GitHub:** [https://github.com/Intercoonecta/ohwe23-proy1-graficando-datos-oceano](https://github.com/Intercoonecta/ohwe23-proy1-graficando-datos-oceano)
 
 ## PROYECTO 2
 
@@ -23,7 +23,7 @@ A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puede
 - **Lenguaje:** Python
 - **Horario:** Disponible 11:00-13:00 Trabajo en grupo Proyectos A
 - **Participantes:** Darling Hermosilla Carazo
-- **Repositorio en GitHub:** [https://github.com/Intercoonecta/proy2-datos-SWOT](https://github.com/Intercoonecta/proy2-datos-SWOT)
+- **Repositorio en GitHub:** [https://github.com/Intercoonecta/ohwe23-proy2-datos-SWOT](https://github.com/Intercoonecta/ohwe23-proy2-datos-SWOT)
 
 ## PROYECTO 3
 
@@ -33,7 +33,7 @@ A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puede
 - **Lenguaje:** R: Echogram; Python: echopype, echopy
 - **Horario:** Disponible durante proyectos A y B. 11:00-13:00 Trabajo en grupo Proyectos A 15:00-17:00 Trabajo en grupo Proyectos B
 - **Participantes:** Ruben Alarcón Muñoz, Jorge Cornejo-Donoso (también mentor), Uriel Rubio Rodriguez, Ary Suby
-- **Repositorio en GitHub:** [https://github.com/Intercoonecta/proy3-acustica](https://github.com/Intercoonecta/proy3-acustica)
+- **Repositorio en GitHub:** [https://github.com/Intercoonecta/ohwe23-proy3-acustica](https://github.com/Intercoonecta/ohwe23-proy3-acustica)
 
 ## PROYECTO 4
 
@@ -43,7 +43,7 @@ A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puede
 - **Lenguaje:**  Python
 - **Horario:** Disponible 11:00-13:00 Trabajo en grupo Proyectos A
 - **Participantes:** Andrés Suárez Rojas
-- **Repositorio en GitHub:** [https://github.com/Intercoonecta/proy4-seguimiento-masas-agua](https://github.com/Intercoonecta/proy4-seguimiento-masas-agua)
+- **Repositorio en GitHub:** [https://github.com/Intercoonecta/ohwe23-proy4-seguimiento-masas-agua](https://github.com/Intercoonecta/ohwe23-proy4-seguimiento-masas-agua)
 
 ## PROYECTO 5
 
@@ -53,7 +53,7 @@ A continuación os presentamos nuestras propuestas para el Hackatón 2023. Puede
 - **Lenguaje:** Python principalmente, pero algunos también pueden trabajar en R
 - **Horario:** Disponible 15:00-17:00 Trabajo en grupo Proyectos B
 - **Participantes:** Judith Camps, Cotsi Pacheco, Jesica Paz, Ruth Vásquez
-- **Repositorio en GitHub:** [https://github.com/Intercoonecta/proy5-regiones-comparacion](https://github.com/Intercoonecta/proy5-regiones-comparacion)
+- **Repositorio en GitHub:** [https://github.com/Intercoonecta/ohwe23-proy5-regiones-comparacion](https://github.com/Intercoonecta/ohwe23-proy5-regiones-comparacion)
 
 ## PROYECTO 6
 
@@ -64,4 +64,4 @@ LA VARIABILIDAD INTRAESTACIONAL: se refiere a cambios en el sistema  acoplado oc
 - **Lenguaje:** Python 
 - **Horario:**  Disponible durante proyectos A y B. 11:00-13:00 Trabajo en grupo Proyectos A 15:00-17:00 Trabajo en grupo Proyectos B
 - **Participantes:** Octavio Farias, Yeray Santana-Falcón (también mentor)
-- **Repositorio en GitHub:** [https://github.com/Intercoonecta/proy6-umbrales-variables](https://github.com/Intercoonecta/proy6-umbrales-variables)
+- **Repositorio en GitHub:** [https://github.com/Intercoonecta/ohwe23-proy6-umbrales-variables](https://github.com/Intercoonecta/ohwe23-proy6-umbrales-variables)
