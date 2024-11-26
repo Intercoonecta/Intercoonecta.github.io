@@ -5,7 +5,7 @@ Introducción al uso de software de código abierto aplicado al análisis de dat
 **Autores**:
 Marian Peña, Héctor Villalobos, Alma Carolina Castillo Trujillo, Denisse Fierro Arcos, Emilio Mayorga
 
-Tutoriales de iniciación en lenguajes de programación open source, Python y R; el entorno de trabajo Jupyter; y el trabajo colaborativo con control de cambios con git/github.
+Tutoriales de iniciación en lenguajes de programación open source, Python y R; el entorno de trabajo Jupyter; markdown y Rmarkdown; y el trabajo colaborativo con control de cambios con git/github.
 
 **Los tutoriales y materiales se encuentran en [este sitio](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)**
 
