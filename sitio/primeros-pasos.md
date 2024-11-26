@@ -37,7 +37,7 @@ El enlace `nbgitpuller` es mágico, pero no puede detectar cual entorno (Python 
 
 :::{tab-item} R
 
-[Haga pull del repositorio de los  para el entorno de R](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2FtutorialesOHW2024&urlpath=rstudio)
+[Haga pull del repositorio de los tutoriales para el entorno de R](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2FtutorialesOHW2024&urlpath=rstudio)
 
 :::
 
