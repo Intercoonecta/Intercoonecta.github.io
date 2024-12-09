@@ -51,8 +51,7 @@ Los asistentes que participen en un 90% de las actividades de la semana recibirÃ
 
 <p>
 
-![instituciones](https://github.com/user-attachments/assets/77914868-0dcf-44c8-853f-31f53e0b60cf)
-
+![instituciones2024](https://github.com/user-attachments/assets/7e9c4e0a-817b-47a9-b7fc-784ebbfa0f80)
 
 
 
