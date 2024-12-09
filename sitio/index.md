@@ -51,10 +51,11 @@ Los asistentes que participen en un 90% de las actividades de la semana recibirÃ
 
 <p>
 
-![instituciones2024](https://github.com/user-attachments/assets/7e9c4e0a-817b-47a9-b7fc-784ebbfa0f80)
+
+![instituciones2024](https://github.com/user-attachments/assets/cc1f3c8e-0796-46a3-9344-a271563d2859)
 
 
 
-<img     style="float: right;" src="https://user-images.githubusercontent.com/1233089/196215480-6d175c9b-2291-4627-832f-56c76e9b5ff5.png" width="800" height="100">
+<img     style="float: right;" src="https://user-images.githubusercontent.com/1233089/196215480-6d175c9b-2291-4627-832f-56c76e9b5ff5.png" width="600" height="50">
 </p>
 <a href="https://info.flagcounter.com/2Ay8"><img src="https://s01.flagcounter.com/countxl/2Ay8/bg_DBFDFF/txt_000000/border_CCCCCC/columns_5/maxflags_90/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
