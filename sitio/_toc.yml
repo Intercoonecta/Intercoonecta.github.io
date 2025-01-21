@@ -10,6 +10,7 @@ parts:
   - file: organizadores
 - caption: Aula invertida
   chapters:
+  - file: aulainvertida2025
   - file: aulainvertida
     sections:
     - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
@@ -24,7 +25,8 @@ parts:
       title: Markdown y Rmarkdown
 - caption: Curso intermedio
   chapters:
-  - file: tutorialesintermedios
+  - file: tutorialesintermedios2025
+    title: tutoriales intermedios 2025
 - caption: HACKATON
   chapters:
   - file: hackaton-que-es
@@ -32,8 +34,8 @@ parts:
     title: Primeros pasos
   - file: JupyterHub
     title: JupyterHub
-  - file: ohw2024
-    title: OHW 2024
+  - file: ohw2025
+    title: OHW 2025
     
 - caption: Proyectos
   chapters:
@@ -47,6 +49,10 @@ parts:
     title: Sugerir proyectos
 - caption: Otros Tutoriales
   chapters:
+  - file: ohw2024
+    title: OHW 2024
+  - file: tutorialesintermedios2024
+    title: tutoriales intermedios 2024
   - file: ohw2023
     title: OHW 2023 
     sections:
