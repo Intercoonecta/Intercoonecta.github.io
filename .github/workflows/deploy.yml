@@ -27,7 +27,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        python-version: [3.8]
+        python-version: [3.10]
     
     steps:
     - uses: actions/checkout@v2
@@ -47,7 +47,7 @@ jobs:
         jupyter-book build sitio
         
     - name: Create deployment artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v4
       with:
         path: sitio/_build/html
 
@@ -61,4 +61,4 @@ jobs:
     steps:
       - name: Deploy to Github Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
