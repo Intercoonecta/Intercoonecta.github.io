@@ -4,8 +4,9 @@ Los proyectos colaborativos son un componente clave del hackatón, en los que pu
 
 ## Proyectos en el hackatón
 
-* [Lista de proyectos en el Hackatón 2023](proyectos)
 * [Guía y plantilla para proponer un nuevo proyecto](nuevoproyecto)
+* [Lista de proyectos en el Hackatón 2024](proyectos2024)
+* [Lista de proyectos en el Hackatón 2023](proyectos2023)
 
 ## ¿Qué es un proyecto de hackatón?
 
