@@ -1,13 +1,13 @@
 # Aula Invertida 2025
 
-# Fechas: 5 al 16 de mayo
+**Fechas: 5 al 16 de mayo**
 
-# Desarrollo del curso 
-Clases síncronas de tipo práctico (estudiantes van repitiendo los pasos del tutor) durante la primera semana sin asumir conocimientos previos
-Segunda semana: trabajo individual con el material proporcionado (lectura y visionado de vídeos) 
-Evaluación: los participantes deben de crear un repositorio en github de acceso público y subir los scripts de R y Python utilizados durante las sesiones síncronas 
+**Desarrollo del curso** 
+- Clases síncronas de tipo práctico (estudiantes van repitiendo los pasos del tutor) durante la primera semana sin asumir conocimientos previos
+- Segunda semana: trabajo individual con el material proporcionado (lectura y visionado de vídeos) 
+- Evaluación: los participantes deben de crear un repositorio en github de acceso público y subir los scripts de R y Python utilizados durante las sesiones síncronas 
 
-# Sesiones síncronas
+**Sesiones síncronas**
 
 ## Día 5/05/2025
 - Bienvenida y presentación actividades
