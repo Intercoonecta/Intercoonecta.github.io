@@ -11,6 +11,7 @@ parts:
 - caption: Aula invertida
   chapters:
   - file: aulainvertida2025
+    title: Aula invertida Edición 2025
   - file: aulainvertida
     sections:
     - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
