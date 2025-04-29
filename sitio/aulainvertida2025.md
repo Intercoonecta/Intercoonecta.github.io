@@ -14,13 +14,13 @@
 - Instalación de conda y paquetes de Python ([guía](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md))
 
 ## Día 7/05/2025
-**Requisito: instalación de [GIT](https://git-scm.com/downloads)**
+**Requisito: instalación de [GIT](https://git-scm.com/downloads)**  
 Clase práctica de Python y GIT
 - uso básico de GIT 
 - Uso básico de Jupyter y Python
 
 
 ## Día 9/05/2025
-**Requisito: instalación de [R+Rstudio en ese orden]([https://git-scm.com/downloads](https://posit.co/download/rstudio-desktop/))**
+**Requisito: instalación de [R+Rstudio en ese orden]([https://git-scm.com/downloads](https://posit.co/download/rstudio-desktop/))**  
 - Introducción al software Rstudio
 - Clase práctica de R desde cero
