@@ -3,22 +3,24 @@
 **Fechas: 5 al 16 de mayo**
 
 **Desarrollo del curso** 
-- Clases síncronas de tipo práctico (estudiantes van repitiendo los pasos del tutor) durante la primera semana sin asumir conocimientos previos
-- Segunda semana: trabajo individual con el material proporcionado (lectura y visionado de vídeos) 
+- Primera semana: Clases síncronas de tipo práctico (estudiantes van repitiendo los pasos del tutor) sin asumir conocimientos previos
+- Segunda semana: trabajo individual con el [material proporcionado](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md) (lectura y visionado de vídeos) 
 - Evaluación: los participantes deben de crear un repositorio en github de acceso público y subir los scripts de R y Python utilizados durante las sesiones síncronas 
 
 **Sesiones síncronas**
 
 ## Día 5/05/2025
 - Bienvenida y presentación actividades
-- Instalación de conda y paquetes de Python
+- Instalación de conda y paquetes de Python ([guía](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md))
 
 ## Día 7/05/2025
+**Requisito: instalación de [GIT](https://git-scm.com/downloads)**
 Clase práctica de Python y GIT
-- instalación de GIT y uso básico
+- uso básico de GIT 
 - Uso básico de Jupyter y Python
 
 
 ## Día 9/05/2025
+**Requisito: instalación de [R+Rstudio en ese orden]([https://git-scm.com/downloads](https://posit.co/download/rstudio-desktop/))**
 - Introducción al software Rstudio
 - Clase práctica de R desde cero
