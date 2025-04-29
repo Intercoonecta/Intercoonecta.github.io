@@ -21,6 +21,6 @@ Clase práctica de Python y GIT
 
 
 ## Día 9/05/2025
-**Requisito: instalación de [R+Rstudio en ese orden]([https://git-scm.com/downloads](https://posit.co/download/rstudio-desktop/))**  
+**Requisito: instalación de [R+Rstudio (en ese orden)](https://posit.co/download/rstudio-desktop/)**  
 - Introducción al software Rstudio
 - Clase práctica de R desde cero
