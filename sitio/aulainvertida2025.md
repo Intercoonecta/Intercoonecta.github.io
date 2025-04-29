@@ -3,7 +3,7 @@
 **Fechas: 5 al 16 de mayo**
 
 **Desarrollo del curso** 
-- Primera semana: Clases síncronas de tipo práctico (estudiantes van repitiendo los pasos del tutor) sin asumir conocimientos previos. Duración de cada sesión de estre 2 y 3 horas.
+- Primera semana: Clases síncronas de tipo práctico (estudiantes van repitiendo los pasos del tutor) sin asumir conocimientos previos. Duración de cada sesión de entre 2 y 3 horas.
 - Segunda semana: trabajo individual con el [material proporcionado](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md) (lectura y visionado de vídeos) 
 - Evaluación: los participantes deben de crear un repositorio en github de acceso público y subir los scripts de R y Python utilizados durante las sesiones síncronas 
 
