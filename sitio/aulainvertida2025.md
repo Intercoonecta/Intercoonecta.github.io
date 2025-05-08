@@ -12,7 +12,7 @@
 ## Día 5/05/2025  [Grabación](https://www.youtube.com/watch?v=gMHIRtLui2Y&t=4253s)
 (8:00 am en Guatemala. [Mira la hora en tu zona](https://arewemeetingyet.com/Guatemala/2025-05-05/08:00/Sesi%C3%B3n%20s%C3%ADncrona))
 - Bienvenida y presentación actividades
-- Instalación de conda y paquetes de Python ([guía](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md) y [video de sesión](https://www.youtube.com/watch?v=gMHIRtLui2Y&t=1123s))
+- Instalación de conda y paquetes de Python ([guía](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md))
 
 ## Día 7/05/2025  
 (8:00 am en Guatemala. [Mira la hora en tu zona](https://arewemeetingyet.com/Guatemala/2025-05-05/08:00/Sesi%C3%B3n%20s%C3%ADncrona))  
