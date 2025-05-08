@@ -14,7 +14,7 @@
 - Bienvenida y presentación actividades
 - Instalación de conda y paquetes de Python ([guía](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md))
 
-## Día 7/05/2025  
+## Día 7/05/2025  [Grabación](https://youtu.be/CKTHnIuWXC4?si=BzuFBbIcnOHF6Hwv)
 (8:00 am en Guatemala. [Mira la hora en tu zona](https://arewemeetingyet.com/Guatemala/2025-05-05/08:00/Sesi%C3%B3n%20s%C3%ADncrona))  
 **Requisito: instalación de [GIT](https://git-scm.com/downloads) y abrir una [cuenta en github](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github)**  
 Clase práctica de Python y GIT
