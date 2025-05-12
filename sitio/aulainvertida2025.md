@@ -22,7 +22,7 @@ Clase práctica de Python y GIT
 - Uso básico de Jupyter y Python
 
 
-## Día 9/05/2025  
+## Día 9/05/2025  [Grabación](https://www.youtube.com/watch?v=op9cUUmC1TQ)  
 (8:00 am en Guatemala. [Mira la hora en tu zona](https://arewemeetingyet.com/Guatemala/2025-05-05/08:00/Sesi%C3%B3n%20s%C3%ADncrona))  
 **Requisito: instalación de [R+Rstudio (en ese orden)](https://posit.co/download/rstudio-desktop/)**  
 - Introducción a R
