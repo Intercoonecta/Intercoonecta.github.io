@@ -1,4 +1,5 @@
 # Tutoriales intermedios 2025
+## 06 al 17 de octubre
 
 Programa preliminar
 
