@@ -9,3 +9,8 @@ Programa preliminar
 | 13<br><br>**Python**<br><br>**Sesión de dudas Python**<br><br>Julia | 14<br><br>**R**<br><br>**Sesión de dudas R**<br><br>Jorge | 15<br><br>TRABAJO | 16<br><br>AUTÓNOMO | 17<br><br>(Evaluación) |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
