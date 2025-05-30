@@ -1,6 +1,8 @@
 # Tutoriales intermedios 2025
 ## 06 al 17 de octubre
 
+Todas las sesiones comienzan a las 8:00 am en Guatemala. [Mira la hora en tu zona](https://arewemeetingyet.com/Guatemala/2025-05-05/08:00/Sesi%C3%B3n%20s%C3%ADncrona). Las sesiones síncronas tienen una duración entre 2 y 3 h.
+
 Programa preliminar
 
 | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
