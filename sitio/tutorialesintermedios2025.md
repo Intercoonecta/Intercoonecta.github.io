@@ -12,3 +12,5 @@ Programa preliminar
 | 13<br><br><code style="color : darkorange"># **R**</code> <br><br>**Sesión de dudas R**<br><br>Jorge | 14<br><br><code style="color : darkorange"># **Python**</code> <br><br>**Sesión de dudas Python**<br><br>Julia | 15<br><br>TRABAJO | 16<br><br>AUTÓNOMO | 17<br><br>(Evaluación) |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 
+Evaluación: Elegir R o Python y crear un plot espacial y otro temporal con algo de texto,
+guardarlo en un informe y subirlo al repositorio personal.
