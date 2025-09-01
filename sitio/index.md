@@ -57,6 +57,6 @@ Los asistentes que participen en un 90% de las actividades de la semana recibirÃ
 
 <img width="3308" height="1040" alt="H_Aecid_Conocimiento_RGB_Conocimiento_Antigua_Color" src="https://github.com/user-attachments/assets/710f2938-4476-4375-a1c7-3e5d8dcb68f0" />
 
-<img     style="float: right;" src="https://user-images.githubusercontent.com/1233089/196215480-6d175c9b-2291-4627-832f-56c76e9b5ff5.png" width="600" height="50">
+
 </p>
 <a href="https://info.flagcounter.com/2Ay8"><img src="https://s01.flagcounter.com/countxl/2Ay8/bg_DBFDFF/txt_000000/border_CCCCCC/columns_5/maxflags_90/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
