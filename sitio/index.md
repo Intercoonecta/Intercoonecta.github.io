@@ -55,7 +55,7 @@ Los asistentes que participen en un 90% de las actividades de la semana recibirÃ
 ![instituciones2024](https://github.com/user-attachments/assets/cc1f3c8e-0796-46a3-9344-a271563d2859)
 
 
-<img width="3308" height="1040" alt="H_Aecid_Conocimiento_RGB_Conocimiento_Antigua_Color" src="https://github.com/user-attachments/assets/710f2938-4476-4375-a1c7-3e5d8dcb68f0" />
+<img width="3000" height="500" alt="H_Aecid_Conocimiento_RGB_Conocimiento_Antigua_Color" src="https://github.com/user-attachments/assets/710f2938-4476-4375-a1c7-3e5d8dcb68f0" />
 
 
 </p>
