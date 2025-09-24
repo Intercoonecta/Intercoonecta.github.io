@@ -8,6 +8,8 @@ parts:
 - caption: 
   chapters:
   - file: organizadores
+  - file: JupyterHub
+    title: JupyterHub
 - caption: Aula invertida
   chapters:
   - file: aulainvertida2025
@@ -26,15 +28,15 @@ parts:
       title: Markdown y Rmarkdown
 - caption: Curso intermedio
   chapters:
+  - file: primeros-pasos-taller-intermed
+    title: Primeros pasos
   - file: tutorialesintermedios2025
     title: Tutoriales intermedios 2025
-- caption: HACKATON
+- caption: Hackatón
   chapters:
   - file: hackaton-que-es
-  - file: primeros-pasos
+  - file: primeros-pasos-hackaton
     title: Primeros pasos
-  - file: JupyterHub
-    title: JupyterHub
   - file: ohw2025
     title: OHWe 2025
 - caption: Proyectos

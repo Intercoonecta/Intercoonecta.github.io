@@ -13,7 +13,7 @@ Consulta [nuestro tutorial sobre Jupyter del programa "Aula Invertida"](https://
 ```{admonition} Presiona aquí para leer más sobre el "ecosistema" de Jupyter
 :class: dropdown
 
-El ecosistema del Proyecto Jupyter está compuesto de tres elementos (ver [*"2.2 But first, what is Jupyter Notebook?"*](https://jupyter4edu.github.io/jupyter-edu-book/why-we-use-jupyter-notebooks.html#but-first-what-is-jupyter-notebook)): una colección de estándares, una comunidad y una serie de herramientas de software. [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) es una aplicación para crear, manejar y correr cuadernos (*notebooks*) Jupyter. Un [cuaderno Jupyter](https://es.wikipedia.org/wiki/Proyecto_Jupyter#Jupyter_Notebook) es un documento que permite mezclar código ejecutable, ecuaciones, visualizaciones y texto narrativo formateado. Un cuaderno puede combinar en un sólo documento el código, los datos que utiliza y sus resultados, incluyendo explicaciones, gráficas y contenido multimedia, de tal modo que pueda ser compartido ampliamente y corrido por otros con relativa facilidad. El cuaderno permite la creación de narrativas computacionales interactivas y reproducibles.
+El ecosistema del Proyecto Jupyter está compuesto de tres elementos (ver [*"2.2 But first, what is Jupyter Notebook?"*](https://jupyter4edu.github.io/jupyter-edu-book/why-we-use-jupyter-notebooks.html#but-first-what-is-jupyter-notebook)): una colección de estándares, una comunidad y una serie de herramientas de software. [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) es una aplicación para crear, manejar y correr cuadernos (*notebooks*) Jupyter. Un [cuaderno Jupyter](https://es.wikipedia.org/wiki/Proyecto_Jupyter#Jupyter_Notebook) es un documento que permite mezclar código ejecutable, ecuaciones, visualizaciones y texto narrativo formateado. Un cuaderno puede combinar en un sólo documento el código, los datos que utiliza y sus resultados, incluyendo explicaciones, gráficas y contenido multimedia, de tal modo que pueda ser compartido ampliamente y ejecutado por otros con relativa facilidad. El cuaderno permite la creación de narrativas computacionales interactivas y reproducibles.
 
 El ecosistema Jupyter utiliza tecnología web que permite correr las aplicaciones en un navegador (*browser*) web con las computaciones ya sea en tu propia computadora ("local") o a través de servicios o servidores remotos, incluyendo en la nube. Los cuadernos Jupyter y el ecosistema Jupyter hoy en día gozan de una gran popularidad en aplicaciones de ciencias de datos y aplicaciones científicas en general, especialmente con el lenguaje Python.
 
@@ -21,16 +21,16 @@ El ecosistema Jupyter utiliza tecnología web que permite correr las aplicacione
 
 ## Entorno computacional compartido, en la nube
 
-Enseñar software a un grupo diverso de participantes, cada uno/a con diferentes computadoras y sistemas operativos, es un desafío. Tenemos formas específicas de configurar nuestro software para que los tutoriales sean exitosos, por lo que lleva tiempo configurarlos todos de manera consistente. Nuestra solución a este reto es brindarles a los/as participantes de eventos del *OceanHackWeek en español* acceso a un entorno de computación en la nube preconfigurado para el software específico que implementamos, y con flexibilidad para el desarrollo de proyectos de equipo. Se accede a este entorno de computación en la nube desde cualquier navegador web, lo que elimina la necesidad (y complicación!) de configurar la computadora individual de cada persona con las bibliotecas, dependencias y aplicaciones necesarias.
+Enseñar software a un grupo diverso de participantes, cada uno/a con diferentes computadoras y sistemas operativos, es un desafío. Tenemos formas específicas de configurar nuestro software para que los tutoriales sean exitosos, por lo que lleva tiempo configurarlos todos de manera consistente. Nuestra solución a este reto es brindarles a los/as participantes de eventos del *OceanHackWeek en español* acceso a un entorno de computación en la nube preconfigurado para el software específico que implementamos, y con flexibilidad para el desarrollo de proyectos de equipo. Se accede a este entorno de computación en la nube desde cualquier navegador web, lo que elimina la necesidad (¡y complicación!) de configurar la computadora individual de cada persona con las bibliotecas, dependencias y aplicaciones necesarias.
 
 En este entorno compartido, cada usuario tiene su propia cuenta pre-configurada a los mismos entornos de Python y R y acceso a recursos computacionales idénticos. Este entorno global está basado en el sistema [JupyterHub](https://jupyter.org/hub) (parte del ecosistema Jupyter), el cual nos permite comenzar a trabajar rápidamente con código sin perder tiempo configurando la computadora de cada quien. **JupyterHub da acceso tanto a la aplicación `JupyterLab` para programar en Python (y otros lenguajes) como a la aplicación [`RStudio`](https://es.wikipedia.org/wiki/RStudio) para R. Utilizaremos estas dos aplicaciones para seguir y correr los tutoriales.**
 
-Te recomendamos que utilices nuestros recursos compartidos de JupyterHub para ejecutar todos los tutoriales y para sus proyectos. También esperamos que practiques la instalación de bibliotecas de Python y R localmente en tu computadora portátil para que puedas continuar trabajando después que concluya nuestro evento.
+Te recomendamos que utilices nuestros recursos compartidos de JupyterHub para ejecutar todos los tutoriales y para trabajar en tus proyectos. También esperamos que practiques la instalación de bibliotecas de Python y R localmente en tu propia computadora para que puedas continuar trabajando después que concluya nuestro evento.
 
 
 ## Acceso a "El Hub", nuestro entorno compartido en la nube
 
-El acceso a nuestro entorno computacional de JupyterHub en la nube (**"El Hub"**) es fácil. Accede a [https://oceanhackweek.2i2c.cloud](https://oceanhackweek.2i2c.cloud) en tu navegador:
+Es fácil acceder a nuestro entorno computacional de JupyterHub en la nube (**"El Hub"**). Dirígete a [https://oceanhackweek.2i2c.cloud](https://oceanhackweek.2i2c.cloud) en tu navegador:
 
 ![hub-opening](/imagenes/jupyterhub/ohwe24-jupyterhub-opening.png)
 
@@ -48,7 +48,7 @@ Esta te pide otorgar el permiso requerido a nuestro sistema de JupyterHub para c
 ![authorize 2i2c](/imagenes/jupyterhub/2i2chub-authorize-github-access.png)
 ```
 
-### ¡Ya estás adentro! 
+### ¡Ya estás adentro!
 
 Ahora sólo falta seleccionar el lenguaje de programación y la aplicación que deseas usar en la sesión actual: "Python en JupyterLab" o "R en RStudio"
 
@@ -66,7 +66,7 @@ Tomará un poco de tiempo en cargar y estar listo, especialmente la primera vez.
 
 :::{tab-item} Python -> JupyterLab
 
- **Si seleccionaste "Python"**, verás tu propia instancia de **JupyterLab**:
+ **Si seleccionaste "Python"**, verás tu propia instancia de **JupyterLab** (con interfaz en inglés):
 
 ![JupyterLab - inglés](/imagenes/jupyterhub/ohwe24-jupyterhub-Python-jupyterlab-eng.png)
 
@@ -78,7 +78,7 @@ Y al [cambiar el idioma del interfaz a español](https://github.com/Intercoonect
 
 :::{tab-item} R -> RStudio
 
-**Si seleccionaste R,** verás tu propia instancia de **RStudio** (en inglés):
+**Si seleccionaste R,** verás tu propia instancia de **RStudio** (con interfaz en inglés):
 
 ![RStudio](/imagenes/jupyterhub/ohwe24-jupyterhub-R-RStudio.png)
 
@@ -89,31 +89,13 @@ Y al [cambiar el idioma del interfaz a español](https://github.com/Intercoonect
 ```
 
 
-## ¿Cómo cargo el repositorio de los tutoriales al Hub?
+## Cómo cargar el repositorio de los tutoriales al Hub
 
-Para los tutoriales, recomendamos el uso de [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/) para clonar y extraer el repositorio de los tutoriales, o actualizar la copia que ya tienes. Utiliza el enlace mágico `nbgitpuller` a continuación para lograr este clon o actualización.
+Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/) para clonar y extraer el repositorio de los tutoriales, o actualizar la copia que ya tienes. `nbgitpuller` se aplica a través de un enlace especial, adaptado a un repositorio específico y al entorno o de Python o de R. 
 
-```{admonition} Haz git *pull* del repositorio de los tutoriales usando la magia de **nbgitpuller**
-
-El enlace `nbgitpuller` es mágico, pero no puede detectar cual entorno (Python o R) estás ejecutando actualmente. Ambos enlaces, de Python y R, actualizan el mismo repositorio de tutoriales, pero pueden dar un error si utilizas el enlace de Python mientras estás en el entorno de R, o viceversa. Para subir o actualizar los tutoriales del repositorio `tutorialesOHW2024` en tu cuenta en el Hub, presiona la pestaña correspondiente:
-
-::::{tab-set}
-
-:::{tab-item} Python
-
-Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales para el entorno de Python](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2FtutorialesOHW2024&urlpath=lab%2Ftree%2FtutorialesOHW2024)
-
-:::
-
-:::{tab-item} R
-
-Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales para el entorno de R](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2FtutorialesOHW2024&urlpath=rstudio)
-
-:::
-
-::::
-
-```
+Instrucciones y enlaces específicos se encuentran bajo cada evento:
+- [Instrucciones para el **Taller Intermedio**](primeros-pasos-taller-intermed.html#como-cargar-el-repositorio-de-los-tutoriales-al-hub)
+- [Instrucciones para el **Hackatón**](primeros-pasos-hackaton.html#como-cargar-el-repositorio-de-los-tutoriales-al-hub)
 
 ### Alternativa con comandos de `git` (¡con cuidado!)
 
@@ -124,7 +106,7 @@ Puedes obtener el mismo resultado que `nbgitpuller` utilizando `git` directament
 **¡Atención!** Si comienzas utilizando el enlace de `nbgitpuller` y luego tratas de cambiar al uso de `git` directamente, cuando trates de usar el enlace de `nbgitpuller` de nuevo es muy probable que te encuentres con [resultados impredecibles (enlace en inglés)](https://jupyterhub.github.io/nbgitpuller/#when-to-use-nbgitpuller). Esto puede ser corregido borrando, moviendo o cambiando el nombre del directory de los tutoriales y utilizando `nbgitpuller` de nuevo.
 
 
-## Cierra tu sesión en el Hub cada día. ¿Perderás todo tu trabajo?
+## Cierra tu sesión en el Hub cada día
 
 **Es muy importante cerrar la sesión en el Hub cuando termines de usarla por el día o por un período prolongado.** Esto nos ayuda a reducir el costo de la infraestructura en la nube.
 
