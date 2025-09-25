@@ -58,23 +58,23 @@ parts:
   - file: ohw2023
     title: OHWe 2023 
     sections:
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Ciencia_abierta/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/
       title: Ciencia abierta
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Datos_online/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Datos_online/
       title: Datos online
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/lunes/Visualizacion_en_R/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/
       title: Visualización en R
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/Dia2_Datos_espaciales_R/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/Dia2_Datos_espaciales_R/
       title: Datos espaciales en R
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/miercoles/Dia3_Datos_temporales_R/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/Dia3_Datos_temporales_R/
       title: Datos temporales en R
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/visualizacion_python/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/visualizacion_python/
       title: Visualización en Python
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/datos_espaciales_python/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/
       title: Datos espaciales en Python
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/martes/El_paquete_echogram_R/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/El_paquete_echogram_R/
       title: Acústica - ecosondas, R
-    - url: https://github.com/Intercoonecta/tutoriales/tree/main/miercoles/acustica_python/
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/
       title: Acústica - ecosondas, Python
   - file: ohw22-espanol
     title: OHW 2022
