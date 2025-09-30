@@ -29,7 +29,7 @@ En 2024-2025 y enmarcadas en el proyecto **HACKATONES 2023-2025**, las actividad
 | 2025 |  24 al 28 de noviembre     |           Hackaton 2025|[Apúntate!](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-espa-ol-en-ciencia-marina-edici-n-2025) | 
 
 
-
+:📢: ¡Buenas noticias! Recientemente nos han aprobado un nuevo proyecto para la financiación de más eventos en 2026 y 2027. Proximamente añadiremos más información.
 
 ## Destinatarios
 
