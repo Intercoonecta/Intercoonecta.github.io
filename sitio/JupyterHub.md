@@ -94,8 +94,8 @@ Y al [cambiar el idioma del interfaz a español](https://github.com/Intercoonect
 Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/) para clonar y extraer el repositorio de los tutoriales, o actualizar la copia que ya tienes. `nbgitpuller` se aplica a través de un enlace especial, adaptado a un repositorio específico y al entorno o de Python o de R. 
 
 Instrucciones y enlaces específicos se encuentran bajo cada evento:
-- [Instrucciones para el **Taller Intermedio**](primeros-pasos-taller-intermed.html#como-cargar-el-repositorio-de-los-tutoriales-al-hub)
-- [Instrucciones para el **Hackatón**](primeros-pasos-hackaton.html#como-cargar-el-repositorio-de-los-tutoriales-al-hub)
+- [Instrucciones para el **Taller Intermedio**](hub-cargartutoriales:taller-intermedio)
+- [Instrucciones para el **Hackatón**](hub-cargartutoriales:hackaton)
 
 ### Alternativa con comandos de `git` (¡con cuidado!)
 
@@ -106,6 +106,7 @@ Puedes obtener el mismo resultado que `nbgitpuller` utilizando `git` directament
 **¡Atención!** Si comienzas utilizando el enlace de `nbgitpuller` y luego tratas de cambiar al uso de `git` directamente, cuando trates de usar el enlace de `nbgitpuller` de nuevo es muy probable que te encuentres con [resultados impredecibles (enlace en inglés)](https://jupyterhub.github.io/nbgitpuller/#when-to-use-nbgitpuller). Esto puede ser corregido borrando, moviendo o cambiando el nombre del directory de los tutoriales y utilizando `nbgitpuller` de nuevo.
 
 
+(hub:cerrar-sesion)=
 ## Cierra tu sesión en el Hub cada día
 
 **Es muy importante cerrar la sesión en el Hub cuando termines de usarla por el día o por un período prolongado.** Esto nos ayuda a reducir el costo de la infraestructura en la nube.
