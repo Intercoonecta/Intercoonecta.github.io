@@ -3,7 +3,11 @@
 
 Todas las sesiones comienzan a las 8:00 am en Guatemala. [Mira la hora en tu zona](https://arewemeetingyet.com/Guatemala/2025-05-05/08:00/Sesi%C3%B3n%20s%C3%ADncrona). Las sesiones síncronas tienen una duración entre 2 y 3 h.
 
-Programa preliminar
+**Requisitos: instalación de [GIT](https://git-scm.com/downloads) y abrir una [cuenta en github](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github)** 
+
+**Scripts**: https://github.com/Intercoonecta/Talleres_intermedios
+
+**Programa**
 
 | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
 | --- | --- | --- | --- | --- | --- | --- |
