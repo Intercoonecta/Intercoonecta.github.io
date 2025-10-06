@@ -8,7 +8,7 @@
 
 Consulta [nuestro tutorial sobre Jupyter del programa "Aula Invertida"](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/Jupyter.md). Este tutorial incluye una reseña del uso de cuadernos Jupyter, [**instrucciones para cambiar el interfaz de JupyterLab al español**](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/jupyter-tutorial.md#cambiar-el-interfaz-al-espa%C3%B1ol), e instrucciones para instalar JupyterLab en tu computadora.
 
-[Aquí puedes acceder a un video en YouTube grabado durante el "Taller Intermedio"](https://youtu.be/SP3SnrQ2HTY?feature=shared&t=818), cuando cubrimos el tutorial de JupyterHub -- el material abarcado en esta página.
+[Aquí puedes acceder a un video en YouTube grabado durante el "Taller Intermedio" de 2024](https://youtu.be/SP3SnrQ2HTY?feature=shared&t=818), cuando cubrimos el tutorial de JupyterHub -- el material abarcado en esta página.
 
 ```{admonition} Presiona aquí para leer más sobre el "ecosistema" de Jupyter
 :class: dropdown
@@ -32,15 +32,15 @@ Te recomendamos que utilices nuestros recursos compartidos de JupyterHub para ej
 
 Es fácil acceder a nuestro entorno computacional de JupyterHub en la nube (**"El Hub"**). Dirígete a [https://oceanhackweek.2i2c.cloud](https://oceanhackweek.2i2c.cloud) en tu navegador:
 
-![hub-opening](/imagenes/jupyterhub/ohwe24-jupyterhub-opening.png)
+![hub-opening](/imagenes/jupyterhub/ohwe25-jupyterhub-opening.png)
 
-Ahora presiona el botón "Log in para continuar", y la siguiente pantalla te pedirá tu nombre de usuario y contraseña de tu cuenta de GitHub para entrar con tus credenciales de GitHub:
+Ahora presiona el botón "Sign in with GitHub", y la siguiente pantalla te pedirá tu nombre de usuario y contraseña de tu cuenta de GitHub para entrar con tus credenciales de GitHub:
 
 ![sign-in with github](/imagenes/jupyterhub/2i2chub-signin-with-github.png)
 
-Presiona el botón "Sign in". **La siguiente pantaya sólo aparecerá la primera vez que entres al Hub.**
+Presiona el botón "Sign in". **La siguiente pantalla sólo aparecerá la primera vez que entres al Hub.**
 
-```{admonition} Presiona aquí para ver esa pantaya, con instrucciones
+```{admonition} Presiona aquí para ver esa pantalla, con instrucciones
 :class: dropdown
 
 Esta te pide otorgar el permiso requerido a nuestro sistema de JupyterHub para combrobar tu identidad con GitHub. Presiona el botón "Authorize 2i2c-org":
@@ -50,9 +50,9 @@ Esta te pide otorgar el permiso requerido a nuestro sistema de JupyterHub para c
 
 ### ¡Ya estás adentro!
 
-Ahora sólo falta seleccionar el lenguaje de programación y la aplicación que deseas usar en la sesión actual: "Python en JupyterLab" o "R en RStudio"
+Ahora sólo falta seleccionar el lenguaje de programación y la aplicación que deseas usar en la sesión actual, "**Python** / Python en JupyterLab" o "**R** / R en RStudio", y presionar el botón "Start":
 
-![hub select Python or R](/imagenes/jupyterhub/ohwe24-jupyterhub-select-Python-or-R.png)
+![hub select Python or R](/imagenes/jupyterhub/ohwe25-jupyterhub-select-Python-or-R.png)
 
 Una vez hecha la selección, verás una notificación como esta mientras el entorno de JupyterHub está cargando:
 
@@ -123,7 +123,7 @@ Accede al menú `Archivo > Panel de Control`:
 
 luego presiona el botón `Stop My Server` y el enlace `logout` arriba a la derecha.
 
-![hub shut down step 2](/imagenes/jupyterhub/ohwe24-shutdownhub-step2.png)
+![hub shut down step 2](/imagenes/jupyterhub/ohwe25-shutdownhub-step2.png)
 
 El menú `Archivo > Cerrar sesión` en realidad no cierra la sesión del Hub, así que por favor sigue estos pasos.
 
@@ -133,7 +133,7 @@ El menú `Archivo > Cerrar sesión` en realidad no cierra la sesión del Hub, as
 
 Los menús `File > Log out` y `File > Quit session` en realidad no hacen nada! Presiona el enlace https://oceanhackweek.2i2c.cloud/hub/home, y luego presiona el botón `Stop My Server` y el enlace `logout` arriba a la derecha, como mencionamos en las instrtucciones de Python.
 
-![hub shut down step 2](/imagenes/jupyterhub/ohwe24-shutdownhub-step2.png)
+![hub shut down step 2](/imagenes/jupyterhub/ohwe25-shutdownhub-step2.png)
 
 :::
 
