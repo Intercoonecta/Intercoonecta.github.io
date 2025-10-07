@@ -169,9 +169,9 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=7572s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python
 
-- Eddies en Python 
+- Eddies en Python  
 :video_camera: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=157s  
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/eddy_tracking
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/eddy_tracking  
 
 - Trayectorias de plásticos en Python  
 :video_camera: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=2978s  
