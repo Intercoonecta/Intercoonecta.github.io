@@ -4,9 +4,9 @@
 
 Falta:  
 Sesión de dudas de aula invertida 2022  
-Taller intermedio 2024 cuando estén los enlaces definitivos 
-Hackaton 2024
-Hackaton 2025
+Taller intermedio 2024 cuando estén los enlaces definitivos  
+Hackaton 2024  
+Hackaton 2025  
 
 
 # General
@@ -100,7 +100,7 @@ Hackaton 2025
 ## Aplicaciones  
 - Acústica  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/  
-- informes en Python
+- informes en Python  
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=7572s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python  
 
