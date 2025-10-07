@@ -66,14 +66,14 @@ Hackaton 2025
   * 2023  
 :video_camera: https://www.youtube.com/watch?v=20Gjx1-0D0Y
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/  
-  * 2024
+  * 2024  
 :video_camera:  http://youtube.com/watch?v=PKkhNZPdsfk   
       
 ## Intermedio  
  
 - Datos temporales en R  
-  * 2023
-:video_camera:  https://www.youtube.com/watch?v=I9-e98f5N0M
+  * 2023  
+:video_camera:  https://www.youtube.com/watch?v=I9-e98f5N0M  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/Dia3_Datos_temporales_R/  
 
   * 2025  
