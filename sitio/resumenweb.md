@@ -36,12 +36,15 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :blue_book: https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md  
+
   * 2024  
 :video_camera: https://www.youtube.com/watch?v=sLoNV053wKQ  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/blob/ohwe24/15-Octubre-2024/JupyterHub.md 
 
   * 2025  
-:video_camera: https://youtu.be/CKTHnIuWXC4  
+:video_camera: https://youtu.be/CKTHnIuWXC4
+
+
 ## Markdown  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md  
 
@@ -49,8 +52,9 @@ Hackaton 2025 cuando estén los enlaces definitivos
 ## Obtención de datos  
 
   * 2022  
+:video_camera: https://www.youtube.com/watch?v=1O1RoXyet5g&list=PLVH-j9gOscWleF9GSC5oPnOWMPRIYvUEV&index=26  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones  
-
+  
   * 2023    
 :video_camera: https://www.youtube.com/watch?v=Qbn_Y4sm4Oc  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Datos_online/  
@@ -102,12 +106,17 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
 
 ## Aplicaciones 
-- sfnetworks  
+- sfnetworks
+:video_camera: https://www.youtube.com/watch?v=G6nTyJZI2tU&list=PLVH-j9gOscWleF9GSC5oPnOWMPRIYvUEV&index=29  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks
 
 - Datos de barcos y pesca
 :video_camera: https://www.youtube.com/watch?v=B4xRUr8HMeA&t=197s  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Jorge  
+
+- Biodiversidad en Galápagos  
+:video_camera: [https://www.youtube.com/watch?v=B4xRUr8HMeA&t=197s ](https://www.youtube.com/watch?v=ZegU4DX3u1M&list=PLVH-j9gOscWleF9GSC5oPnOWMPRIYvUEV&index=28)   
+:file_folder:  
 
 
 - Acústica en R  
@@ -125,8 +134,14 @@ Hackaton 2025 cuando estén los enlaces definitivos
 
 # Python  
 ## Básico  
-:video_camera: https://www.youtube.com/watch?v=qvpxwRmAAbQ  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md   
+
+    *2022 
+:video_camera: https://www.youtube.com/watch?v=pmz4BB9tzhg&list=PLVH-j9gOscWleF9GSC5oPnOWMPRIYvUEV&index=31
+
+    *2024 
+:video_camera: https://www.youtube.com/watch?v=qvpxwRmAAbQ  
+
 
 ## Intermedio 
 - Visualización en Python  
