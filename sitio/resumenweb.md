@@ -103,12 +103,20 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 
 ## Aplicaciones 
 - sfnetworks  
-:file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks 
+:file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks
+
+- Datos de barcos y pesca
+:video_camera: https://www.youtube.com/watch?v=B4xRUr8HMeA&t=197s  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Jorge  
 
 
 - Acústica en R  
 :video_camera: https://www.youtube.com/watch?v=wMR-XZvyFAU  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/El_paquete_echogram_R/  
+
+- Captura túnidos tropicales en R
+:video_camera:  https://www.youtube.com/watch?v=B4xRUr8HMeA&t=4104s  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Marina%20-%20captura%20tu%CC%81nidos%20tropicales
 
 
 - Informes con Rmarkdown   
@@ -146,6 +154,13 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=7572s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python
 
+- Eddies en Python 
+:video_camera: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=157s  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/eddy_tracking
+
+- Trayectorias de plásticos en Python 
+:video_camera: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=2978s  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/simulaciones_trayectorias-plasticos  
 
 
 # Trabajos colaborativos de los participantes  
