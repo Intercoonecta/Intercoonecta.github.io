@@ -2,6 +2,12 @@
 :file_folder: Scripts
 :blue_book: Lecciones en texto
 
+Falta:  
+Sesión de dudas de aula invertida 2022  
+Taller intermedio 2024 cuando estén los enlaces definitivos 
+Hackaton 2024
+Hackaton 2025
+
 
 # General
 
@@ -79,7 +85,7 @@
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/visualizacion_python/  
 
 - Datos temporales en Python
- * 2024 
+ * 2024  
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=5167s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales  
 - Datos espaciales en Python
@@ -92,7 +98,7 @@
 :file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales
 
 ## Aplicaciones  
-- Acústica 
+- Acústica  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/  
 - informes en Python
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=7572s  
