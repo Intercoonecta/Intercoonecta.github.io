@@ -5,7 +5,6 @@
 Falta:  
 Sesión de dudas de aula invertida 2022  
 Taller intermedio 2024 cuando estén los enlaces definitivos  
-Hackaton 2023  
 Hackaton 2024  
 Hackaton 2025  
 
@@ -38,10 +37,10 @@ Hackaton 2025
 ## Obtención de datos  
 
   * 2022  
-:file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones
+:file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones  
 
   * 2023    
-:video_camera: https://www.youtube.com/watch?v=Qbn_Y4sm4Oc
+:video_camera: https://www.youtube.com/watch?v=Qbn_Y4sm4Oc  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Datos_online/  
 
 
@@ -67,7 +66,8 @@ Hackaton 2025
 ## Intermedio  
  
 - Datos temporales en R  
-  * 2023  
+  * 2023
+:video_camera:  https://www.youtube.com/watch?v=I9-e98f5N0M
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/Dia3_Datos_temporales_R/  
 
   * 2025  
@@ -124,11 +124,17 @@ Hackaton 2025
 :file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales
 
 ## Aplicaciones  
-- Acústica  
+- Acústica en Python
+:video_camera:  https://www.youtube.com/watch?v=x4t1GpYCPcA  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/  
 - informes en Python  
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=7572s  
-:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python  
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python
+
+
+
+# Trabajos colaborativos de los participantes  
+- 2023 https://www.youtube.com/watch?v=mJrW06hmGhc
 
 
 
