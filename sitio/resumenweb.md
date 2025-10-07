@@ -57,14 +57,14 @@ Hackaton 2025
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Hector  
 
 - Datos espaciales en R  
-  * 2022  
+ * 2022  
 
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy  
   
-  * 2023  
+ * 2023  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/Dia2_Datos_espaciales_R/  
 
-  * 2025  
+ * 2025  
 :video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=2616s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
 
@@ -89,7 +89,6 @@ Hackaton 2025
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=5167s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales  
 - Datos espaciales en Python
-
  * 2023   
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/
 
