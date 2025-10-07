@@ -130,7 +130,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera: https://www.youtube.com/watch?v=G6nTyJZI2tU&list=PLVH-j9gOscWleF9GSC5oPnOWMPRIYvUEV&index=29  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks
 
-- Datos de barcos y pesca
+- Datos de barcos y pesca  
 :video_camera: https://www.youtube.com/watch?v=B4xRUr8HMeA&t=197s  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Jorge  
 
