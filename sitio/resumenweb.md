@@ -3,8 +3,9 @@
 :blue_book: Lecciones en texto
 
 Falta:  
-Sesión de dudas de aula invertida 2022  
-Taller intermedio 2024 cuando estén los enlaces definitivos  
+Sesión de dudas de aula invertida 2022 
+Videos de tutoriales satelites 2022  
+Taller intermedio 2025 cuando estén los enlaces definitivos  
 Hackaton 2024  
 Hackaton 2025  
 
@@ -21,15 +22,20 @@ Hackaton 2025
 
   *2023  
 :video_camera:  https://www.youtube.com/watch?v=NYAq1xrc8Zc  
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/ 
+
 ## Git y Jupyter  
-:video_camera: https://youtu.be/CKTHnIuWXC4  
-:video_camera: https://www.youtube.com/watch?v=sLoNV053wKQ  
+
+
 :blue_book: https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md  
+  * 2024  
+:video_camera: https://www.youtube.com/watch?v=sLoNV053wKQ  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/blob/ohwe24/15-Octubre-2024/JupyterHub.md 
 
+  * 2025  
+:video_camera: https://youtu.be/CKTHnIuWXC4  
 ## Markdown  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md  
 
@@ -106,7 +112,7 @@ Hackaton 2025
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md   
 
 ## Intermedio 
-- Visualización en Python
+- Visualización en Python  
 :video_camera:  https://www.youtube.com/watch?v=fWtGZ0w6j48
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/visualizacion_python/  
 
@@ -124,7 +130,7 @@ Hackaton 2025
 :file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales
 
 ## Aplicaciones  
-- Acústica en Python
+- Acústica en Python  
 :video_camera:  https://www.youtube.com/watch?v=x4t1GpYCPcA  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/  
 - informes en Python  
