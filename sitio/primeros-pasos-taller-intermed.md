@@ -30,13 +30,13 @@ El enlace `nbgitpuller` es mágico, pero no puede detectar cual entorno (Python 
 
 :::{tab-item} Python
 
-Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales para el entorno de Python](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2FTalleres_intermedios&urlpath=lab%2Ftree%2FTalleres_intermedios)
+Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales para el entorno de Python](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/Talleres_intermedios&urlpath=lab/tree/Talleres_intermedios)
 
 :::
 
 :::{tab-item} R
 
-Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales para el entorno de R](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIntercoonecta%2FTalleres_intermedios&urlpath=rstudio)
+Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales para el entorno de R](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/Talleres_intermedios&urlpath=rstudio)
 
 :::
 
