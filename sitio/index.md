@@ -25,7 +25,7 @@ En 2024-2025 y enmarcadas en el proyecto **HACKATONES 2023-2025**, las actividad
 | 2024 |  7 al 18 de octubre         |   [Taller intermedio 2024](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/oceanhackweek-en-espa-ol-talleres-de-formaci-n-intermedia)|Acabado| 
 | 2024 | 25 al 29 de noviembre   |           [Hackaton 2024](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-espa-ol-en-ciencia-marina)| Acabado| 
 | 2025 |  5 al 16 de mayo    |    [Aula invertida 2025](https://intercoonecta.aecid.es/programación-de-actividades/oceanhackweek-en-espa-ol-formaci-n-b-sica-en-lenguajes-de-programaci-n-y-trabajo-colaborativo-edici-n-2025)| Acabado | 
-| 2025|   06 al 17 de octubre    |         [Taller intermedio 2025](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/oceanhackweek-en-espa-ol-talleres-de-formaci-n-intermedia-edici-n-2025)| En preparación | 
+| 2025|   06 al 17 de octubre    |         [Taller intermedio 2025](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/oceanhackweek-en-espa-ol-talleres-de-formaci-n-intermedia-edici-n-2025)| En marcha | 
 | 2025 |  24 al 28 de noviembre     |           Hackaton 2025|[Apúntate!](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-espa-ol-en-ciencia-marina-edici-n-2025) | 
 
 
