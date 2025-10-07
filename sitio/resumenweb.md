@@ -4,7 +4,7 @@
 
 Falta:  
 Sesión de dudas de aula invertida 2022  
-Videos de tutoriales satelites 2022   
+
 Taller intermedio 2025 cuando estén los enlaces definitivos  
 - Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE  
 Hackaton 2025 cuando estén los enlaces definitivos  
