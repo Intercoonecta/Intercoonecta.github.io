@@ -1,4 +1,4 @@
-**CURSO AUTONOMO DE LENGUAJES DE PROGRAMACIÓN ABIERTOS R Y PYTHON  
+**CURSO AUTONOMO DE LENGUAJES DE PROGRAMACIÓN ABIERTA R Y PYTHON  
 Y OTRAS HERRAMIENTAS DE CIENCIA ABIERTA**
 
 **Autores: Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz, Milagro Urricariet, Nicolas Lois, Arellys Ornelas, Charles Troupin, Denisse Fierro Arcos, David Correa** 
