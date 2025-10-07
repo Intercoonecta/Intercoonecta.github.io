@@ -66,7 +66,7 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 
 - Visualización en R
   * 2023  
-:video_camera: https://www.youtube.com/watch?v=20Gjx1-0D0Y
+:video_camera: https://www.youtube.com/watch?v=20Gjx1-0D0Y  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/  
   * 2024  
 :video_camera:  http://youtube.com/watch?v=PKkhNZPdsfk   
@@ -115,21 +115,21 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 
 ## Intermedio 
 - Visualización en Python  
-:video_camera:  https://www.youtube.com/watch?v=fWtGZ0w6j48
+:video_camera:  https://www.youtube.com/watch?v=fWtGZ0w6j48  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/visualizacion_python/  
 
 - Datos temporales en Python
   * 2024  
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=5167s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales  
-- Datos espaciales en Python
-  * 2023
+- Datos espaciales en Python  
+  * 2023  
 :video_camera: https://www.youtube.com/watch?v=IP0sGy8JxRQ&feature=youtu.be  
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/  
 
   * 2024  
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=105s  
-:file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales
+:file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales  
 
 ## Aplicaciones  
 - Acústica en Python  
@@ -142,7 +142,7 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 
 
 # Trabajos colaborativos de los participantes  
-- 2023 https://www.youtube.com/watch?v=mJrW06hmGhc
+- 2023 https://www.youtube.com/watch?v=mJrW06hmGhc  
 
 
 
