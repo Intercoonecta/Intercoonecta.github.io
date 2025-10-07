@@ -4,9 +4,9 @@
 
 Falta:  
 Sesión de dudas de aula invertida 2022  
-
 Taller intermedio 2025 cuando estén los enlaces definitivos  
-- Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE  
+- Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
+   
 Hackaton 2025 cuando estén los enlaces definitivos  
   
 
@@ -106,7 +106,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
 
 ## Aplicaciones 
-- sfnetworks
+- sfnetworks  
 :video_camera: https://www.youtube.com/watch?v=G6nTyJZI2tU&list=PLVH-j9gOscWleF9GSC5oPnOWMPRIYvUEV&index=29  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks
 
