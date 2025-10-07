@@ -5,6 +5,7 @@
 Falta:  
 Sesión de dudas de aula invertida 2022  
 Taller intermedio 2024 cuando estén los enlaces definitivos  
+Hackaton 2023  
 Hackaton 2024  
 Hackaton 2025  
 
