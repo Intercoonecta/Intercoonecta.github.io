@@ -1,7 +1,7 @@
 **CURSO AUTONOMO DE LENGUAJES DE PROGRAMACIÓN ABIERTA R Y PYTHON  
 Y OTRAS HERRAMIENTAS DE CIENCIA ABIERTA**
 
-**Autores: Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz, Milagro Urricariet, Nicolas Lois, Arellys Ornelas, Charles Troupin, Denisse Fierro Arcos, David Correa** 
+**Autores: Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz, Milagro Urricariet, Nicolas Lois, Arellys Ornelas, Charles Troupin, Denisse Fierro Arcos, David Correa, FALTAN LOS DEL SATELITE2022** 
 
 Este curso tiene como objetivo reunir todo el material de formación creado durante los distintos eventos de llevados a cabo bajo la iniciativa de **Oceanhackweek en español (OHWe)** :
 
