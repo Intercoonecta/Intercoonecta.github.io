@@ -13,7 +13,8 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 
 # General
 
-## Instalaciones para Python
+## Instalaciones para Python  
+:blue_book: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md  
 :video_camera: https://www.youtube.com/watch?v=gMHIRtLui2Y   
 :file_folder: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md  
 ## R vs Python 
@@ -24,8 +25,11 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
   
   * 2023  
 :video_camera:  https://www.youtube.com/watch?v=NYAq1xrc8Zc  
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/ 
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/
 
+  * 2024  
+:video_camera: https://www.youtube.com/watch?v=b5Ut6-ysKpA&t=2683s  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/lunes/reproducibilidad_y_ciencia_abierta  
 ## Git y Jupyter  
 
 
@@ -51,6 +55,9 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 :video_camera: https://www.youtube.com/watch?v=Qbn_Y4sm4Oc  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Datos_online/  
 
+  * 2024    
+:video_camera: https://www.youtube.com/watch?v=b5Ut6-ysKpA&t=5324s  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/lunes/Julia  
 
   * 2025  
 :video_camera:  https://www.youtube.com/watch?v=QvJEIsAvPKo&t=2511s  
