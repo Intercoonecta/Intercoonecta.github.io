@@ -162,6 +162,9 @@ Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 :video_camera: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=2978s  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/simulaciones_trayectorias-plasticos  
 
+- Datos de clima en Python 
+:video_camera: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=5558s  
+:file_folder: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=5558s
 
 # Trabajos colaborativos de los participantes  
 - 2023 https://www.youtube.com/watch?v=mJrW06hmGhc  
