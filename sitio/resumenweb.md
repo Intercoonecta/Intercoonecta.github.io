@@ -21,7 +21,7 @@ Hackaton 2025
 ## Ciencia abierta  
 
   
-  *2023  
+  * 2023  
 :video_camera:  https://www.youtube.com/watch?v=NYAq1xrc8Zc  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/ 
 
