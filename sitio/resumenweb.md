@@ -8,6 +8,7 @@ Videos de tutoriales satelites 2022
 Taller intermedio 2025 cuando estén los enlaces definitivos  
 Hackaton 2024  
 Hackaton 2025  
+Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE  
 
 
 # General
