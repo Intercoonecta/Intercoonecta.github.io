@@ -1,36 +1,36 @@
-## General
-# R vs Python 
+# General
+## R vs Python 
 
-# Ciencia abierta
+## Ciencia abierta
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/
-# Git
+## Git
 - https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
-# Markdown
+## Markdown
 - https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md
-# Jupyter
+## Jupyter
 - https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md
-# Obtención de datos
+## Obtención de datos
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Datos_online/
 - https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones
-## R
-# Básico
+# R
+## Básico
 - https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/
-# Intermedio
+## Intermedio
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/Dia2_Datos_espaciales_R/
 - https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/Dia3_Datos_temporales_R/
-# Aplicaciones
+## Aplicaciones
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/El_paquete_echogram_R/
 - https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks
 - 
-## Python
-# Básico
+# Python
+## Básico
 - https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
-# Intermedio
+## Intermedio
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/visualizacion_python/
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/
-# Aplicaciones
+## Aplicaciones
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/
 
 
