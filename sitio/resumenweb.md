@@ -33,12 +33,29 @@
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/  
 ## Intermedio
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/Dia2_Datos_espaciales_R/  
-:file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy  
+ 
+
+
+
+- Datos temporales en R
+  * 2023  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/Dia3_Datos_temporales_R/
-  
-:video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=23s
+
+ * 2025
+:video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=23s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Hector
+
+- Datos espaciales en R
+ * 2022
+
+:file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy
+  
+  * 2023
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/Dia2_Datos_espaciales_R/
+
+  * 2025
+:video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=2616s
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina  
 ## Aplicaciones
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/El_paquete_echogram_R/  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks  
