@@ -167,7 +167,8 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :file_folder: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=5558s
 
 # Trabajos colaborativos de los participantes  
-- 2023 https://www.youtube.com/watch?v=mJrW06hmGhc  
+- 2023 https://www.youtube.com/watch?v=mJrW06hmGhc
+- 2024 https://www.youtube.com/watch?v=Vwihxh_vd1Y&t=3s  
 
 
 
