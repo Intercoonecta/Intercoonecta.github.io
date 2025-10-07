@@ -9,7 +9,7 @@
 :video_camera: https://www.youtube.com/watch?v=gMHIRtLui2Y   
 :file_folder: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md  
 ## R vs Python 
-
+:video_camera: https://www.youtube.com/watch?v=SP3SnrQ2HTY&t=4377s
 ## Ciencia abierta
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/  
 ## Git y Jupyter
@@ -18,6 +18,7 @@
 :blue_book: https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md  
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/blob/ohwe24/15-Octubre-2024/JupyterHub.md
 ## Markdown
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md  
 
@@ -34,7 +35,10 @@
 ## Intermedio
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/Dia2_Datos_espaciales_R/  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy  
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/Dia3_Datos_temporales_R/  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/Dia3_Datos_temporales_R/
+  
+:video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=23s
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Hector
 ## Aplicaciones
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/El_paquete_echogram_R/  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks  
@@ -53,7 +57,15 @@
 
 
 
-
+https://youtu.be/D5YbLsM5SDk
+https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
+https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/informeRMarkdown
+https://www.youtube.com/watch
+https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20online
+https://youtu.be/QvJEIsAvPKo
+https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales
+https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales
+https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python
 
 
 
