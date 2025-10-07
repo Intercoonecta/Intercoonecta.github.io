@@ -19,6 +19,9 @@ Hackaton 2025
 :video_camera: https://www.youtube.com/watch?v=SP3SnrQ2HTY&t=4377s  
 
 ## Ciencia abierta  
+
+  *2023  
+:video_camera:  https://www.youtube.com/watch?v=NYAq1xrc8Zc  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/  
 ## Git y Jupyter  
 :video_camera: https://youtu.be/CKTHnIuWXC4  
@@ -33,20 +36,34 @@ Hackaton 2025
 
 
 ## Obtención de datos  
+
+  * 2022  
+:file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones
+
+  * 2023    
+:video_camera: https://www.youtube.com/watch?v=Qbn_Y4sm4Oc
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Datos_online/  
-:file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones  
+
 
   * 2025  
 :video_camera:  https://www.youtube.com/watch?v=QvJEIsAvPKo&t=2511s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20online  
 
 # R  
-## Básico  
-:video_camera:  http://youtube.com/watch?v=PKkhNZPdsfk  
+## Básico 
+
+- Intro de R
+  * 2025  
 :video_camera: https://www.youtube.com/watch?v=op9cUUmC1TQ   
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md  
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/  
 
+- Visualización en R
+  * 2023  
+:video_camera: https://www.youtube.com/watch?v=20Gjx1-0D0Y
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/  
+  * 2024
+:video_camera:  http://youtube.com/watch?v=PKkhNZPdsfk   
+      
 ## Intermedio  
  
 - Datos temporales en R  
@@ -62,15 +79,22 @@ Hackaton 2025
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy  
   
   * 2023  
+:video_camera: https://www.youtube.com/watch?v=8DEZHXv15XQ  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/Dia2_Datos_espaciales_R/  
 
   * 2025  
 :video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=2616s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
 
-## Aplicaciones
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/El_paquete_echogram_R/  
+## Aplicaciones 
+- sfnetworks  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks 
+
+
+- Acústica en R  
+:video_camera: https://www.youtube.com/watch?v=wMR-XZvyFAU  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/El_paquete_echogram_R/  
+
 
 - Informes con Rmarkdown   
 :video_camera:  https://www.youtube.com/watch?v=7YcEzsbVxZc  
@@ -81,7 +105,9 @@ Hackaton 2025
 :video_camera: https://www.youtube.com/watch?v=qvpxwRmAAbQ  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md   
 
-## Intermedio  
+## Intermedio 
+- Visualización en Python
+:video_camera:  https://www.youtube.com/watch?v=fWtGZ0w6j48
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/visualizacion_python/  
 
 - Datos temporales en Python
@@ -89,7 +115,8 @@ Hackaton 2025
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=5167s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales  
 - Datos espaciales en Python
-  * 2023   
+  * 2023
+:video_camera: https://www.youtube.com/watch?v=IP0sGy8JxRQ&feature=youtu.be  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/
 
   * 2024  
