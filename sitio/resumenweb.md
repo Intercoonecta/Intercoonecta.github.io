@@ -1,19 +1,27 @@
 # General
+
+## Instalaciones para Python
+https://www.youtube.com/watch?v=gMHIRtLui2Y
+- https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md
 ## R vs Python 
 
 ## Ciencia abierta
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Ciencia_abierta/
-## Git
+## Git y Jupyter
+https://youtu.be/CKTHnIuWXC4
+- https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github
 - https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
+- https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md
 ## Markdown
 - https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md
-## Jupyter
-- https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md
+
+
 ## Obtención de datos
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Datos_online/
 - https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/lme-obis-extracciones
 # R
 ## Básico
+https://www.youtube.com/watch?v=op9cUUmC1TQ
 - https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/
 ## Intermedio
@@ -32,6 +40,7 @@
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/
 ## Aplicaciones
 - https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/
+
 
 
 
