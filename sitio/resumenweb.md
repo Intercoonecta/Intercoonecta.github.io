@@ -18,9 +18,7 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 | 2025 |  24 al 28 de noviembre     |[Hackaton 2025](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/ohw2025.md)|HACKATONES 2023-2025| 
 
 
-:video_camera: grabaciones
-:file_folder: Scripts
-:blue_book: Lecciones en texto
+
 
 Falta:  
 Sesión de dudas de aula invertida 2022  
@@ -30,7 +28,9 @@ Taller intermedio 2025 cuando estén los enlaces definitivos
 Hackaton 2025 cuando estén los enlaces definitivos  
   
 
-
+:video_camera: grabaciones
+:file_folder: Scripts
+:blue_book: Lecciones en texto
 # General
 
 ## Instalaciones para Python  
