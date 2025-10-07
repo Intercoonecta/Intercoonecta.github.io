@@ -1,7 +1,12 @@
+:video_camera: grabaciones
+:file_folder: Scripts
+
+
 # General
 
 ## Instalaciones para Python
 :video_camera: https://www.youtube.com/watch?v=gMHIRtLui2Y
+:file_folder:
 - https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md
 ## R vs Python 
 
