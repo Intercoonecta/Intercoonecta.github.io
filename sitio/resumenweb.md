@@ -66,8 +66,8 @@
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/El_paquete_echogram_R/  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/sfnetworks 
 
-- Informes con Rmarkdown  
-:video_camera:  https://www.youtube.com/watch?v=7YcEzsbVxZc
+- Informes con Rmarkdown   
+:video_camera:  https://www.youtube.com/watch?v=7YcEzsbVxZc  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/informeRMarkdown  
 
 # Python  
@@ -84,29 +84,23 @@
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales  
 - Datos espaciales en Python
 
- * 2023
-   
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/  
+ * 2023   
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/
+
  * 2024  
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=105s  
 :file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales
 
 ## Aplicaciones  
+- Acústica 
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/  
+- informes en Python
+:video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=7572s  
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python  
 
 
 
 
-
-
-https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
-https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/informeRMarkdown
-https://www.youtube.com/watch
-https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20online
-https://youtu.be/QvJEIsAvPKo
-https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales
-https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales
-https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python
 
 
 
