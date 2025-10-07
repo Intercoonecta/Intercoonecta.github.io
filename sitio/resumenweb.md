@@ -9,7 +9,7 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 | ------|  --------------- | ------------------------| ----------| 
 | 2022 | 28 de noviembre al 09 de diciembre  |[Aula invertida 2022](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)| INVIPESCA-FORT|
 | 2023 | 27 de febrero al 3 de marzo    | [Hackaton 2023](https://intercoonecta.github.io/ohw2023.html)| INVIPESCA-FORT|
-| 2024 |   21 y 22 de mayo    | [Webinario]()| HACKATONES 2023-2025| 
+| 2024 |   21 y 22 de mayo    | Webinario| HACKATONES 2023-2025| 
 | 2024 |  17 al 28 de julio       |  [Aula invertida 2024](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)|HACKATONES 2023-2025 | 
 | 2024 |  7 al 18 de octubre         | [Tutoriales intermedios 2024](https://intercoonecta.github.io/tutorialesintermedios2024.html)|HACKATONES 2023-2025| 
 | 2024 | 25 al 29 de noviembre   |[Hackaton 2024](https://intercoonecta.github.io/ohw2024.html)|HACKATONES 2023-2025| 
