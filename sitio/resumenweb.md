@@ -1,7 +1,7 @@
 # General
 
 ## Instalaciones para Python
-cvideo_camera:video_camera https://www.youtube.com/watch?v=gMHIRtLui2Y
+:video_camera: https://www.youtube.com/watch?v=gMHIRtLui2Y
 - https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/instalacion-jlab-conda.md
 ## R vs Python 
 
