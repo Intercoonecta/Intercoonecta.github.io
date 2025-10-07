@@ -1,7 +1,7 @@
+**CURSO AUTONOMO DEN LENGUAJES DE PROGRAMACIÓN ABUERTOS R Y PYTHON  
+Y OTRAS HERRAMIENTAS DE CIENCIA ABIERTA**
 
-<img width="100" height="100" alt="OHWe" src="https://github.com/user-attachments/assets/fde5b9d4-d254-4290-b606-0a951a198059" />
-<img width="750" height="150" alt="organizaciones-logos-1" src="https://github.com/user-attachments/assets/1640e63d-0269-442c-b816-3994a154bac2" />
-<img width="1250" height="150" alt="AECID-EmbajEspanaGuate-logos-barra" src="https://github.com/user-attachments/assets/63b5d7db-091f-4a46-88c1-cd2db74f401a" />
+**Autores: Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz, Milagro Urricariet, Nicolas Lois, Arellys Ornelas, Charles Troupin, Denisse Fierro Arcos, David Correa** 
 
 
 
@@ -190,7 +190,13 @@ Hackaton 2025 cuando estén los enlaces definitivos
 
 # Trabajos colaborativos de los participantes  
 - 2023 https://www.youtube.com/watch?v=mJrW06hmGhc
-- 2024 https://www.youtube.com/watch?v=Vwihxh_vd1Y&t=3s  
+- 2024 https://www.youtube.com/watch?v=Vwihxh_vd1Y&t=3s
+
+
+
+<img width="100" height="100" alt="OHWe" src="https://github.com/user-attachments/assets/fde5b9d4-d254-4290-b606-0a951a198059" />
+<img width="750" height="150" alt="organizaciones-logos-1" src="https://github.com/user-attachments/assets/1640e63d-0269-442c-b816-3994a154bac2" />
+<img width="1250" height="150" alt="AECID-EmbajEspanaGuate-logos-barra" src="https://github.com/user-attachments/assets/63b5d7db-091f-4a46-88c1-cd2db74f401a" />
 
 
 
