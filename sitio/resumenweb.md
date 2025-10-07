@@ -3,9 +3,9 @@ Y OTRAS HERRAMIENTAS DE CIENCIA ABIERTA**
 
 **Autores: Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz, Milagro Urricariet, Nicolas Lois, Arellys Ornelas, Charles Troupin, Denisse Fierro Arcos, David Correa** 
 
-Este curso tiene como objetivo reunir todo el material de formación creado durante los distintos eventos de llevados a cabo bajo la iniciativa de **Oceanhackweek en español (OHWe)** siguientes:
+Este curso tiene como objetivo reunir todo el material de formación creado durante los distintos eventos de llevados a cabo bajo la iniciativa de **Oceanhackweek en español (OHWe)** :
 
-| Año|     Fechas |  Actividad| proyecto| 
+| Año|     Fechas |  Actividad| Proyecto| 
 | ------|  --------------- | ------------------------| ----------| 
 | 2022 | 28 de noviembre al 09 de diciembre  |[Aula invertida 2022](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)| INVIPESCA-FORT|
 | 2023 | 27 de febrero al 3 de marzo    | [Hackaton 2023](https://intercoonecta.github.io/ohw2023.html)| INVIPESCA-FORT|
