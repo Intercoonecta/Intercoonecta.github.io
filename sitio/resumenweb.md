@@ -153,9 +153,8 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera: https://www.youtube.com/watch?v=B4xRUr8HMeA&t=197s  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Jorge  
 
-- Biodiversidad en Galápagos  
-:video_camera: [https://www.youtube.com/watch?v=B4xRUr8HMeA&t=197s ](https://www.youtube.com/watch?v=ZegU4DX3u1M&list=PLVH-j9gOscWleF9GSC5oPnOWMPRIYvUEV&index=28)   
-:file_folder:  
+ 
+ 
 
 
 - Acústica en R  
@@ -242,8 +241,10 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :file_folder: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=5558s
 
 # Trabajos colaborativos de los participantes  
-- 2023 https://www.youtube.com/watch?v=mJrW06hmGhc
-- 2024 https://www.youtube.com/watch?v=Vwihxh_vd1Y&t=3s
+- 2022 Biodiversidad en Galápagos  
+:video_camera: [https://www.youtube.com/watch?v=B4xRUr8HMeA&t=197s ](https://www.youtube.com/watch?v=ZegU4DX3u1M&list=PLVH-j9gOscWleF9GSC5oPnOWMPRIYvUEV&index=28)  
+- 2023 :video_camera: https://www.youtube.com/watch?v=mJrW06hmGhc
+- 2024 :video_camera: https://www.youtube.com/watch?v=Vwihxh_vd1Y&t=3s
 
 
 
