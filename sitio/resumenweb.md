@@ -174,15 +174,24 @@ Hackaton 2025 cuando estén los enlaces definitivos
 - Datos temporales en Python
   * 2024  
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=5167s  
-:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales  
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales
+  * 2025
+:video_camera:  https://youtu.be/qvzpFCpEFwE?si=ceNrxS-9aGzKzVMp&t=5180
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/6-Octubre-2025/datos_temporales_python
+
+
 - Datos espaciales en Python  
   * 2023  
 :video_camera: https://www.youtube.com/watch?v=IP0sGy8JxRQ&feature=youtu.be  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/datos_espaciales_python/  
 
   * 2024  
-:video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=105s  
+:video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=105s    
 :file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20espaciales  
+
+  * 2025    
+:video_camera: https://youtu.be/ULqVbECb_K4?si=l__brAABZFNYaQaC&t=134    
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/7-Octubre-2025/datos_espaciales_python
 
 ## Aplicaciones  
 - Acústica en Python  
