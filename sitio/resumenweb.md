@@ -22,7 +22,7 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 
 Falta:  
 Sesión de dudas de aula invertida 2022  
-Taller intermedio 2025 cuando estén los enlaces definitivos  
+Taller intermedio 2025 cuando estén los enlaces definitivos  YA METIDO MENOS JUEVES VIDEOS    
 - Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 - Martes https://www.youtube.com/watch?v=ULqVbECb_K4&t=2s
 - Miércoles https://www.youtube.com/watch?v=wcv6GI_x8eI
@@ -104,7 +104,11 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/lunes/Visualizacion_en_R/  
   * 2024  
 :video_camera:  http://youtube.com/watch?v=PKkhNZPdsfk   
-      
+
+- Análisis estadístico en R
+:video_camera: 
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/analisis_estadistico_R  
+  
 ## Intermedio  
  
 - Datos temporales en R  
@@ -161,10 +165,14 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Marina%20-%20captura%20tu%CC%81nidos%20tropicales
 
 
-- Informes con Rmarkdown   
+- Informes con Rmarkdown
+   *2024 
 :video_camera:  https://www.youtube.com/watch?v=7YcEzsbVxZc  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/informeRMarkdown  
-
+   *2025
+:video_camera:  
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/informes_R   
+   
 # Python  
 ## Básico  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md   
