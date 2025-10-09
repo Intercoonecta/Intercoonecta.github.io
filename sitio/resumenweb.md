@@ -21,7 +21,9 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 
 
 Falta:  
-Sesión de dudas de aula invertida 2022  
+Sesión de dudas de aula invertida 2022   METER?   
+Sesiones de dudas de taller intermedio 2025  METER?  
+
 Taller intermedio 2025 cuando estén los enlaces definitivos  YA METIDO MENOS JUEVES VIDEOS    
 - Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 - Martes https://www.youtube.com/watch?v=ULqVbECb_K4&t=2s
