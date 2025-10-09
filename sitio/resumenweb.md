@@ -105,7 +105,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
   * 2024  
 :video_camera:  http://youtube.com/watch?v=PKkhNZPdsfk   
 
-- Análisis estadístico en R
+- Análisis estadístico en R  
 :video_camera: 
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/analisis_estadistico_R  
   
@@ -120,7 +120,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=23s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Hector  
 
-  * 2025
+  * 2025  
 :video_camera: https://youtu.be/wcv6GI_x8eI?si=9CwMwRzCHDvHigna&t=26   
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/8-Octubre-2025/datos_temporales_R  
     
@@ -136,7 +136,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=2616s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
 
-  * 2025
+  * 2025  
 :video_camera: https://youtu.be/wcv6GI_x8eI?si=I77VK1wKVArbfyvK&t=4533  
 :file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/8-Octubre-2025/datos_espaciales_R
 
