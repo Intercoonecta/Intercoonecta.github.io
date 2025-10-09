@@ -112,10 +112,14 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera:  https://www.youtube.com/watch?v=I9-e98f5N0M  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/Dia3_Datos_temporales_R/  
 
-  * 2025  
+  * 2024    
 :video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=23s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Hector  
 
+  * 2025
+:video_camera: https://youtu.be/wcv6GI_x8eI?si=9CwMwRzCHDvHigna&t=26   
+:file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/8-Octubre-2025/datos_temporales_R  
+    
 - Datos espaciales en R  
   * 2022  
 :file_folder: https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/optional/espanol/datos-espaciales-tidy  
@@ -127,6 +131,12 @@ Hackaton 2025 cuando estén los enlaces definitivos
   * 2024  
 :video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=2616s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
+
+  * 2025
+:video_camera: https://youtu.be/wcv6GI_x8eI?si=I77VK1wKVArbfyvK&t=4533  
+:file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/8-Octubre-2025/datos_espaciales_R
+
+
 
 ## Aplicaciones 
 - sfnetworks  
