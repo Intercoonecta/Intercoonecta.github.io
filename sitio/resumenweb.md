@@ -24,6 +24,9 @@ Falta:
 Sesión de dudas de aula invertida 2022  
 Taller intermedio 2025 cuando estén los enlaces definitivos  
 - Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
+- Martes https://www.youtube.com/watch?v=ULqVbECb_K4&t=2s
+- Miércoles https://www.youtube.com/watch?v=wcv6GI_x8eI
+- Jueves
    
 Hackaton 2025 cuando estén los enlaces definitivos  
   
