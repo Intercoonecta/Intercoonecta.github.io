@@ -13,7 +13,7 @@ execute:
   execute_notebooks: 'off'
 
 # General execution settings
-only_build_toc_files: true
+only_build_toc_files: false
 
 parse:
   myst_enable_extensions:
