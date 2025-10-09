@@ -86,7 +86,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera: https://www.youtube.com/watch?v=b5Ut6-ysKpA&t=5324s  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/lunes/Julia  
 
-  * 2025  
+  * 2024  
 :video_camera:  https://www.youtube.com/watch?v=QvJEIsAvPKo&t=2511s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20online  
 
@@ -124,7 +124,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera: https://www.youtube.com/watch?v=8DEZHXv15XQ  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/Dia2_Datos_espaciales_R/  
 
-  * 2025  
+  * 2024  
 :video_camera: https://www.youtube.com/watch?v=D5YbLsM5SDk&t=2616s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/Marina
 
@@ -175,7 +175,8 @@ Hackaton 2025 cuando estén los enlaces definitivos
   * 2024  
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=5167s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/datos%20temporales
-  * 2025
+
+  * 2025  
 :video_camera:  https://youtu.be/qvzpFCpEFwE?si=ceNrxS-9aGzKzVMp&t=5180
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/6-Octubre-2025/datos_temporales_python
 
@@ -196,11 +197,18 @@ Hackaton 2025 cuando estén los enlaces definitivos
 ## Aplicaciones  
 - Acústica en Python  
 :video_camera:  https://www.youtube.com/watch?v=x4t1GpYCPcA  
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/  
-- informes en Python  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/miercoles/acustica_python/
+
+- informes en Python
+  * 2024     
 :video_camera: https://www.youtube.com/watch?v=QvJEIsAvPKo&t=7572s  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python
 
+  * 2025
+:video_camera: https://youtu.be/ULqVbECb_K4?si=zE_JjLGL514EVT-r&t=4682  
+:file_folder:  https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/7-Octubre-2025/informes_python  
+
+  * 
 - Eddies en Python  
 :video_camera: https://www.youtube.com/watch?v=nOwlNlaQ48w&t=157s  
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/eddy_tracking  
