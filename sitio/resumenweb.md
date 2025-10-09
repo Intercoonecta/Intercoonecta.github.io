@@ -165,11 +165,11 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Marina%20-%20captura%20tu%CC%81nidos%20tropicales
 
 
-- Informes con Rmarkdown
-   *2024 
+- Informes con Rmarkdown  
+   *2024   
 :video_camera:  https://www.youtube.com/watch?v=7YcEzsbVxZc  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/informeRMarkdown  
-   *2025
+   *2025  
 :video_camera:  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/informes_R   
    
