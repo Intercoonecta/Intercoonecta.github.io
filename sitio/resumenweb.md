@@ -25,7 +25,7 @@ Falta:
 Sesión de dudas de aula invertida 2022   METER?   
 Sesiones de dudas de taller intermedio 2025  METER?  
 
-Taller intermedio 2025 cuando estén los enlaces definitivos  YA METIDO MENOS JUEVES VIDEOS    
+Taller intermedio 2025 cuando estén los enlaces definitivos  YA METIDO    
 - Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
 - Martes https://www.youtube.com/watch?v=ULqVbECb_K4&t=2s
 - Miércoles https://www.youtube.com/watch?v=wcv6GI_x8eI
@@ -109,7 +109,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera:  http://youtube.com/watch?v=PKkhNZPdsfk   
 
 - Análisis estadístico en R  
-:video_camera: 
+:video_camera: https://youtu.be/7FqKMFmJCZQ?si=Tx0Qektzk-UvXI9U&t=3331  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/analisis_estadistico_R  
   
 ## Intermedio  
@@ -172,7 +172,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
 :video_camera:  https://www.youtube.com/watch?v=7YcEzsbVxZc  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/17-Octubre-2024/informeRMarkdown  
    *2025  
-:video_camera:  
+:video_camera:  https://youtu.be/7FqKMFmJCZQ?si=kvKgC68E3JcmLq3c&t=37  
 :file_folder: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/informes_R   
    
 # Python  
