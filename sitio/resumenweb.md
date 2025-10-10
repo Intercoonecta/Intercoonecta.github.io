@@ -25,12 +25,8 @@ Falta:
 Sesión de dudas de aula invertida 2022   METER?   
 Sesiones de dudas de taller intermedio 2025  METER?  
 
-Taller intermedio 2025 cuando estén los enlaces definitivos  YA METIDO    
-- Lunes https://www.youtube.com/watch?v=qvzpFCpEFwE
-- Martes https://www.youtube.com/watch?v=ULqVbECb_K4&t=2s
-- Miércoles https://www.youtube.com/watch?v=wcv6GI_x8eI
-- Jueves
-   
+Taller intermedio 2025 metido ya con enlaces definitivos aunque de momento esta en el tree/main
+  
 Hackaton 2025 cuando estén los enlaces definitivos  
   
 
