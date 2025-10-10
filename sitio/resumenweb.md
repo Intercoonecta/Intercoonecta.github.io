@@ -1,12 +1,13 @@
 **CURSO AUTONOMO DE LENGUAJES DE PROGRAMACIÓN ABIERTA R Y PYTHON  
 Y OTRAS HERRAMIENTAS DE CIENCIA ABIERTA**
 
-**Autores: Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz, Milagro Urricariet, Nicolas Lois, Arellys Ornelas, Charles Troupin, Denisse Fierro Arcos, David Correa, FALTAN LOS DEL SATELITE2022** 
+**Autores: Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz, Milagro Urricariet, Nicolas Lois, Arellys Ornelas, Charles Troupin, Denisse Fierro Arcos, David Correa, Alma Carolina Castillo Trujillo, Lorena Abad, Enrique Montes, Paola Corrales y Elio Campitelli** 
 
 Este curso tiene como objetivo reunir todo el material de formación creado durante los distintos eventos llevados a cabo bajo la iniciativa de **Oceanhackweek en español (OHWe)** :
 
 | Año|     Fechas |  Actividad| Proyecto| 
 | ------|  --------------- | ------------------------| ----------| 
+| 2022 | 28 de noviembre al 09 de diciembre  |[OceanHackWeek 2022 en Español](https://intercoonecta.github.io/ohw22-espanol.html)| |
 | 2022 | 28 de noviembre al 09 de diciembre  |[Aula invertida 2022](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)| INVIPESCA-FORT|
 | 2023 | 27 de febrero al 3 de marzo    | [Hackaton 2023](https://intercoonecta.github.io/ohw2023.html)| INVIPESCA-FORT|
 | 2024 |   21 y 22 de mayo    | Webinario| HACKATONES 2023-2025| 
