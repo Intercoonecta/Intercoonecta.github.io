@@ -7,7 +7,7 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 
 | Año|     Fechas |  Actividad| Proyecto| Financiación|
 | ------|  --------------- | ------------------------| ----------| ----------| 
-| 2022 | 28 de noviembre al 09 de diciembre  |[OceanHackWeek 2022 en Español](https://intercoonecta.github.io/ohw22-espanol.html)| ||
+| 2022 | 15 al 19 de agosto  |[OceanHackWeek 2022 en Español](https://intercoonecta.github.io/ohw22-espanol.html)| ||
 | 2022 | 28 de noviembre al 09 de diciembre  |[Aula invertida 2022](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)| INVIPESCA-FORT|CSIC+AECID|
 | 2023 | 27 de febrero al 3 de marzo    | [Hackaton 2023](https://intercoonecta.github.io/ohw2023.html)| INVIPESCA-FORT|CSIC+AECID|
 | 2024 |   21 y 22 de mayo    | Webinario| HACKATONES 2023-2025| CSIC+AECID|
