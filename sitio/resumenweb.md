@@ -67,7 +67,7 @@ Hackaton 2025 cuando estén los enlaces definitivos
   * 2025  
 :video_camera: https://youtu.be/CKTHnIuWXC4
 
-- Git desde R 2025
+- Git desde R 2025  
   :video_camera: https://www.youtube.com/watch?v=TSJoxcOjxwM
 ## Markdown  
 :blue_book: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md  
