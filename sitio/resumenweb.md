@@ -23,7 +23,9 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 
 Falta:  
 Sesión de dudas de aula invertida 2022   METER?   
-Sesiones de dudas de taller intermedio 2025  METER?  
+Sesiones de dudas de taller intermedio 2025  METER
+- 13/10 GIT desde R
+- 14/10 GIT 
 
 Taller intermedio 2025 metido ya con enlaces definitivos aunque de momento esta en el tree/main
   
