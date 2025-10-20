@@ -22,8 +22,8 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 
 
 Falta:  
-Taller intermedio 2025 metido ya con enlaces definitivos aunque de momento esta en el tree/main
-  
+Mantas y ´pildoras  
+Taller intermedio 2025 metido ya con enlaces definitivos aunque de momento esta en el tree/main  
 Hackaton 2025 cuando estén los enlaces definitivos  
   
 
