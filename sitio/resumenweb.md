@@ -350,7 +350,8 @@ SISTEMA DE BÚSQUEDA DE MATERIALES Y DENTRO DE LOS VÍDEOS (transcripciones)
 
  Marian Peña, Científica titular de Organismos Públicos de Investigación, Centro Oceanográfico de Baleares, Instituto Español
 de Oceanografía (IEO), CSIC, España  
-<img width="436" height="309" alt="image" src="https://github.com/user-attachments/assets/87c2a804-7fb2-43ed-87ba-c73837fad4f0" />
+<img width="436" height="309" alt="503600917-87c2a804-7fb2-43ed-87ba-c73837fad4f0" src="https://github.com/user-attachments/assets/7a2b0b64-836f-4654-9270-410e0fe868be" />
+
 
  
  Héctor Villalobos, Profesor Investigador Titular Centro Interdisciplinario de Ciencias Marinas, Instituto Politécnico Nacional (CICIMAR-IPN), México  
@@ -368,8 +369,7 @@ de Oceanografía (IEO), CSIC, España
  Jorge F. Cornejo-Donoso, Investigador Global Fishing  Watch  
  <img width="343" height="254" alt="image" src="https://github.com/user-attachments/assets/b2ee34d2-243c-4270-b357-ae265a17b1e7" />
 
- Julia Jaca, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español  
-de Oceanografía (IEO), CSIC, España
+ Julia Jaca, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español de Oceanografía (IEO), CSIC, España  
  <img width="232" height="250" alt="image" src="https://github.com/user-attachments/assets/bdd830db-20bf-4c91-89c3-2ca3110074e1" />
 
  Marina Sanz, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español    
