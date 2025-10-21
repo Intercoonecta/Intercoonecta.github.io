@@ -25,18 +25,59 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 <img width="676" height="169" alt="image" src="https://github.com/user-attachments/assets/5d75204d-d243-4209-b149-14d4ee1ffbd9" />
 
 **Opiniones** (banda que va cambiando?)
+> Es una forma de ganar competencias de forma rápida. El apoyo de los tutores y el material de trabajo sirve como una guía inicial.  
+
+> Genera una confianza de las librerias o paquetes estadisticos  visto en el curso  
+
+> Siempre se aprende algo nuevo, además de que uno ve (o le ven) las dudas y problemas que tienen los demás y también ayuda a aprender  
+
+> es una actividad  muy funcional en el area para el procesamiento de datos   
+
+> Es un curso integral, te muestra muchas herramientas de la programación y respositorios digitales desde nivel basico hasta intermedio.  
+
+> La actividad fue muy útil y aplicable al trabajo en el ámbito pesquero, especialmente para el análisis y gestión de información ambiental relacionada con los recursos marinos. Considero que puede aportar significativamente al fortalecimiento técnico del personal en instituciones vinculadas a la pesca y acuicultura.  
+
+> Porque es una actividad de mucho crecimiento profesional, y ayuda a interactuar con especialistas de otros países.  
+
+> Recomendaría esta actividad a mis colegas porque ofrece conocimientos prácticos y actualizados que son directamente aplicables . La combinación de las herramientas tecnológicas y casos prácticos permite fortalecer competencias técnicas, mejorar la eficiencia en la toma de decisiones y facilitar la implementación de proyectos basados en evidencia. Además, fomenta la colaboración y el intercambio de experiencias entre profesionales, lo que enriquece la práctica institucional y contribuye a la adopción de metodologías innovadoras para la conservación, monitoreo y planificación de recursos naturales.  
+
+> Es la versión adecuada para aprender programación en código abierto, es ideal para que los estudiantes aprendan a colaborar, porque es importante saber programar pero mucho más compartir los conocimientos.  
+
+> Excelente trasferencia de conocimiento con grandes investigadores y expertos en temas que permiten entender de forma clara las indicaciones  
+
+> Actualiza los métodos de análisis oceanográficos latinoamericanos a estándares europeos, facilita la difusión de información y la dinámica, recrea un ambiente fácil de aprender y obtener resultados a corto y mediano plazo   
+
+ 
+> Recomendaría esta actividad por su enfoque práctico, colaborativo y accesible en el uso de herramientas abiertas para el análisis de datos oceánicos. En particular:
+
+- Fomenta el aprendizaje interdisciplinario, integrando Python, R y JupyterLab en un entorno reproducible y visual.  
+
+-  Promueve la ciencia abierta, con recursos compartidos en GitHub y metodologías que facilitan la colaboración entre profesionales de distintas áreas.  
+
+-  Fortalece habilidades técnicas y narrativas, útiles para comunicar resultados científicos de forma clara, atractiva y accesible.  
+
+-  Ofrece un espacio seguro y comunitario, donde se valoran tanto los avances técnicos como los vínculos humanos  
+
+> Está totalmente relacionado con lo que hacemos en la institución  
 	
-> Parte de nuestro trabajo es generar reporte técnicos. Rmarkdown ayudará en la sistematización de esos reportes y los códigos en R, esto significa un gran avance. Nos permitirá optimizar tiempo y estandarizar los procedimientos. En mi caso no trabajo con datos medioambientales, pero la herramienta y su uso nos será de gran utilidad. Además, poder generar registros compartidos en GitHub son un potencial para el control de las versiones y el trabajo colaborativo
+> Parte de nuestro trabajo es generar reporte técnicos. Rmarkdown ayudará en la sistematización de esos reportes y los códigos en R, esto significa un gran avance. Nos permitirá optimizar tiempo y estandarizar los procedimientos. En mi caso no trabajo con datos medioambientales, pero la herramienta y su uso nos será de gran utilidad. Además, poder generar registros compartidos en GitHub son un potencial para el control de las versiones y el trabajo colaborativo  
   
-> Los temas sobre análisis de datos con Xarray y la programación en Python pueden aplicarse en mi institución para monitorear cultivos y predecir los impactos generados por el clima.
-> 
+> Los temas sobre análisis de datos con Xarray y la programación en Python pueden aplicarse en mi institución para monitorear cultivos y predecir los impactos generados por el clima.  
+
 > Trabajo con datos de modelos, sensores remotos y muestras de campo, mejorar mis habilidades en R, Python y Git - herramientas de software libre - ayuda a fomentar la colaboración con otros colegas favoreciendo el trabajo en equipo tanto en mi institución como con colegas de otras instituciones y países
+
 > el sistema de phyton nos ayudara a poder a procesar informacion de estaciones meteorologicas
-> Los temas tratados durante la actividad pueden aplicarse en mi institución al fortalecer las capacidades técnicas en el monitoreo y análisis de ecosistemas marinos. Los conocimientos compartidos permiten optimizar metodologías de muestreo, manejo de datos y evaluación de indicadores biológicos, especialmente en mi línea que se  relaciona con la conservación de especies y la calidad ambiental. Además, promueven el uso de herramientas científicas actualizadas y fomentan la colaboración interinstitucional, lo que contribuye a mejorar los proyectos de investigación marina y a generar información útil para la gestión sostenible de los recursos costeros y oceánicos  
-> El uso de las herramientas como R, Python son esenciales para la mejora de las actividades que realizo en el área donde trabajo, es útil para mejorar el procesamiento de datos y presentar los resultados de una manera mas bonita y efectiva. Además que permite el procesamiento mas eficiente de una gran cantidad de datos y me permite elaborar gráficos mas explicativos  
+
+> Los temas tratados durante la actividad pueden aplicarse en mi institución al fortalecer las capacidades técnicas en el monitoreo y análisis de ecosistemas marinos. Los conocimientos compartidos permiten optimizar metodologías de muestreo, manejo de datos y evaluación de indicadores biológicos, especialmente en mi línea que se  relaciona con la conservación de especies y la calidad ambiental. Además, promueven el uso de herramientas científicas actualizadas y fomentan la colaboración interinstitucional, lo que contribuye a mejorar los proyectos de investigación marina y a generar información útil para la gestión sostenible de los recursos costeros y oceánicos
+
+> El uso de las herramientas como R, Python son esenciales para la mejora de las actividades que realizo en el área donde trabajo, es útil para mejorar el procesamiento de datos y presentar los resultados de una manera mas bonita y efectiva. Además que permite el procesamiento mas eficiente de una gran cantidad de datos y me permite elaborar gráficos mas explicativos
+
 > Los temas abordados durante la actividad resultan altamente aplicables a mi institución, ya que fortalecen las capacidades técnicas y analíticas en el uso de herramientas geoespaciales, teledetección y análisis de datos territoriales, fundamentales para la gestión y planificación del territorio. La integración de metodologías presentadas permitirá optimizar procesos relacionados con la identificación, monitoreo y evaluación de áreas protegidas, riesgos ambientales. Además, el intercambio de experiencias y buenas prácticas contribuye a mejorar la toma de decisiones basada en evidencia, promoviendo una gestión más eficiente, transparente y sostenible de los recursos naturales, en línea con los objetivos institucionales y las políticas públicas de conservación y desarrollo territorial.
-> línea con los objetivos institucionales y las políticas públicas de conservación y desarrollo territorial.  
-> De forma muy generalizada, los informes y la automatización de información relacionada con análisis oceanográficos espaciales y temporales son en gran medida útiles para mi institución, puesto que nos encontramos en un proceso de capacitaciones y apropiación del conocimiento para generar bases sólidas para el aprovechamiento de los recursos marinos en sí. Pretendo utilizar el conocimiento generado para automatizar informes de las condiciones ambientales en mi área de estudio, para detectar de forma rápida los cambios que ocurren y las tendencias predichas por otras variables.  
+
+> línea con los objetivos institucionales y las políticas públicas de conservación y desarrollo territorial.
+
+> De forma muy generalizada, los informes y la automatización de información relacionada con análisis oceanográficos espaciales y temporales son en gran medida útiles para mi institución, puesto que nos encontramos en un proceso de capacitaciones y apropiación del conocimiento para generar bases sólidas para el aprovechamiento de los recursos marinos en sí. Pretendo utilizar el conocimiento generado para automatizar informes de las condiciones ambientales en mi área de estudio, para detectar de forma rápida los cambios que ocurren y las tendencias predichas por otras variables.
+
 > Como profesional independiente, los conocimientos adquiridos en Ocean Hack Week fortalecen mi práctica en análisis de datos oceánicos mediante herramientas como JupyterLab, Python y R. Estos recursos me permiten:  
 
 - Desarrollar informes reproducibles y visualizaciones interactivas aplicadas a ecosistemas costeros  
