@@ -1,7 +1,5 @@
 # PORTADA
-<img width="50" height="50" alt="OHWe" src="https://github.com/user-attachments/assets/fde5b9d4-d254-4290-b606-0a951a198059" />
-
-**CURSO AUTONOMO DE LENGUAJES DE PROGRAMACIÓN ABIERTA R Y PYTHON  
+<img width="50" height="50" alt="OHWe" src="https://github.com/user-attachments/assets/fde5b9d4-d254-4290-b606-0a951a198059" />**CURSO AUTONOMO DE LENGUAJES DE PROGRAMACIÓN ABIERTA R Y PYTHON  
 Y OTRAS HERRAMIENTAS DE CIENCIA ABIERTA**
 
 **Autores: Marian Peña, Héctor Villalobos, Emilio Mayorga, Laura Gómez Navarro, Yeray Santana, Jorge F. Cornejo-Donoso, Julia Jaca, Marina Sanz, Milagro Urricariet, Nicolas Lois, Arellys Ornelas, Charles Troupin, Denisse Fierro Arcos, David Correa, Alma Carolina Castillo Trujillo, Lorena Abad, Enrique Montes, Paola Corrales y Elio Campitelli** 
