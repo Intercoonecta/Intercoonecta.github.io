@@ -97,7 +97,8 @@ Esta web tiene como objetivo reunir todo el material de formación creado durant
 Falta:  
 Mantas y pildoras  
 Taller intermedio 2025 metido ya con enlaces definitivos aunque de momento esta en el tree/main  
-Hackaton 2025 cuando estén los enlaces definitivos  
+Hackaton 2025 cuando estén los enlaces definitivos 
+SISTEMA DE BÚSQUEDA DE MATERIALES Y DENTRO DE LOS VÍDEOS  
   
 
 :video_camera: grabaciones
