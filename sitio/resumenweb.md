@@ -1,4 +1,4 @@
-# PORTADA
+# Web principal
 <img width="50" height="50" alt="OHWe" src="https://github.com/user-attachments/assets/fde5b9d4-d254-4290-b606-0a951a198059" />**CURSO AUTONOMO DE LENGUAJES DE PROGRAMACIÓN ABIERTA R Y PYTHON  
 Y OTRAS HERRAMIENTAS DE CIENCIA ABIERTA**
 
@@ -346,7 +346,54 @@ SISTEMA DE BÚSQUEDA DE MATERIALES Y DENTRO DE LOS VÍDEOS (transcripciones)
 
 
 
+# Autores
 
+ Marian Peña, Científica titular de Organismos Públicos de Investigación, Centro Oceanográfico de Baleares, Instituto Español
+de Oceanografía (IEO), CSIC, España  
+<img width="436" height="309" alt="image" src="https://github.com/user-attachments/assets/87c2a804-7fb2-43ed-87ba-c73837fad4f0" />
+
+ 
+ Héctor Villalobos, Profesor Investigador Titular Centro Interdisciplinario de Ciencias Marinas, Instituto Politécnico Nacional (CICIMAR-IPN), México  
+ <img width="280" height="329" alt="image" src="https://github.com/user-attachments/assets/d866f7f5-d02b-4c78-a53c-e4e91e96f216" />
+
+ Emilio Mayorga, Investigador Universidad de Washington, Seattle, Estados Unidos  
+ <img width="291" height="291" alt="image" src="https://github.com/user-attachments/assets/68acda87-7468-42c3-a7ca-a77f7eec3e86" />
+
+ Laura Gómez Navarro, Investigadora Postdoctoral IMEDEA, CSIC, España  
+ <img width="280" height="332" alt="image" src="https://github.com/user-attachments/assets/a1c018a6-6a53-4ed7-846f-062e63eec2fd" />
+
+ Yeray Santana, Investigador Postdoctoral Universidad de Las Palmas de Gran Canaria, España  
+ <img width="275" height="324" alt="image" src="https://github.com/user-attachments/assets/5c7fca5f-8c26-427a-ac13-6bc998264465" />
+
+ Jorge F. Cornejo-Donoso, Investigador Global Fishing  Watch  
+ <img width="343" height="254" alt="image" src="https://github.com/user-attachments/assets/b2ee34d2-243c-4270-b357-ae265a17b1e7" />
+
+ Julia Jaca, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español
+de Oceanografía (IEO), CSIC, España
+ <img width="232" height="250" alt="image" src="https://github.com/user-attachments/assets/bdd830db-20bf-4c91-89c3-2ca3110074e1" />
+
+ Marina Sanz, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español
+ <img width="185" height="215" alt="image" src="https://github.com/user-attachments/assets/147e3a41-c818-46fb-9b84-63d18ab79a64" />
+
+ Milagro Urricariet, Investigador predoctoral y docente Universidad de Buenos Aires, Argentina
+ <img width="286" height="282" alt="image" src="https://github.com/user-attachments/assets/a46bfa3a-dfbe-441e-ae3e-ca6b6b92deca" />
+
+ Nicolas Lois, Investigador Postdoctoral Universidad de Buenos Aires, Argentina 
+ <img width="195" height="202" alt="image" src="https://github.com/user-attachments/assets/866c53b7-5cd8-46b0-9fc2-7babcd3282cc" />
+
+ Arellys Ornelas, Investigadora
+Centro Interdisciplinario de Ciencias Marinas,
+Instituto Politécnico Nacional (CICIMAR-IPN), México
+ <img width="242" height="322" alt="image" src="https://github.com/user-attachments/assets/a7982c6a-2d5b-4dec-b65c-4ee76e51adc3" />
+
+ Charles Troupin, 
+ Denisse Fierro Arcos, 
+ David Correa, 
+ Alma Carolina Castillo Trujillo, 
+ Lorena Abad, 
+ Enrique Montes, 
+ Paola Corrales y 
+ Elio Campitelli
 
 
 
