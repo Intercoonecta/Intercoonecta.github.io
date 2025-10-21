@@ -329,6 +329,23 @@ SISTEMA DE BÚSQUEDA DE MATERIALES Y DENTRO DE LOS VÍDEOS
 
 
 
+# Imágenes 
+
+
+<img width="800" height="272" alt="image" src="https://github.com/user-attachments/assets/f8f30d6f-b4ab-41d9-8725-da346194f285" />
+
+<img width="962" height="302" alt="image" src="https://github.com/user-attachments/assets/d5a44f65-1372-43fa-9422-e8896a0ee0b2" />
+
+<img width="960" height="311" alt="image" src="https://github.com/user-attachments/assets/e1467560-b075-4989-ab84-e2d4856f09dd" />
+
+<img width="950" height="310" alt="image" src="https://github.com/user-attachments/assets/efc9678d-ef00-4826-b468-5373cc2bece5" />
+
+
+
+
+
+
+
 
 
 
