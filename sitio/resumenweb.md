@@ -368,24 +368,23 @@ de Oceanografía (IEO), CSIC, España
  Jorge F. Cornejo-Donoso, Investigador Global Fishing  Watch  
  <img width="343" height="254" alt="image" src="https://github.com/user-attachments/assets/b2ee34d2-243c-4270-b357-ae265a17b1e7" />
 
- Julia Jaca, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español
+ Julia Jaca, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español  
 de Oceanografía (IEO), CSIC, España
  <img width="232" height="250" alt="image" src="https://github.com/user-attachments/assets/bdd830db-20bf-4c91-89c3-2ca3110074e1" />
 
- Marina Sanz, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español
+ Marina Sanz, Investigadora Postdoctoral Centro Oceanográfico de Baleares, Instituto Español    
  <img width="185" height="215" alt="image" src="https://github.com/user-attachments/assets/147e3a41-c818-46fb-9b84-63d18ab79a64" />
 
- Milagro Urricariet, Investigador predoctoral y docente Universidad de Buenos Aires, Argentina
+ Milagro Urricariet, Investigador predoctoral y docente Universidad de Buenos Aires, Argentina  
  <img width="286" height="282" alt="image" src="https://github.com/user-attachments/assets/a46bfa3a-dfbe-441e-ae3e-ca6b6b92deca" />
 
- Nicolas Lois, Investigador Postdoctoral Universidad de Buenos Aires, Argentina 
+ Nicolas Lois, Investigador Postdoctoral Universidad de Buenos Aires, Argentina   
  <img width="195" height="202" alt="image" src="https://github.com/user-attachments/assets/866c53b7-5cd8-46b0-9fc2-7babcd3282cc" />
 
- Arellys Ornelas, Investigadora
-Centro Interdisciplinario de Ciencias Marinas,
-Instituto Politécnico Nacional (CICIMAR-IPN), México
+ Arellys Ornelas, Investigadora Centro Interdisciplinario de Ciencias Marinas, Instituto Politécnico Nacional (CICIMAR-IPN), México  
  <img width="242" height="322" alt="image" src="https://github.com/user-attachments/assets/a7982c6a-2d5b-4dec-b65c-4ee76e51adc3" />
 
+ Participantes anteriores:  
  Charles Troupin, 
  Denisse Fierro Arcos, 
  David Correa, 
