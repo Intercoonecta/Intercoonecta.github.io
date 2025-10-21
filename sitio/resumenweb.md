@@ -26,8 +26,10 @@ Este curso tiene como objetivo reunir todo el material de formación creado dura
 
 **Opiniones** (banda que va cambiando?)
 	
-> Parte de nuestro trabajo es generar reporte técnicos. Rmarkdown ayudará en la sistematización de esos reportes y los códigos en R, esto significa un gran avance. Nos permitirá optimizar tiempo y estandarizar los procedimientos. En mi caso no trabajo con datos medioambientales, pero la herramienta y su uso nos será de gran utilidad. Además, poder generar registros compartidos en GitHub son un potencial para el control de las versiones y el trabajo colaborativo  
-> Los temas sobre análisis de datos con Xarray y la programación en Python pueden aplicarse en mi institución para monitorear cultivos y predecir los impactos generados por el clima.  
+> Parte de nuestro trabajo es generar reporte técnicos. Rmarkdown ayudará en la sistematización de esos reportes y los códigos en R, esto significa un gran avance. Nos permitirá optimizar tiempo y estandarizar los procedimientos. En mi caso no trabajo con datos medioambientales, pero la herramienta y su uso nos será de gran utilidad. Además, poder generar registros compartidos en GitHub son un potencial para el control de las versiones y el trabajo colaborativo
+  
+> Los temas sobre análisis de datos con Xarray y la programación en Python pueden aplicarse en mi institución para monitorear cultivos y predecir los impactos generados por el clima.
+> 
 > Trabajo con datos de modelos, sensores remotos y muestras de campo, mejorar mis habilidades en R, Python y Git - herramientas de software libre - ayuda a fomentar la colaboración con otros colegas favoreciendo el trabajo en equipo tanto en mi institución como con colegas de otras instituciones y países
 > el sistema de phyton nos ayudara a poder a procesar informacion de estaciones meteorologicas
 > Los temas tratados durante la actividad pueden aplicarse en mi institución al fortalecer las capacidades técnicas en el monitoreo y análisis de ecosistemas marinos. Los conocimientos compartidos permiten optimizar metodologías de muestreo, manejo de datos y evaluación de indicadores biológicos, especialmente en mi línea que se  relaciona con la conservación de especies y la calidad ambiental. Además, promueven el uso de herramientas científicas actualizadas y fomentan la colaboración interinstitucional, lo que contribuye a mejorar los proyectos de investigación marina y a generar información útil para la gestión sostenible de los recursos costeros y oceánicos  
