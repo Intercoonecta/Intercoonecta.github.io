@@ -258,11 +258,12 @@ SISTEMA DE BÚSQUEDA DE MATERIALES Y DENTRO DE LOS VÍDEOS (transcripciones)
     *2024 
 :video_camera: https://www.youtube.com/watch?v=qvpxwRmAAbQ  
 
-
-## Intermedio 
 - Visualización en Python  
 :video_camera:  https://www.youtube.com/watch?v=fWtGZ0w6j48  
-:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/visualizacion_python/  
+:file_folder: https://github.com/Intercoonecta/tutoriales/tree/ohwe23/martes/visualizacion_python/
+
+## Intermedio 
+ 
 
 - Datos temporales en Python
   * 2024  
