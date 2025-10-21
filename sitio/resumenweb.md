@@ -331,6 +331,8 @@ SISTEMA DE BÚSQUEDA DE MATERIALES Y DENTRO DE LOS VÍDEOS
 
 # Imágenes 
 
+![a  GIF](https://github.com/user-attachments/assets/fddd9613-13be-4ff0-bfc4-be63f5e86afb)
+
 
 <img width="800" height="272" alt="image" src="https://github.com/user-attachments/assets/f8f30d6f-b4ab-41d9-8725-da346194f285" />
 
