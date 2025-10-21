@@ -321,8 +321,9 @@ Hackaton 2025 cuando estén los enlaces definitivos
 
 
 
+
 <img width="100" height="100" alt="OHWe" src="https://github.com/user-attachments/assets/fde5b9d4-d254-4290-b606-0a951a198059" />
-<img width="750" height="150" alt="organizaciones-logos-1" src="https://github.com/user-attachments/assets/1640e63d-0269-442c-b816-3994a154bac2" />
+<img width="630" height="320" alt="image" src="https://github.com/user-attachments/assets/5b18bd38-2def-4824-a9ff-7b0f0a59a282" />
 <img width="1250" height="150" alt="AECID-EmbajEspanaGuate-logos-barra" src="https://github.com/user-attachments/assets/63b5d7db-091f-4a46-88c1-cd2db74f401a" />
 
 
