@@ -1,5 +1,5 @@
 # PORTADA
-
+<img width="50" height="50" alt="OHWe" src="https://github.com/user-attachments/assets/fde5b9d4-d254-4290-b606-0a951a198059" />
 
 **CURSO AUTONOMO DE LENGUAJES DE PROGRAMACIÓN ABIERTA R Y PYTHON  
 Y OTRAS HERRAMIENTAS DE CIENCIA ABIERTA**
@@ -321,9 +321,11 @@ Hackaton 2025 cuando estén los enlaces definitivos
 
 
 
+# Financiado por
 
-<img width="100" height="100" alt="OHWe" src="https://github.com/user-attachments/assets/fde5b9d4-d254-4290-b606-0a951a198059" />
-<img width="630" height="320" alt="image" src="https://github.com/user-attachments/assets/5b18bd38-2def-4824-a9ff-7b0f0a59a282" />
+<img width="315" height="160" alt="image" src="https://github.com/user-attachments/assets/5b18bd38-2def-4824-a9ff-7b0f0a59a282" />
+<img width="70" height="66" alt="image" src="https://github.com/user-attachments/assets/f59134e0-74a1-497f-bfe7-9e666bc423fb" />
+
 <img width="1250" height="150" alt="AECID-EmbajEspanaGuate-logos-barra" src="https://github.com/user-attachments/assets/63b5d7db-091f-4a46-88c1-cd2db74f401a" />
 
 
