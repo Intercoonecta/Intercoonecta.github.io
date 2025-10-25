@@ -16,13 +16,13 @@ parts:
     title: Aula invertida Edición 2025
   - file: aulainvertida
     sections:
-    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-github/Github.md
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-github/Github.md
       title: Git y GitHub
-    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-R/R.md
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-R/R.md
       title: R
-    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Jupyter/Jupyter.md
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/Jupyter.md
       title: Jupyter
-    - url: https://github.com/Intercoonecta/Aula-invertida/tree/main/Intro-a-Python/Python.md
+    - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Python/Python.md
       title: Python
     - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md
       title: Markdown y Rmarkdown

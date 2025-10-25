@@ -5,7 +5,7 @@ Todas las sesiones comienzan a las 8:00 am en Guatemala. [Mira la hora en tu zon
 
 **Requisitos: instalación de [GIT](https://git-scm.com/downloads) y abrir una [cuenta en github](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github)** 
 
-**Scripts**: https://github.com/Intercoonecta/Talleres_intermedios
+**Scripts**: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25
 
 **Programa**
 
