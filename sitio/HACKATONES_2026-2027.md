@@ -4,7 +4,7 @@
 ## ACTIVIDAD 1:   Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026)
 Evento altamente participativo donde cada asistente presentará su trabajo cotidiano, herramientas usadas, acceso a datos/recursos digitales, posibles mejoras con ciencia abierta, y temas de interés. Esto fomentará la interacción, optimizará los grupos del hackatón y permitirá generar un informe sobre el estado actual y las oportunidades de mejora en ciencia digital. Asímismo se formará a los participantes sin experiencia a través de 3 sesiones síncronas y el material previamente desarrollado.
 Desarrollo de ejercicios sencillos en torno a una temática que ellos mismos vayan desarrollando y presenten el viernes.
-- Día 1: Presentaciones y envío de material de estudio y ejercicios a realizar. Marian
+- Día 1: Presentaciones y visualización del material de estudio en la nueva web. Explicación de ejercicios a realizar. Marian
 - Día 2: Sesión síncrona GIT e instalaciones: revisión ejercicios y dudas. Julia, Emilio
 - Día 3: Sesión síncrona R y estadística: revisión ejercicios y dudas. Arellys, Héctor
 - Día 4: Sesión síncrona Python: revisión ejercicios y dudas. Laura, Yeray
