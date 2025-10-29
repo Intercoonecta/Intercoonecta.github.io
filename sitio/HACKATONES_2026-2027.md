@@ -7,7 +7,7 @@ Evento altamente participativo donde cada asistente presentará su trabajo cotid
 - Día 2: Sesión síncrona GIT e instalaciones: revisión ejercicios y dudas. Julia, Emilio
 - Día 3: Sesión síncrona R y estadística: revisión ejercicios y dudas. Arellys, Héctor
 - Día 4: Sesión síncrona Python: revisión ejercicios y dudas. Laura, Yeray
-- Día 5:
+- Día 5: Creación de grupos de Hackaton (dinámica participativa con presentaciones de participantes?). Jorge, Yeray
 
 ## ACTIVIDAD 2: Hackaton Oceanhackweek en español (Edición 2026)
 Trabajo grupal que combina formación mentorizada práctica por las mañanas y trabajo colaborativo por proyectos por las tardes. Se basa en el evento previo “Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica (Edición 2026)”, que se realizaría la semana anterior para mantener a los mismos participantes, quienes ya habrán compartido intereses y avanzado en la formación requerida.
