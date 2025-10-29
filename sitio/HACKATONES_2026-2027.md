@@ -3,11 +3,12 @@
 
 ## ACTIVIDAD 1:   Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026)
 Evento altamente participativo donde cada asistente presentará su trabajo cotidiano, herramientas usadas, acceso a datos/recursos digitales, posibles mejoras con ciencia abierta, y temas de interés. Esto fomentará la interacción, optimizará los grupos del hackatón y permitirá generar un informe sobre el estado actual y las oportunidades de mejora en ciencia digital. Asímismo se formará a los participantes sin experiencia a través de 3 sesiones síncronas y el material previamente desarrollado.
+Desarrollo de ejercicios sencillos en torno a una temática que ellos mismos vayan desarrollando y presenten el viernes.
 - Día 1: Presentaciones y envío de material de estudio y ejercicios a realizar. Marian
 - Día 2: Sesión síncrona GIT e instalaciones: revisión ejercicios y dudas. Julia, Emilio
 - Día 3: Sesión síncrona R y estadística: revisión ejercicios y dudas. Arellys, Héctor
 - Día 4: Sesión síncrona Python: revisión ejercicios y dudas. Laura, Yeray
-- Día 5: Creación de grupos de Hackaton (dinámica participativa con presentaciones de participantes?). Jorge, Yeray
+- Día 5: Presentaciones mini-proyectos. Creación de grupos de Hackaton (dinámica participativa con presentaciones de participantes?). Jorge, Yeray
 
 ## ACTIVIDAD 2: Hackaton Oceanhackweek en español (Edición 2026)
 Trabajo grupal que combina formación mentorizada práctica por las mañanas y trabajo colaborativo por proyectos por las tardes. Se basa en el evento previo “Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica (Edición 2026)”, que se realizaría la semana anterior para mantener a los mismos participantes, quienes ya habrán compartido intereses y avanzado en la formación requerida.
