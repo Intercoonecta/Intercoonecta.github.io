@@ -34,3 +34,12 @@ Se celebrará una mesa redonda con expertos de todos los sectores involucrados e
   mayo del 2026 a abril de 2027 (hay que hacer listado de personal, distribuir la encuesta, recopilar respuestas, analizar información y preparar informe) 
 - ACTIVIDAD 6 
 septiembre-octubre de 2026
+
+## PRODUCTOS DE CONOCIMIENTO
+1.WEB: Material de formación avanzada para la aplicación de modelos científicos avanzados en
+investigación marina y gestión pesquera con scripts de programación y vídeos formativos.
+2. Informe sobre la situación actual y posibilidades de mejora en relación a los recursos digitales y la
+ciencia abierta
+3. Foro permanente para la discusión y resolución de problemas y la interacción colaborativa futura
+4. Informe de los retos de la pesca en la zona
+5. Conclusiones del análisis de pesca sostenible
