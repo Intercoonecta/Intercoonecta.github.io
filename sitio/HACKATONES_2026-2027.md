@@ -14,6 +14,8 @@ Desarrollo de ejercicios sencillos en torno a una temática que ellos mismos vay
 - Día 4: Sesión síncrona Python: revisión ejercicios y dudas. Laura, Yeray
 - Día 5: Presentaciones mini-proyectos combinados. Creación de grupos de Hackaton (dinámica participativa con presentaciones de participantes?). Jorge, Yeray
 
+- Encuesta sobre acceso a recursos digitales de la que conversar durante la semana (priemr dia?)
+
 ## ACTIVIDAD 2: Hackaton Oceanhackweek en español (Edición 2026)
 Trabajo grupal que combina formación mentorizada práctica por las mañanas y trabajo colaborativo por proyectos por las tardes. Se basa en el evento previo “Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica (Edición 2026)”, que se realizaría la semana anterior para mantener a los mismos participantes, quienes ya habrán compartido intereses y avanzado en la formación requerida.
 ## ACTIVIDAD 3: Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2027)
