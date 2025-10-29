@@ -27,3 +27,10 @@ diversas y lograr un enfoque holístico. Los resultados orientarán políticas p
 Se celebrará una mesa redonda con expertos de todos los sectores involucrados en la pesca para debatir estrategias frente a los retos prioritarios. La selección será representativa por país, género y condición socioeconómica. Se enviará un resumen previo y preguntas guía. Durante la sesión se presentarán resultados y se debatirán visiones. Habrá turno de preguntas del público online. La actividad se grabará y se elaborará un decálogo con conclusiones para una pesca sostenible en Iberoamérica.
 
 
+## CALENDARIO
+- ACTIVIDADES 1 y 2 Octubre 2026
+- ACTIVIDADES 3 y 4 Octubre 2026
+- ACTIVIDAD 5
+  mayo del 2026 a abril de 2027 (hay que hacer listado de personal, distribuir la encuesta, recopilar respuestas, analizar información y preparar informe) 
+- ACTIVIDAD 6 
+septiembre-octubre de 2026
