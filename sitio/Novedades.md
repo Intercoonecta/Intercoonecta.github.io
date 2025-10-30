@@ -17,7 +17,7 @@ será el HACKATON Edición 2005!
 
 <img width="1440" height="200" alt="image" src="https://github.com/user-attachments/assets/6a92064a-9f89-4e5b-8ca7-9b2b1092fdae" />
 
-.contenedor-imagen-texto {
+<link> .contenedor-imagen-texto {
   display: flex;
   align-items: center; /* Alinea los elementos verticalmente */
   width: 100%;
@@ -29,7 +29,8 @@ será el HACKATON Edición 2005!
   width: 50%; /* O el ancho que necesites */
 }
 
-.contenedor-imagen-texto img {
+ .contenedor-imagen-texto img {
   /* Estilos para la imagen, si son necesarios */
   max-width: 50%;
 }
+
