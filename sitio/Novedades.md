@@ -1,13 +1,6 @@
-%%HTML
-
-<style>
-td,th {
-  font-size: 15px
-}
-</style>
 |||
 |:-:|:-:|
-|**Últimas Novedades**|<img width="80" height="212" alt="image" src="https://github.com/user-attachments/assets/e48bdc1d-aa10-4730-a782-24d8524dd39d" /> |    
+|&#60;font size=4&#62;**Últimas Novedades**&#60;/font&#62;|<img width="80" height="212" alt="image" src="https://github.com/user-attachments/assets/e48bdc1d-aa10-4730-a782-24d8524dd39d" /> |    
 
 El próximo evento de OceanhHackweek en español será el HACKATON Edición 2005!
 <img width="482" height="150" alt="image" src="https://github.com/user-attachments/assets/dfe97489-4878-42ba-9daa-72aa1ddb28b2" />
