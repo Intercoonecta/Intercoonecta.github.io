@@ -1,6 +1,6 @@
 # Últimas Novedades <img width="80" height="212" alt="image" src="https://github.com/user-attachments/assets/e48bdc1d-aa10-4730-a782-24d8524dd39d" />
 <div class="contenedor">
-  <img src="https://github.com/user-attachments/assets/e48bdc1d-aa10-4730-a782-24d8524dd39d" alt="">
+  <img width="80" height="212"  src="https://github.com/user-attachments/assets/e48bdc1d-aa10-4730-a782-24d8524dd39d" alt="">
   <p># Últimas <br># Novedades.</p>
 </div>
 
