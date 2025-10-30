@@ -1,12 +1,16 @@
-<style scoped>
-table {
-  font-size: 13px;
+%%HTML
+
+<style>
+td,th {
+  font-size: 15px
 }
+</style>
 |||
 |:-:|:-:|
-|**Últimas Novedades**|<img width="80" height="212" alt="image" src="https://github.com/user-attachments/assets/e48bdc1d-aa10-4730-a782-24d8524dd39d" /> |  
+|**Últimas Novedades**|<img width="80" height="212" alt="image" src="https://github.com/user-attachments/assets/e48bdc1d-aa10-4730-a782-24d8524dd39d" /> |    
+
 El próximo evento de OceanhHackweek en español será el HACKATON Edición 2005!
-<img width="482" height="123" alt="image" src="https://github.com/user-attachments/assets/dfe97489-4878-42ba-9daa-72aa1ddb28b2" />
+<img width="482" height="150" alt="image" src="https://github.com/user-attachments/assets/dfe97489-4878-42ba-9daa-72aa1ddb28b2" />
 
 * Apúntate [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-espa-ol-en-ciencia-marina-edici-n-2025)  
 * Más info [aquí](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/ohw2025.md)
