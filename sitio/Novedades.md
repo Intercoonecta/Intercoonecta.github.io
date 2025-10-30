@@ -9,7 +9,7 @@ El próximo evento de OceanhHackweek en español será el HACKATON Edición 2005
 
 <div style="display: flex; align-items: center;">
   <img width="250" height="250"  src="https://github.com/user-attachments/assets/e390cff3-064c-4307-987f-58c01b7c93d1" alt="YA ESTAMOS PREPARANDO LAS EDICIONES DE 2026 Y 2027! " style="margin-right: 1em;">
-  <p>Este es el texto que estará al lado de la imagen.</p>
+  <p>YA ESTAMOS PREPARANDO LAS EDICIONES DE 2026 Y 2027!.</p>
 </div>
 
 <img width="1440" height="200" alt="image" src="https://github.com/user-attachments/assets/6a92064a-9f89-4e5b-8ca7-9b2b1092fdae" />
