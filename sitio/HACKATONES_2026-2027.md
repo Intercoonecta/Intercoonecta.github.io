@@ -8,10 +8,10 @@ Desarrollo de ejercicios sencillos en torno a una temática que ellos mismos vay
 - persona 1 crea repositorio e invita al resto
 - persona 2 obtiene los datos
 - persona 3 crea visualizaciones
-- persona 4 crea informe
+- persona 4 crea informe  
 **Requisito**
 - Cuenta github
-- Conocimientos básicos de R o Python
+- Conocimientos básicos de R o Python  
 **Calendario**:
 - Encuesta previa sobre acceso a recursos digitales de la que conversar durante el primer dia.
   
