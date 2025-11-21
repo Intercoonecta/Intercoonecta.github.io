@@ -28,7 +28,7 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 ## PROYECTO 3
 
 
-- **Tema:** Riesgos costeros por cambio climático
+- **Tema:** Riesgos costeros por cambio climático (inundaciones)
 - **Mentoras:** Julia Jaca
 - **breve descripción:** 
 - **Lenguaje:** Python
