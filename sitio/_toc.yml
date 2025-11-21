@@ -43,6 +43,8 @@ parts:
   chapters:
   - file: proyectos/index
     title: Descripción
+  - file: proyectos/proyectos2025
+    title: Lista de proyectos 2025
   - file: proyectos/proyectos2024
     title: Lista de proyectos 2024
   - file: proyectos/proyectos2023
@@ -89,3 +91,4 @@ parts:
   chapters:
   - file: Datos_en_abiertoLAyC.md
   - file: jupyter_y_python
+
