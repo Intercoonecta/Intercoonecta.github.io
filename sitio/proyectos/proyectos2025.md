@@ -10,8 +10,7 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 ## PROYECTO 1
 
 - **Tema:** Pesca
-- **Mentores:** Héctor Villalobos, Marina Sanz
-- **Título:**
+- **Mentores:** Héctor Villalobos, Jorge Cornejo
 - **breve descripción:** 
 - **Lenguaje:** R. 
 - **Participantes:** 
@@ -21,12 +20,19 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 
 - **Tema:** Simulaciones y análisis de contaminación marina
 - **Mentoras:** [Laura Gómez Navaro](https://github.com/LauraGomezNavarro/), Julia Jaca
-- **Título:** 
 - **breve descripción:** La contaminación marina implica tanto contaminación marina por plásticos, petróleo u otros como _Sargassum_, un alga que llega en cantidades excesivas en algunas costas tropicales. Una herramienta que podemos usar son las simulaciones Lagrangianas para generar estimaciones de las trayectorias de los diferentes tipos de contaminación marina.  El análisis de estas no puede ayudar de entender su origen, destino y a identificar las diferentes zonas de acumulación.
 - **Lenguaje:** Python
 - **Participantes:** 
 - **Repositorio en GitHub:** 
 
 ## PROYECTO 3
+
+
+- **Tema:** Riesgos costeros por cambio climático
+- **Mentoras:** Julia Jaca
+- **breve descripción:** 
+- **Lenguaje:** Python
+- **Participantes:** 
+- **Repositorio en GitHub:** 
 
 
