@@ -32,6 +32,21 @@ parts:
     title: Primeros pasos
   - file: tutorialesintermedios2025
     title: Tutoriales intermedios 2025
+    sections:
+    - url: https://github.com/Intercoonecta/Talleres_intermedios/blob/ohwe25/6-Octubre-2025/datos_temporales_python/Intro_datos_temporales.ipynb
+      title: Datos temporales con Xarray (Python)
+    - url: https://github.com/Intercoonecta/Talleres_intermedios/blob/ohwe25/7-Octubre-2025/datos_espaciales_python/visualizacion_datos_espaciales.ipynb
+      title: Visualización de datos geoespaciales con Cartopy (Python)
+    - url: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/7-Octubre-2025/informes_python
+      title: Informes con Python
+    - url: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/8-Octubre-2025/datos_espaciales_R
+      title: Datos espaciales con R
+    - url: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/8-Octubre-2025/datos_temporales_R
+      title: Datos temporales con R
+    - url: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/informes_R
+      title: Informes con Rmarkdown (R)
+    - url: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/analisis_estadistico_R
+      title: Análisis estadístico con R
 - caption: Hackatón
   chapters:
   - file: hackaton-que-es
