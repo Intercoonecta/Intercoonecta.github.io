@@ -24,22 +24,9 @@ Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpu
 
 ```{admonition} Carga el repositorio de los tutoriales por medio de **nbgitpuller**
 
-El enlace `nbgitpuller` es mágico, pero no puede detectar cual entorno (Python o R) estás ejecutando actualmente. Ambos enlaces, de Python y R, actualizan el mismo repositorio de tutoriales, pero pueden dar un error si utilizas el enlace de Python mientras estás en el entorno de R, o viceversa. Para cargar (subir) o actualizar los tutoriales del repositorio [`tutoriales`](https://github.com/Intercoonecta/tutoriales) en tu cuenta en el Hub, presiona la pestaña correspondiente:
+Para cargar (subir, hacer un "pull" de git) o actualizar los tutoriales del repositorio [`tutoriales`](https://github.com/Intercoonecta/tutoriales) en tu cuenta en el Hub, presiona este enlace:
 
-::::{tab-set}
+https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/tutoriales&urlpath=lab/tree/tutoriales
 
-:::{tab-item} Python
-
-Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales para el entorno de Python](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/tutoriales&urlpath=lab/tree/tutoriales)
-
-:::
-
-:::{tab-item} R
-
-Presiona este enlace para [hacer un "pull" del repositorio de los tutoriales para el entorno de R](https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/tutoriales&urlpath=rstudio)
-
-:::
-
-::::
-
+Presionar el enlace probablemente abrirá una pestaña nueva del navegador. Puedes cerrarla y regresar a la pestaña dónde tienes o JupyterLab o RStudio (no importa cual)
 ```

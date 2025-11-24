@@ -50,35 +50,46 @@ Esta te pide otorgar el permiso requerido a nuestro sistema de JupyterHub para c
 
 ### ¡Ya estás adentro!
 
-Ahora sólo falta seleccionar el lenguaje de programación y la aplicación que deseas usar en la sesión actual, "**Python** / Python en JupyterLab" o "**R** / R en RStudio", y presionar el botón "Start":
+La siguiente pantalla muestra el entorno que será usado, junto con la capacidad del servidor virtual que estará a tu disposición. El entorno contiene tanto Python como R, y da acceso a las aplicaciones JupyterLab, RStudio, y otras (en eventos anteriores, los entornos de Python y R estaban separados). Presiona el botón "Start":
 
-![hub select Python or R](/imagenes/jupyterhub/ohwe25-jupyterhub-select-Python-or-R.png)
+![accept combined Python + R image](/imagenes/jupyterhub/ohwe25-jupyterhub-accept-single-image.png)
 
-Una vez hecha la selección, verás una notificación como esta mientras el entorno de JupyterHub está cargando:
+Después de este paso verás una notificación como esta mientras el entorno de JupyterHub está cargando:
 
 ![hub-loading](/imagenes/jupyterhub/ohwe24-jupyterhub-loading.png)
 
 Tomará un poco de tiempo en cargar y estar listo, especialmente la primera vez. ¡Ten paciencia! Una vez que esté listo:
 
-```{admonition} ¿Seleccionaste *Python* o *R*? Presiona la pestaña correspondiente
+```{admonition} Primero entrarás a JupyterLab. Presiona la pestaña correspondiente al lenguaje que deseas usar
 
 ::::{tab-set}
 
 :::{tab-item} Python -> JupyterLab
 
- **Si seleccionaste "Python"**, verás tu propia instancia de **JupyterLab** (con interfaz en inglés):
+Si vas a trabajar en Python, tu propia instancia de **JupyterLab** ya está lista (con interfaz en inglés):
 
-![JupyterLab - inglés](/imagenes/jupyterhub/ohwe24-jupyterhub-Python-jupyterlab-eng.png)
+![JupyterLab - inglés](/imagenes/jupyterhub/ohwe25-jupyterhub-Python-jupyterlab-eng.png)
 
 Y al [cambiar el idioma del interfaz a español](https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Jupyter/jupyter-tutorial.md#cambiar-el-interfaz-al-espa%C3%B1ol):
 
-![JupyterLab - español](/imagenes/jupyterhub/ohwe24-jupyterhub-Python-jupyterlab-es.png)
+![JupyterLab - español](/imagenes/jupyterhub/ohwe25-jupyterhub-Python-jupyterlab-es.png)
 
 :::
 
 :::{tab-item} R -> RStudio
 
-**Si seleccionaste R,** verás tu propia instancia de **RStudio** (con interfaz en inglés):
+Para lanzar **RStudio** (con interfaz en inglés), presiona el botón de RStudio bajo el Launcher (Lanzador) de JupyterLab.
+
+Con el interfaz de JupyterLab en inglés:
+
+![Lanzar RStudio - JLab en inglés](/imagenes/jupyterhub/ohwe25-JLab-launch-RStudio-eng.png)
+
+Con el interfaz de JupyterLab en español:
+
+![Lanzar RStudio - JLab en español](/imagenes/jupyterhub/ohwe25-JLab-launch-RStudio-es.png)
+
+
+RStudio abrirá en otra pestaña del navegador:
 
 ![RStudio](/imagenes/jupyterhub/ohwe24-jupyterhub-R-RStudio.png)
 
@@ -91,7 +102,7 @@ Y al [cambiar el idioma del interfaz a español](https://github.com/Intercoonect
 
 ## Cómo cargar el repositorio de los tutoriales al Hub
 
-Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/) para clonar y extraer el repositorio de los tutoriales, o actualizar la copia que ya tienes. `nbgitpuller` se aplica a través de un enlace especial, adaptado a un repositorio específico y al entorno o de Python o de R. 
+Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/) para clonar y extraer el repositorio de los tutoriales, o actualizar la copia que ya tienes. `nbgitpuller` se aplica a través de un enlace especial, adaptado a un repositorio específico (para el Taller Intermedio o Hackatón). 
 
 Instrucciones y enlaces específicos se encuentran bajo cada evento:
 - [Instrucciones para el **Taller Intermedio**](hub-cargartutoriales:taller-intermedio)
