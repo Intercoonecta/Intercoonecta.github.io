@@ -33,6 +33,16 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **breve descripción:** 
 - **Lenguaje:** Python
 - **Participantes:** 
+- **Repositorio en GitHub:**
+
+## PROYECTO 4
+
+
+- **Tema:** Señal vs ruido para detectar zonas de aumento de SST
+- **Mentores:** Nicolás Lois
+- **breve descripción:** Análisis de la temperatura superficial del mar para identificar dónde el calentamiento es evidente por encima de la variabilidad natural. A partir de datos de SST (satelital o modelados) calcularemos medidas de tendencia y variabilidad, y signal-to-noise ratio (SNR). Se generarán campos simples que muestren regiones con alta señal climática y zonas donde dicha señal no supera la variabilidad natural observada
+- **Lenguaje:** Python
+- **Participantes:** 
 - **Repositorio en GitHub:** 
 
 
