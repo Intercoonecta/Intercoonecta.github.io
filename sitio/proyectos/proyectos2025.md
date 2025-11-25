@@ -18,25 +18,14 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 
 ## PROYECTO 2
 
-- **Tema:** Simulaciones y análisis de contaminación marina
-- **Mentoras:** [Laura Gómez Navaro](https://github.com/LauraGomezNavarro/)
+- **Tema:** Simulaciones y análisis de contaminación marina y Riesgos costeros por cambio climático (inundaciones)
+- **Mentoras:** [Julia Jaca](https://github.com/juliajaca/) y [Laura Gómez Navaro](https://github.com/LauraGomezNavarro/)
 - **breve descripción:** La contaminación marina implica tanto contaminación marina por plásticos, petróleo u otros como _Sargassum_, un alga que llega en cantidades excesivas en algunas costas tropicales. Una herramienta que podemos usar son las simulaciones Lagrangianas para generar estimaciones de las trayectorias de los diferentes tipos de contaminación marina.  El análisis de estas no puede ayudar de entender su origen, destino y a identificar las diferentes zonas de acumulación.
 - **Lenguaje:** Python
-- **Participantes:** 
+- **Participantes:** Andrea, Jesus, Jonathan, Julio, Javier
 - **Repositorio en GitHub:** 
 
 ## PROYECTO 3
-
-
-- **Tema:** Riesgos costeros por cambio climático (inundaciones)
-- **Mentoras:** Julia Jaca
-- **breve descripción:** 
-- **Lenguaje:** Python
-- **Participantes:** 
-- **Repositorio en GitHub:**
-
-## PROYECTO 4
-
 
 - **Tema:** Señal vs ruido para detectar zonas de aumento de SST
 - **Mentores:** Nicolás Lois
