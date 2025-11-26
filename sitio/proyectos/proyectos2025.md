@@ -23,7 +23,7 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **breve descripción:** La contaminación marina implica tanto contaminación marina por plásticos, petróleo u otros como _Sargassum_, un alga que llega en cantidades excesivas en algunas costas tropicales. Una herramienta que podemos usar son las simulaciones Lagrangianas para generar estimaciones de las trayectorias de los diferentes tipos de contaminación marina.  El análisis de estas no puede ayudar de entender su origen, destino y a identificar las diferentes zonas de acumulación.
 - **Lenguaje:** Python
 - **Participantes:** Andrea, Jesus, Jonathan, Julio, Javier
-- **Repositorio en GitHub:** 
+- **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe25-proy2-contaminacion_inundacion
 
 ## PROYECTO 3
 
