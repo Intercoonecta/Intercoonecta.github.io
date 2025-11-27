@@ -152,7 +152,37 @@ Los menús `File > Log out` y `File > Quit session` en realidad no hacen nada! P
 
 ```
 
-
 ### No perderás tu trabajo
 
 Cerrar la sesión del Hub (`Stop My Server`) **NO** causará la pérdida de tu trabajo o archivos que has creado. Simplemente apaga algunos recursos computacionales. Es equivalente a apagar tu computadora al final del día.
+
+
+## Crear entornos de conda persistentes pero accesibles sólo en tu cuenta
+
+Para proyectos, a veces se necesitan paquetes que no están presentes en el entorno universal en el JupyterHub. En este caso, especialmente con Python, es útil poder definir un entorno de conda específico para el proyecto, con una definición (por ej., un archivo `environment.yml`) que puede ser compartida entre miembros del proyecto para que cada quien pueda crear el entorno en su propia cuenta.
+
+Para crear un entorno personal, persistente (estará accesible después de que cierres la sesión y abras una nueva), sigue estos pasos en la terminal:
+
+```bash
+# Crear el entorno con la definicion de los paquetes en un archivo environment.yml
+conda env create -p $HOME/envs/nombre_de_tu_entorno -f environment.yml
+# O crear un entorno con una lista de paquetes en el comando
+conda create -p $HOME/envs/nombre_de_tu_entorno -c conda-forge python=3.12 ipykernel <mi paquete 1> <mi paquete 2> <etc>
+
+# Estos pasos hacen disponible el entorno a los cuadernos Jupyter
+conda activate $HOME/envs/nombre_de_tu_entorno
+python -m ipykernel install --user --name nombre_de_tu_entorno
+```
+
+Para activar el entorno y hacerlo disponible en la terminal:
+
+```bash
+conda activate $HOME/envs/nombre_de_tu_entorno
+```
+
+Finalmente, para remover el entorno:
+
+```bash
+conda remove -p $HOME/envs/nombre_de_tu_entorno --all
+jupyter kernelspec uninstall nombre_de_tu_entorno
+```
