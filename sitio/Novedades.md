@@ -6,7 +6,7 @@
 
 |||
 |:-:|:-:|
-|<pre><br/>&nbsp;&nbsp;El próximo evento de OceanhHackweek<br/>&nbsp;&nbsp; en español será el HACKATON:<br/>&nbsp;&nbsp; Edición 2005!<br/>&nbsp;&nbsp;  [Apúntate](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-espa-ol-en-ciencia-marina-edici-n-2025) [Más info](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/ohw2025.md)<br/></pre> <img width="241" height="75" alt="image" src="https://github.com/user-attachments/assets/dfe97489-4878-42ba-9daa-72aa1ddb28b2"/> | <img width="250" height="250" src="https://github.com/user-attachments/assets/e390cff3-064c-4307-987f-58c01b7c93d1"/> <pre><br/>&nbsp;&nbsp;YA ESTAMOS PREPARANDO<br/>&nbsp;&nbsp;LAS EDICIONES DE 2026 Y 2027!<br/></pre>| 
+|| <img width="250" height="250" src="https://github.com/user-attachments/assets/e390cff3-064c-4307-987f-58c01b7c93d1"/> <pre><br/>&nbsp;&nbsp;YA ESTAMOS PREPARANDO<br/>&nbsp;&nbsp;LAS EDICIONES DE 2026 Y 2027!<br/></pre>| 
 
 
 
