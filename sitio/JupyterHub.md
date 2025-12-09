@@ -114,7 +114,7 @@ Instrucciones y enlaces específicos se encuentran bajo cada evento:
 
 Puedes obtener el mismo resultado que `nbgitpuller` utilizando `git` directamente, pero puede requerir una combinación complicada de `git add`, `git stash`, `git pull`, y `git stash apply` para retener tus cambios junto con los cambios hechos en el repositorio fuente.
 
-**¡Atención!** Si comienzas utilizando el enlace de `nbgitpuller` y luego tratas de cambiar al uso de `git` directamente, cuando trates de usar el enlace de `nbgitpuller` de nuevo es muy probable que te encuentres con [resultados impredecibles (enlace en inglés)](https://jupyterhub.github.io/nbgitpuller/#when-to-use-nbgitpuller). Esto puede ser corregido borrando, moviendo o cambiando el nombre del directory de los tutoriales y utilizando `nbgitpuller` de nuevo.
+**¡Atención!** Si comienzas utilizando el enlace de `nbgitpuller` y luego tratas de cambiar al uso de `git` directamente, cuando trates de usar el enlace de `nbgitpuller` de nuevo es muy probable que te encuentres con [resultados impredecibles (enlace en inglés)](https://jupyterhub.github.io/nbgitpuller/#when-to-use-nbgitpuller). Esto puede ser corregido borrando, moviendo o cambiando el nombre de la carpeta de los tutoriales y utilizando `nbgitpuller` de nuevo.
 
 
 (hub:cerrar-sesion)=

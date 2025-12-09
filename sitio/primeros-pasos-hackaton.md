@@ -26,7 +26,7 @@ Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpu
 
 Para cargar (subir, hacer un "pull" de git) o actualizar los tutoriales del repositorio [`tutoriales`](https://github.com/Intercoonecta/tutoriales) en tu cuenta en el Hub, presiona este enlace:
 
-https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/tutoriales&urlpath=lab/tree/tutoriales
+https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/tutoriales&urlpath=lab/tree/tutoriales&branch=ohwe25
 
 Presionar el enlace probablemente abrirá una pestaña nueva del navegador. Puedes cerrarla y regresar a la pestaña dónde tienes o JupyterLab o RStudio (no importa cual)
 ```
