@@ -11,25 +11,33 @@ Colaboradores previos: Charles Troupin, Denisse Fierro Arcos, David Correa
 
 ¿Qué es OHWe? Las Hackweeks son eventos intensivos e interactivos de aprendizaje de ciencia de datos que incluyen tutoriales sobre metodologías avanzadas, aprendizaje entre pares y trabajo colaborativo en proyectos. La iniciativa [OceanHackWeek (OHW)](https://oceanhackweek.org) ha avanzado en este enfoque y ha involucrado a casi 400 participantes de todos los continentes desde 2018 a través de eventos anuales presenciales, virtuales e híbridos. OHW es un enfoque innovador para enseñar habilidades de ciencia de datos dirigidas a apoyar a científicos marinos y administradores de recursos. Después de 4 años de exitosos eventos OHW en inglés, desarrollamos recursos y eventos en español como una iniciativa equitativa, inclusiva y de desarrollo de capacidades que aborda las barreras lingüísticas y culturales. La iniciativa OHW en Español (OHWe) adaptó el modelo bien establecido de OHW para servir a las comunidades de habla hispana a través de eventos virtuales e híbridos gratuitos que convocan a diversos participantes y organizadores de toda América Latina y a hispanohablantes de todo el mundo.
 
-Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es), las primeras actividades tuvieron lugar como parte del proyecto **INVIPESCA-FORT** en 2022 y 2023:
-- Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
-- Hackaton: 27 de febrero a 3 de marzo de 2023
+Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es), previas fueron las siguientes:
 
-En 2024-2025 y enmarcadas en el proyecto **HACKATONES 2023-2025**, las actividades planeadas son:
+| Año|     Fechas |  Actividad| Proyecto| Financiación|
+| ------|  --------------- | ------------------------| ----------| ----------| 
+| 2022 | 28 de noviembre al 09 de diciembre  |[Aula invertida 2022](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)| INVIPESCA-FORT|CSIC+AECID|
+| 2023 | 27 de febrero al 3 de marzo    | [Hackaton 2023](https://intercoonecta.github.io/ohw2023.html)| INVIPESCA-FORT|CSIC+AECID|
+| 2024 |   21 y 22 de mayo    | Webinario| HACKATONES 2023-2025| CSIC+AECID|
+| 2024 |  17 al 28 de julio       |  [Aula invertida 2024](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)|HACKATONES 2023-2025 | CSIC+AECID|
+| 2024 |  7 al 18 de octubre         | [Tutoriales intermedios 2024](https://intercoonecta.github.io/tutorialesintermedios2024.html)|HACKATONES 2023-2025| CSIC+AECID|
+| 2024 | 25 al 29 de noviembre   |[Hackaton 2024](https://intercoonecta.github.io/ohw2024.html)|HACKATONES 2023-2025| CSIC+AECID|
+| 2025 |  5 al 16 de mayo    |    [Aula invertida 2025](https://intercoonecta.github.io/aulainvertida2025.html)| HACKATONES 2023-2025 | CSIC+AECID|
+| 2025|   06 al 17 de octubre    | [Tutoriales intermedios 2025](https://intercoonecta.github.io/tutorialesintermedios2025.html)| HACKATONES 2023-2025 | CSIC+AECID|
+| 2025 |  24 al 28 de noviembre     |[Hackaton 2025](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/ohw2025.md)|HACKATONES 2023-2025| CSIC+AECID|
 
-  
+
+📢 ¡Buenas noticias! Recientemente nos han aprobado un nuevo proyecto para la financiación de más eventos en 2026 y 2027. Proximamente añadiremos más información pero las fechas tentativas son:
+
 | Año|     Fechas |  Actividad| Estado| 
 | ------|  --------------- | ------------------------| ----------| 
-| 2024 |   21 y 22 de mayo    | [Webinario](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/webinario-de-difusi-n-de-las-actividades-identificaci-n-de-prioridades-y-necesidades-en-materia-de-ciencia-abierta-sobre-oceanograf-a-y-pesquer-as-programaci-n-intercoonecta-2024-2025)| Acabado| 
-| 2024 |  17 al 28 de julio       |       [Aula invertida 2024](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/oceanhackweek-en-espa-ol-formaci-n-b-sica-en-lenguajes-de-programaci-n-y-trabajo-colaborativo)| Acabado| 
-| 2024 |  7 al 18 de octubre         |   [Taller intermedio 2024](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/oceanhackweek-en-espa-ol-talleres-de-formaci-n-intermedia)|Acabado| 
-| 2024 | 25 al 29 de noviembre   |           [Hackaton 2024](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-espa-ol-en-ciencia-marina)| Acabado| 
-| 2025 |  5 al 16 de mayo    |    [Aula invertida 2025](https://intercoonecta.aecid.es/programación-de-actividades/oceanhackweek-en-espa-ol-formaci-n-b-sica-en-lenguajes-de-programaci-n-y-trabajo-colaborativo-edici-n-2025)| Acabado | 
-| 2025|   06 al 17 de octubre    |         [Taller intermedio 2025](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/oceanhackweek-en-espa-ol-talleres-de-formaci-n-intermedia-edici-n-2025)| Acabado | 
-| 2025 |  24 al 28 de noviembre     | [Hackaton 2025](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-espa-ol-en-ciencia-marina-edici-n-2025)|Acabado| 
+|2026| 09 al 13 de noviembre |Optimización de la gestión de ecosistemas marinos y recursos 
+ pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026) | En preparación| 
+ |2026| 16 al 20 de noviembre |Hackaton Oceanhackweek en español (Edición 2026) | En preparación|
+ |2027| 08 al 12 de noviembre |Optimización de la gestión de ecosistemas marinos y recursos 
+ pesqueros en Latinoamérica mediante ciencia abierta (Edición 2027) | En preparación|
+ |2027| 15 al 19 de noviembre |Hackaton Oceanhackweek en español (Edición 2027) | En preparación|
 
 
-📢 ¡Buenas noticias! Recientemente nos han aprobado un nuevo proyecto para la financiación de más eventos en 2026 y 2027. Proximamente añadiremos más información.
 
 ## Destinatarios
 
