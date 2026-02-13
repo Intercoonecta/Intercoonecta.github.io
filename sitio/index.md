@@ -30,11 +30,9 @@ Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) 
 
 | Año|     Fechas |  Actividad| Estado| 
 | ------|  --------------- | ------------------------| ----------| 
-|2026| 09 al 13 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos 
- pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026) | En preparación| 
+|2026| 09 al 13 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026) | En preparación| 
  |2026| 16 al 20 de noviembre | Hackaton Oceanhackweek en español (Edición 2026) | En preparación|
- |2027| 08 al 12 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos 
- pesqueros en Latinoamérica mediante ciencia abierta (Edición 2027) | En preparación|
+ |2027| 08 al 12 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2027) | En preparación|
  |2027| 15 al 19 de noviembre | Hackaton Oceanhackweek en español (Edición 2027) | En preparación|
 
 
