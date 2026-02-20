@@ -8,18 +8,27 @@
 
 - Héctor Villalobos Ortiz (Centro Interdisciplinario de Ciencias Marinas, Instituto Politécnico Nacional, CICIMAR-IPN, México)
 
-- Laura Gómez Navarro (Universidad de Utrecht, Países Bajos)
+- Laura Gómez Navarro (ICM, España)
 
-- Yeray Santana-Falcón (Centre National de Recherches Météorologiques Francia)
+- Yeray Santana-Falcón (ULPGC, España)
 
-- Jorge Cornejo-Donoso (Taller y ciencia, Chile) 
+- Jorge Cornejo-Donoso (GFW, Chile) 
   
-- Julia Jaca (Centro Oceanográfico de Baleares, Instituto Español de Oceanografía, IEO, CSIC, España)
+- Julia Jaca (Centro Oceanográfico de Baleares, Instituto Español de Oceanografía, IEO, CSIC, España)  
+  
+- Dennise Fierro Arcos (Universidad de Tasmania, Autralia)  
+  
+- Milagro Urricariet  (Universidad de Buenos Aires, Argentina)  
 
-- Marina Sanz (Centro Oceanográfico de Baleares, Instituto Español de Oceanografía, IEO, CSIC, España)
+  
+- Nicolas Lois (Universidad de Buenos Aires, Argentina)
+  
+- Arelly Ornelas (Centro Interdisciplinario de Ciencias Marinas, Instituto Politécnico Nacional, CICIMAR-IPN, México)   
+
 
 #  Colaboradores primeras ediciones
 
-- Dennise Fierro Arcos (Universidad de Tasmania, Autralia)
+
 - Claudio Santana (Universidad de Utrecht, Países Bajos)
 - David Correa Chilón (Instituto del Mar del Perú, IMARPE, Perú)
+- Marina Sanz (Centro Oceanográfico de Baleares, Instituto Español de Oceanografía, IEO, CSIC, España)
