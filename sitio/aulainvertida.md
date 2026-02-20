@@ -2,7 +2,8 @@
 
 
 <img width="115" height="75" alt="image" src="https://github.com/user-attachments/assets/c81917d0-5b2c-46f3-8cf6-1edaf322cd69" />
- puedes encontrar todo nuestro material didáctico ordenador por nivel de dificultad  y temas en nuestra [nueva página de divulgación](https://oceanhackweek-e.org/primeros-pasos/)   
+ 
+**Puedes encontrar todo nuestro material didáctico ordenador por nivel de dificultad  y temas en nuestra [nueva página de divulgación](https://oceanhackweek-e.org/primeros-pasos/)**   
 
  
 
