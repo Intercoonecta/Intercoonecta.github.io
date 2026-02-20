@@ -67,27 +67,6 @@ parts:
       title: Informes con Rmarkdown (R)
     - url: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/analisis_estadistico_R
       title: Análisis estadístico con R
-  - file: ohw2025
-    title: OHWe 2025  
-  - file: ohw2024
-    title: OHWe 2024
-    sections:
-    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/lunes/reproducibilidad_y_ciencia_abierta
-      title: Reproducibilidad y ciencia abierta 
-    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/lunes/Julia
-      title: Obtención de datos online
-    - url: https://youtu.be/b5Ut6-ysKpA?t=9217
-      title: Instalación de conda
-    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Jorge
-      title: Trabajando con datos de Global Fishing Watch (R)
-    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Marina%20-%20captura%20tu%CC%81nidos%20tropicales
-      title: Capturas de túnidos tropicales (R)
-    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/eddy_tracking
-      title: Datos de corrientes en Python
-    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/simulaciones_trayectorias-plasticos
-      title: Simulaciones de trayectorias de plásticos en Python 
-    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/datos_climaticos
-      title: Datos de clima en Python
   - file: tutorialesintermedios2024
     title: Tutoriales intermedios 2024
     sections:
@@ -109,6 +88,28 @@ parts:
       title: Datos temporales en Python
     - url: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe24/18-Octubre-2024/informes_python
       title: Informes en Python 
+  - file: ohw2025
+    title: OHWe 2025  
+  - file: ohw2024
+    title: OHWe 2024
+    sections:
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/lunes/reproducibilidad_y_ciencia_abierta
+      title: Reproducibilidad y ciencia abierta 
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/lunes/Julia
+      title: Obtención de datos online
+    - url: https://youtu.be/b5Ut6-ysKpA?t=9217
+      title: Instalación de conda
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Jorge
+      title: Trabajando con datos de Global Fishing Watch (R)
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/martes/Marina%20-%20captura%20tu%CC%81nidos%20tropicales
+      title: Capturas de túnidos tropicales (R)
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/eddy_tracking
+      title: Datos de corrientes en Python
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/simulaciones_trayectorias-plasticos
+      title: Simulaciones de trayectorias de plásticos en Python 
+    - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/datos_climaticos
+      title: Datos de clima en Python
+  
   - file: ohw2023
     title: OHWe 2023 
     sections:
@@ -143,6 +144,7 @@ parts:
   chapters:
   - file: Datos_en_abiertoLAyC.md
   - file: jupyter_y_python
+
 
 
 
