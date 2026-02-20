@@ -7,5 +7,6 @@ La primera actividad, previa al Hackaton tiene una doble componente:
   2. analizar el estado de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta. Este apartado aspira a ser una actividad interactiva con alta participación de los asistentes. A través de encuestas, presentaciones cortas y discusiones en grupo se creará un informe preliminar sobre este tema.
 
 Dinamizadores:
+- Coordinación: Marian
 - R: Jorge y Arelly
 - Python: Julia y Nicolás
