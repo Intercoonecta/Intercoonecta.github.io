@@ -28,6 +28,7 @@ parts:
  
 - caption: Hackatón
   chapters:
+  - file: optimizacion2026.md
   - file: hackaton-que-es
   - file: primeros-pasos-hackaton
     title: Primeros pasos
@@ -144,6 +145,7 @@ parts:
   chapters:
   - file: Datos_en_abiertoLAyC.md
   - file: jupyter_y_python
+
 
 
 
