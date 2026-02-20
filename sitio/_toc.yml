@@ -12,8 +12,7 @@ parts:
     title: JupyterHub
 - caption: Aula invertida
   chapters:
-  - file: aulainvertida2025
-    title: Aula invertida Edición 2025
+  
   - file: aulainvertida
     sections:
     - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-github/Github.md
@@ -26,10 +25,31 @@ parts:
       title: Python
     - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md
       title: Markdown y Rmarkdown
-- caption: Curso intermedio
+ 
+- caption: Hackatón
   chapters:
-  # - file: primeros-pasos-taller-intermed
-  #  title: Primeros pasos
+  - file: hackaton-que-es
+  - file: primeros-pasos-hackaton
+    title: Primeros pasos
+  - file: ohw2026
+    title: OHWe 2026
+- caption: Proyectos
+  chapters:
+  - file: proyectos/index
+    title: Descripción
+  - file: proyectos/proyectos2025
+    title: Lista de proyectos 2025
+  - file: proyectos/proyectos2024
+    title: Lista de proyectos 2024
+  - file: proyectos/proyectos2023
+    title: Lista de proyectos 2023
+  - file: proyectos/nuevoproyecto
+    title: Sugerir proyectos
+- caption: Otros Tutoriales
+  chapters:
+  - file: aulainvertida2025
+    title: Aula invertida Edición 2025
+
   - file: tutorialesintermedios2025
     title: Tutoriales intermedios 2025
     sections:
@@ -47,27 +67,8 @@ parts:
       title: Informes con Rmarkdown (R)
     - url: https://github.com/Intercoonecta/Talleres_intermedios/tree/ohwe25/9-Octubre-2025/analisis_estadistico_R
       title: Análisis estadístico con R
-- caption: Hackatón
-  chapters:
-  - file: hackaton-que-es
-  - file: primeros-pasos-hackaton
-    title: Primeros pasos
   - file: ohw2025
-    title: OHWe 2025
-- caption: Proyectos
-  chapters:
-  - file: proyectos/index
-    title: Descripción
-  - file: proyectos/proyectos2025
-    title: Lista de proyectos 2025
-  - file: proyectos/proyectos2024
-    title: Lista de proyectos 2024
-  - file: proyectos/proyectos2023
-    title: Lista de proyectos 2023
-  - file: proyectos/nuevoproyecto
-    title: Sugerir proyectos
-- caption: Otros Tutoriales
-  chapters:
+    title: OHWe 2025  
   - file: ohw2024
     title: OHWe 2024
     sections:
@@ -142,5 +143,6 @@ parts:
   chapters:
   - file: Datos_en_abiertoLAyC.md
   - file: jupyter_y_python
+
 
 
