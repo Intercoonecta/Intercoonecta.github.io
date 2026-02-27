@@ -22,9 +22,9 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 Envío encuestas  
 ## Martes 10 de noviembre a jueves 12 de noviembre   
 |08:00-08:20|	Bienvenida|	Marian|   
-|08:20-08:30| Discusión encuesta |Marian	|  
-|08:30-09:00| Revisión dudas | Todos|  
-|09:00-11:00| Trabajo en grupos (no supervisados?) | Todos|  
+|08:20-09:30| Discusión encuesta/informe |Marian	|  
+|09:30-10:30| Revisión dudas | Todos|  
+|10:30-12:30| Trabajo en grupos (no supervisados?) | Todos|  
 ## Viernes 13 de noviembre   
 |08:00-08:20|	Bienvenida|	Marian|   
 |08:20-10:30| Presentación resultados |Alumnos	|  
