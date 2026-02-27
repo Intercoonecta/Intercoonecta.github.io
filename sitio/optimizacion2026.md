@@ -20,12 +20,16 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 |09:40-11:00| Presentaciones alumnos | alumnos |  
 |11:00-11:30| Creación de 2 grupos y división tareas |  |  
 Envío encuestas  
-## Martes 10 de noviembre a jueves 12 de noviembre   
+## Martes 10 de noviembre a jueves 12 de noviembre  
+| Hora |	Charla |	Presentador/a |   
+| ------------- |-------- | ------------- | 
 |08:00-08:20|	Bienvenida|	Marian|   
 |08:20-09:30| Discusión encuesta/informe |Marian	|  
 |09:30-10:30| Revisión dudas | Todos|  
 |10:30-12:30| Trabajo en grupos (no supervisados?) | Todos|  
 ## Viernes 13 de noviembre   
+| Hora |	Charla |	Presentador/a |   
+| ------------- |-------- | ------------- | 
 |08:00-08:20|	Bienvenida|	Marian|   
 |08:20-10:30| Presentación resultados |Alumnos	|  
 
