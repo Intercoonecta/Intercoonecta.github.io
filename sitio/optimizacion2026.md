@@ -10,24 +10,24 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 
 ## Lunes 9 de noviembre 
  Quizás primero presentaciones y luego charlas.
-| Hora |	Charla |	Presentador/a | 
-| ------------- |-------- | ------------- |
-|08:00-08:20|	Bienvenida|	Marian| 
-|08:20-08:30| Jupyterhub |Emilio	|
-|08:30-09:00| Creaciónn de paquete de Python | Emilio|
-|09:00-09:30|Creaciónn de librería de R| Héctor |
-|09:30-09:40|Descanso  |	|
-|09:40-11:00| Presentaciones alumnos | alumnos |
-|11:00-11:30| Creación de 2 grupos y división tareas |  |
-Envío encuestas
-## Martes 10 de noviembre a jueves 12 de noviembre 
-|08:00-08:20|	Bienvenida|	Marian| 
-|08:20-08:30| Discusión encuesta |Marian	|
-|08:30-09:00| Revisión dudas | Todos|
-|09:00-11:00| Trabajo en grupos (no supervisados?) | Todos|
-## Viernes 13 de noviembre 
-|08:00-08:20|	Bienvenida|	Marian| 
-|08:20-10:30| Presentación resultados |Alumnos	|
+| Hora |	Charla |	Presentador/a |   
+| ------------- |-------- | ------------- |  
+|08:00-08:20|	Bienvenida|	Marian|   
+|08:20-08:30| Jupyterhub |Emilio	|  
+|08:30-09:00| Creaciónn de paquete de Python | Emilio|  
+|09:00-09:30|Creaciónn de librería de R| Héctor |  
+|09:30-09:40|Descanso  |	|  
+|09:40-11:00| Presentaciones alumnos | alumnos |  
+|11:00-11:30| Creación de 2 grupos y división tareas |  |  
+Envío encuestas  
+## Martes 10 de noviembre a jueves 12 de noviembre   
+|08:00-08:20|	Bienvenida|	Marian|   
+|08:20-08:30| Discusión encuesta |Marian	|  
+|08:30-09:00| Revisión dudas | Todos|  
+|09:00-11:00| Trabajo en grupos (no supervisados?) | Todos|  
+## Viernes 13 de noviembre   
+|08:00-08:20|	Bienvenida|	Marian|   
+|08:20-10:30| Presentación resultados |Alumnos	|  
 
 
 
