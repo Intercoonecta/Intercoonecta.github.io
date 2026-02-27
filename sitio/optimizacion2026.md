@@ -6,9 +6,32 @@ La primera actividad, previa al Hackaton tiene una doble componente:
   1. servir de repaso de las principales herramientas a utilizar durante el Hackaton: para ello se hará uso de los materiales creados en las anteriores ediciones (aulas invertidas y talleres intermedios), además de ejercicios prácticos desarrollados para estas ediciones en torno a la creación de una libreria de R o paquete de Python. Habrá sesiones síncronas en las que se resolverán los problemas encontrados.
   2. analizar el estado de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta. Este apartado aspira a ser una actividad interactiva con alta participación de los asistentes. A través de encuestas, presentaciones cortas y discusiones en grupo se creará un informe preliminar sobre este tema.
 
-Creación ce ejercicios/charlas:
-- Paquete de R: Héctor
-- Paquete de Python: Emilio
+
+
+## Lunes 9 de noviembre 
+ Quizás primero presentaciones y luego charlas.
+| Hora |	Charla |	Presentador/a | 
+| ------------- |-------- | ------------- |
+|08:00-08:20|	Bienvenida|	Marian| 
+|08:20-08:30| Jupyterhub |Emilio	|
+|08:30-09:00| Creaciónn de paquete de Python | Emilio|
+|09:00-09:30|Creaciónn de librería de R| Héctor |
+|09:30-09:40|Descanso  |	|
+|09:40-11:00| Presentaciones alumnos | alumnos |
+|11:00-11:30| Creación de 2 grupos y división tareas |  |
+Envío encuestas
+## Martes 10 de noviembre a jueves 12 de noviembre 
+|08:00-08:20|	Bienvenida|	Marian| 
+|08:20-08:30| Discusión encuesta |Marian	|
+|08:30-09:00| Revisión dudas | Todos|
+|09:00-11:00| Trabajo en grupos (no supervisados?) | Todos|
+## Viernes 13 de noviembre 
+|08:00-08:20|	Bienvenida|	Marian| 
+|08:20-10:30| Presentación resultados |Alumnos	|
+
+
+
+Ejercicios:
 - Denisse?
 
 
