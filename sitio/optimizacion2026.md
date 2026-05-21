@@ -14,8 +14,8 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 | ------------- |-------- | ------------- |  
 |08:00-08:20|	Bienvenida|	Marian|   
 |08:20-08:30| Jupyterhub |Emilio	|  
-|08:30-09:00| Creaciónn de paquete de Python | Emilio|  
-|09:00-09:30|Creaciónn de librería de R| Héctor |  
+|08:30-09:00| Creación de paquete de Python | Emilio|  
+|09:00-09:30|Creación de librería de R| Héctor |  
 |09:30-09:40|Descanso  |	|  
 |09:40-11:00| Presentaciones alumnos | alumnos |  
 |11:00-11:30| Creación de 2 grupos y división tareas |  |  
