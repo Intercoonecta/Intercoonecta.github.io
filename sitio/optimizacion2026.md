@@ -9,7 +9,7 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 
 
 ## Lunes 9 de noviembre 
- Quizás primero presentaciones y luego charlas.
+
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- |  
 |08:00-08:20|	Bienvenida|	Marian|   
