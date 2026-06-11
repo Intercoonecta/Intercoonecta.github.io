@@ -12,34 +12,46 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- |  
-|08:00-08:20|	Bienvenida|	Marian|   
-|08:20-08:30| Jupyterhub |Emilio	|  
-|08:30-09:00| Creación de paquete de Python | Emilio|  
-|09:00-09:30|Creación de librería de R| Héctor |  
-|09:30-09:40|Descanso  |	|  
-|09:40-11:00| Presentaciones alumnos | alumnos |  
-|11:00-11:30| Creación de 2 grupos y división tareas |  |  
-Envío encuestas  
-## Martes 10 de noviembre a jueves 12 de noviembre  
+|08:00-08:30|	Bienvenida|	Marian|   
+|08:30-09:00| Presentaciones alumn@s | alumnn@s |   
+|09:00-09:30| Discusión encuesta/informe |Marian	|  
+|09:30-09:40|Descanso  |	|
+|09:40-10:00|Tarea de la semana  |Denisse (pregrabado)|
+|10:00-10:15| Jupyterhub |Emilio|
+|10:15-10:30| Dudas |  |  
+ 
+## Martes 10 de noviembre
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
-|08:00-08:20|	Bienvenida|	Marian|   
-|08:20-09:30| Discusión encuesta/informe |Marian	|  
-|09:30-10:30| Revisión dudas | Todos|  
-|10:30-12:30| Trabajo en grupos (no supervisados?) | Todos|  
+|08:00-08:10|	Bienvenida|	Marian|   
+|08:10-09:00| Reutlilización de código en Python: | Emilio|  
+||funciones, módulos y paquetes | |  
+|09:00-10:00| Revisión dudas | Julia y Nicolás|  
+|10:00| Trabajo individual | alumnn@s|  
+
+## Miércoles 11 de noviembre 
+| Hora |	Charla |	Presentador/a |   
+| ------------- |-------- | ------------- | 
+|08:00-08:10|	Bienvenida|	Marian|   
+|08:10-09:00| Reutlilización de código en R: | Héctor|  
+||funciones, source y librerías | |  
+|09:00-10:00| Revisión dudas | Jorge |  
+|10:00| Trabajo individual | alumnn@s|  
+
 ## Viernes 13 de noviembre   
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
 |08:00-08:20|	Bienvenida|	Marian|   
-|08:20-10:30| Presentación resultados |Alumnos	|  
+|08:20-10:30| Presentación resultados ||10:00| Trabajo individual | alumnn@s|  	|  
 
 
+- Coordinación e informe: Marian
+- Ejercicios: Denisse
+- Presentaciones: Emilio y Héctor
+- Sesiones de dudas
+  - Python: Julia y Nicolás
+  - R: Jorge 
+. Mentores tardes:
+   - Python: Laura y Yeray
+   - R: Arelly
 
-Ejercicios:
-- Denisse?
-
-
-Dinamizadores:
-- Coordinación: Marian
-- R: Jorge y Arelly
-- Python: Julia y Nicolás
