@@ -35,7 +35,7 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 |08:00-08:10|	Bienvenida|	Marian|   
 |08:10-09:00| Reutlilización de código en R: | Héctor|  
 ||funciones, source y librerías | |  
-|09:00-10:00| Revisión dudas | Jorge |  
+|09:00-10:00| Revisión dudas | Arelly |  
 |10:00| Trabajo individual | alumnn@s|  
 
 ## Viernes 13 de noviembre   
@@ -49,9 +49,8 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 - Ejercicios: Denisse
 - Presentaciones: Emilio y Héctor
 - Sesiones de dudas
-  - Python: Julia y Nicolás
-  - R: Jorge   
-- Mentores tardes:  
-   - Python: Laura y Yeray
-   - R: Arelly
+  - Python: Julia 
+  - R: Arelly   
+- Resolución de dudas por Discord: Nicolás, Laura y Yeray?
+
 
