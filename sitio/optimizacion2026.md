@@ -50,8 +50,8 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 - Presentaciones: Emilio y Héctor
 - Sesiones de dudas
   - Python: Julia y Nicolás
-  - R: Jorge 
-. Mentores tardes:
+  - R: Jorge   
+- Mentores tardes:  
    - Python: Laura y Yeray
    - R: Arelly
 
