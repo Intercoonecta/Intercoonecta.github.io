@@ -52,6 +52,7 @@ La primera actividad, previa al Hackaton tiene una doble componente:
   - Python: Julia 
   - R: Arelly   
 - Resolución de dudas por Discord: Nicolás
-- Revisión de trabajos de los alumnos: Laura y Yeray
-
+- Revisión de trabajos de los alumnos:
+  - Python: Laura y Yeray
+  - R: Jorge  
 
