@@ -26,14 +26,7 @@ Crear un repositorio y entregar un notebook que:
 3. Muestre las primeras filas de los datos.
 4. Incluya una breve descripción del conjunto de datos.
 
-### Ejemplo Python
 
-```python
-import pandas as pd
-
-df = pd.read_csv("datos.csv")
-df.head()
-```
 
 ### Entregable
 
