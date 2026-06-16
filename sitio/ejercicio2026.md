@@ -17,21 +17,6 @@ La participación en el hackatón estará condicionada a la entrega de las activ
 # Día 1 - Introducción, GitHub y JupyterHub
 
 
-
-## Materiales 
-
-### GitHub
-
-- https://oceanhackweek-e.org/github/
-
-### Introducción a OceanHackWeek
-
-- https://oceanhackweek.org/ohw23/tutorials_getting_started.html
-
-### JupyterHub
-
-- https://waterhackweek.github.io/learning-resources/prep/jupyterhub/
-
 ## Actividad 1 (Entrega: martes)
 
 Crear un repositorio y entregar un notebook que:
