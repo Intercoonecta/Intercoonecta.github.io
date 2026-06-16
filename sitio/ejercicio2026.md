@@ -12,6 +12,21 @@ Durante esta semana deberás familiarizarte con las herramientas que utilizaremo
 
 La participación en el hackatón estará condicionada a la entrega de las actividades propuestas durante la semana.
 
+# Recursos 
+
+## Introducción 
+### Instalaciones
+### Git
+### Markdown
+https://oceanhackweek.org/ohw23/tutorials_getting_started.html
+
+
+## Python
+https://oceanhackweek-e.org/primeros-pasos/#python
+
+## R 
+https://oceanhackweek-e.org/primeros-pasos/#r
+
 ---
 
 # Día 1 - Introducción, GitHub y JupyterHub
@@ -21,11 +36,15 @@ La participación en el hackatón estará condicionada a la entrega de las activ
 
 Crear un repositorio y entregar un notebook que:
 
-1. Se ejecute correctamente en JupyterHub.
-2. Cargue un conjunto de datos.
-3. Muestre las primeras filas de los datos.
-4. Incluya una breve descripción del conjunto de datos.
+1. Cargue un conjunto de datos.
+2. Muestre las primeras filas de los datos.
+3. Incluya una breve descripción del conjunto de datos.
 
+## Objetivos
+
+Ser capaz de:
+- Leer archivos CSV.
+- Explorar datos.
 
 
 ### Entregable
@@ -36,78 +55,39 @@ Crear un repositorio y entregar un notebook que:
 
 ---
 
-# Día 2 - Python para análisis de datos
-
-## Trabajo autónomo
-
-Completar los tutoriales de Python de OceanHackWeek.
-
-## Materiales 
-
-### Tutoriales OceanHackWeek
-
-- https://oceanhackweek.org/ohw23/tutorials-index/index.html
-
-Especialmente los relacionados con:
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Jupyter
+# Día 2 - Python para análisis de datos (Entrega: jueves)
 
 
 ## Objetivos
 
 Ser capaz de:
-
-- Leer archivos CSV.
-- Explorar datos.
 - Crear gráficos.
 - Utilizar funciones.
+### Entregable
 
+- Notebook con gráficos y funciones.
+- Segundo commit realizado.
 ---
 
-# Día 3 - R para análisis de datos
+# Día 3 - R para análisis de datos (Entrega: jueves)
 
-## Trabajo autónomo
-
-Completar los tutoriales de R de OceanHackWeek.
-
-## Materiales obligatorios
-
-### Tutoriales OceanHackWeek
-
-- https://oceanhackweek.org/ohw23/tutorials-index/index.html
-
-Especialmente los relacionados con:
-
-- R
-- tidyverse
-- dplyr
-- ggplot2
-
-## Sesión síncrona
-
-- Presentación de resultados.
-- Resolución de dudas.
 
 ## Objetivos
 
 Ser capaz de:
 
-- Cargar datos.
-- Filtrar datos.
 - Crear gráficos.
 - Definir funciones sencillas.
+### Entregable
 
+- Notebook con gráficos y funciones.
+- Segundo commit realizado.
 ---
 
 # Día 4 - Funciones y GitHub
 
-## Actividad 2 (Entrega: jueves)
 
-Crear una función que calcule estadísticas básicas de una variable numérica.
+Revisión de proyectos y dudas
 
 
 
@@ -127,7 +107,7 @@ Crear una función que calcule estadísticas básicas de una variable numérica.
 
 ## Actividad Final (Entrega: viernes)
 
-Realizar un mini proyecto de análisis de datos utilizando un conjunto de datos proporcionado por la organización.
+Mini proyecto de análisis de datos utilizando un conjunto de datos proporcionado por la organización.
 
 El proyecto debe incluir:
 
@@ -165,17 +145,3 @@ notebook.ipynb
 
 ---
 
-# Recursos adicionales
-
-## Introducción 
-### Instalaciones
-### Git
-### Markdown
-https://oceanhackweek.org/ohw23/tutorials_getting_started.html
-
-
-## Python
-https://oceanhackweek-e.org/primeros-pasos/#python
-
-## R 
-https://oceanhackweek-e.org/primeros-pasos/#r
