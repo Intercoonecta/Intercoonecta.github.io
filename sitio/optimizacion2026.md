@@ -16,7 +16,7 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 |08:30-09:00| Presentaciones alumn@s | alumnn@s |   
 |09:00-09:30| Discusión encuesta/informe |Marian	|  
 |09:30-09:40|Descanso  |	|
-|09:40-10:00|Tarea de la semana  |Denisse (pregrabado)|
+|09:40-10:00|Tarea de la semana  |Marian|
 |10:00-10:15| Jupyterhub |Emilio|
 |10:15-10:30| Dudas |  |  
  
@@ -56,5 +56,5 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 - Resolución de dudas por Discord: Nicolás
 - Revisión de trabajos de los alumnos:
   - Python: Laura y Yeray
-  - R: Jorge  
+  - R: Jorge, Denisse  
 
