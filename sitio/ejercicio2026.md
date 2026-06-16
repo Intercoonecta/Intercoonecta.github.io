@@ -14,10 +14,7 @@ La participación en el hackatón estará condicionada a la entrega de las activ
 
 # Recursos 
 
-## Introducción 
-### Instalaciones
-### Git
-### Markdown
+## Introducción: Instalaciones, Git, Markdown
 https://oceanhackweek.org/ohw23/tutorials_getting_started.html
 
 
