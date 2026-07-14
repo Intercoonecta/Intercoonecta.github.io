@@ -42,8 +42,8 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
 |08:00-08:20|	Bienvenida|	Marian|   
-|08:20-10:30| Presentación resultados |Trabajo individual | alumnn@s|  	| 
-|10:30-11:30| equipos hackatón: equipos;buenas prácticas | Todos | alumnn@s|  	| 
+|08:20-11:00| Presentación resultados |Trabajo individual | alumnn@s|  	| 
+|11:00-11:30| equipos hackatón: equipos;buenas prácticas | Todos | alumnn@s|  	| 
 
 
 
