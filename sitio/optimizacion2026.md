@@ -48,7 +48,7 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 
 
 - Coordinación e informe: Marian
-- Ejercicios: Denisse
+- Ejercicios: Denisse y Marian
 - Presentaciones: Emilio y Héctor
 - Sesiones de dudas
   - Python: Julia 
