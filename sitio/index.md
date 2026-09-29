@@ -9,9 +9,20 @@ Colaboradores previos: Charles Troupin, Denisse Fierro Arcos, David Correa
 </p>
 
 
-¿Qué es OHWe? Las Hackweeks son eventos intensivos e interactivos de aprendizaje de ciencia de datos que incluyen tutoriales sobre metodologías avanzadas, aprendizaje entre pares y trabajo colaborativo en proyectos. La iniciativa [OceanHackWeek (OHW)](https://oceanhackweek.org) ha avanzado en este enfoque y ha involucrado a casi 400 participantes de todos los continentes desde 2018 a través de eventos anuales presenciales, virtuales e híbridos. OHW es un enfoque innovador para enseñar habilidades de ciencia de datos dirigidas a apoyar a científicos marinos y administradores de recursos. Después de 4 años de exitosos eventos OHW en inglés, desarrollamos recursos y eventos en español como una iniciativa equitativa, inclusiva y de desarrollo de capacidades que aborda las barreras lingüísticas y culturales. La iniciativa OHW en Español (OHWe) adaptó el modelo bien establecido de OHW para servir a las comunidades de habla hispana a través de eventos virtuales e híbridos gratuitos que convocan a diversos participantes y organizadores de toda América Latina y a hispanohablantes de todo el mundo.
+¿Qué es OHWe? Las Hackweeks son eventos intensivos e interactivos de aprendizaje de ciencia de datos que incluyen tutoriales sobre metodologías avanzadas, aprendizaje entre pares y trabajo colaborativo en proyectos. La iniciativa [OceanHackWeek (OHW)](https://oceanhackweek.org) ha avanzado en este enfoque y ha involucrado a casi 400 participantes de todos los continentes desde 2018 a través de eventos anuales presenciales, virtuales e híbridos. OHW es un enfoque innovador para enseñar habilidades de ciencia de datos dirigidas a apoyar a científicos marinos y administradores de recursos. Después de 4 años de exitosos eventos OHW en inglés, desarrollamos recursos y eventos en español como una iniciativa equitativa, inclusiva y de desarrollo de capacidades que aborda las barreras lingüísticas y culturales. La iniciativa OHW en Español (OHWe) adaptó el modelo bien establecido de OHW para servir a las comunidades de habla hispana a través de eventos virtuales e híbridos gratuitos que convocan a diversos participantes y organizadores de toda América Latina y a hispanohablantes de todo el mundo. Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es). 
 
-Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) dentro de la convocatoria [INTERCOONECTA](https://intercoonecta.aecid.es), los eventos previos fueron los siguientes:
+📢 Proyecto OLAS 2026 y 2027. 
+
+| Año|     Fechas |  Actividad| Estado| 
+| ------|  --------------- | ------------------------| ----------| 
+|2026| 09 al 13 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026) | En preparación| 
+ |2026| 16 al 20 de noviembre | Hackaton Oceanhackweek en español (Edición 2026) | En preparación|
+ |2027| 08 al 12 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2027) | En preparación|
+ |2027| 15 al 19 de noviembre | Hackaton Oceanhackweek en español (Edición 2027) | En preparación|
+
+
+
+Los eventos previos fueron los siguientes:
 
 | Año|     Fechas |  Actividad| Proyecto| Financiación|
 | ------|  --------------- | ------------------------| ----------| ----------| 
@@ -26,14 +37,7 @@ Financiado por la [AECID](https://aecid.es) y el [CSIC](https://www.csic.es/es) 
 | 2025 |  24 al 28 de noviembre     |[Hackaton 2025](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/ohw2025.md)|HACKATONES 2023-2025| CSIC+AECID|
 
 
-📢 ¡Buenas noticias! Recientemente nos han aprobado un nuevo proyecto para la financiación de más eventos en 2026 y 2027. Proximamente añadiremos más información pero las fechas tentativas son:
 
-| Año|     Fechas |  Actividad| Estado| 
-| ------|  --------------- | ------------------------| ----------| 
-|2026| 09 al 13 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026) | En preparación| 
- |2026| 16 al 20 de noviembre | Hackaton Oceanhackweek en español (Edición 2026) | En preparación|
- |2027| 08 al 12 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2027) | En preparación|
- |2027| 15 al 19 de noviembre | Hackaton Oceanhackweek en español (Edición 2027) | En preparación|
 
 
 
