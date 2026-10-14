@@ -16,9 +16,9 @@
   
 - Julia Jaca (Centro Oceanográfico de Baleares, Instituto Español de Oceanografía, IEO, CSIC, España)  
   
-- Dennise Fierro Arcos (Universidad de Tasmania, Autralia)  
+- Denisse Fierro Arcos (Universidad de Tasmania, Australia)  
   
-- Milagro Urricariet  (Universidad de Buenos Aires, Argentina)  
+- Milagro Urricariet (Universidad de Buenos Aires, Argentina)  
 
   
 - Nicolas Lois (Universidad de Buenos Aires, Argentina)
