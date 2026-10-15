@@ -13,12 +13,13 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- |  
 |08:00-08:30|	Bienvenida|	Marian|   
-|08:30-09:00| Presentaciones alumn@s | alumnn@s |   
-|09:00-09:30| Discusión encuesta/informe |Marian	|  
+|08:30-09:30| Presentaciones alumn@s | alumnn@s |  
 |09:30-09:40|Descanso  |	|
-|09:40-10:00|Tarea de la semana  |Marian|
-|10:00-10:15| Jupyterhub |Emilio|
-|10:15-10:30| Dudas |  |  
+|09:40-10:50| Discusión encuesta/informe |Marian	|  
+|10:50-11:00|Descanso  |	|
+|11:00-11:30|Tarea de la semana  |Marian|
+|11:30-11:45| Jupyterhub |Emilio|
+|11:45-12:00| Dudas |  |  
  
 ## Martes 10 de noviembre
 | Hora |	Charla |	Presentador/a |   
