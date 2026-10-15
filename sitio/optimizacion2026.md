@@ -54,13 +54,12 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 
 
 - Coordinación e informe: Marian
-- Ejercicios: Denisse y Marian
 - Presentaciones: Emilio y Héctor
 - Sesiones de dudas
   - Python: Julia 
   - R: Arelly   
-- Resolución de dudas por Discord: Nicolás
-- Revisión de trabajos de los alumnos:
+- Resolución de dudas por Discord (asincrónico): Denisse 
+- Revisión de trabajos de los alumnos y Discord (sincrónico):
   - Python: Laura y Yeray
-  - R: Jorge, Denisse  
+  - R: Jorge, Nicolás 
 
