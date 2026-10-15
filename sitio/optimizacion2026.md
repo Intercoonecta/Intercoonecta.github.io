@@ -20,6 +20,7 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 |11:00-11:30|Tarea de la semana  |Marian|
 |11:30-11:45| Jupyterhub |Emilio|
 |11:45-12:00| Dudas |  |  
+|12:00-13:00| Trabajo en Discord |  |  
  
 ## Martes 10 de noviembre
 | Hora |	Charla |	Presentador/a |   
