@@ -29,7 +29,7 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 |08:10-09:00| Reutlilización de código en Python: | Emilio|  
 ||funciones, módulos y paquetes | |  
 |09:00-10:00| Revisión dudas | Julia |  
-|10:00| Trabajo individual | alumnn@s|  
+|10:00| Trabajo en Discord | Todos@s|  
 
 ## Miércoles 11 de noviembre 
 | Hora |	Charla |	Presentador/a |   
@@ -38,13 +38,17 @@ La primera actividad, previa al Hackaton tiene una doble componente:
 |08:10-09:00| Reutlilización de código en R: | Héctor|  
 ||funciones, source y librerías | |  
 |09:00-10:00| Revisión dudas | Arelly  |  
-|10:00| Trabajo individual | alumnn@s|  
+|10:00|  Trabajo en Discord | Todos@s|  
+
+## Jueves 12 de noviembre 
+|08:00-08:10|	Revisión y dudas|	Marian|   
+|08:10-10:10| Equipos en Discord | Todos@s|  
 
 ## Viernes 13 de noviembre   
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
 |08:00-08:20|	Bienvenida|	Marian|   
-|08:20-11:00| Presentación resultados |Trabajo individual | alumnn@s|  	| 
+|08:20-11:00| Presentación resultados || alumnn@s|  	| 
 |11:00-11:30| equipos hackatón: equipos;buenas prácticas | Todos | alumnn@s|  	| 
 
 
