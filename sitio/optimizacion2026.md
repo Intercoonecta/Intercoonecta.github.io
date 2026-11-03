@@ -27,17 +27,19 @@ Además, a través del trabajo en grupo en Discord, se irán creando los equipos
 ## Martes 10 de noviembre
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
-|08:00-08:10|	Bienvenida|	Marian|   
-|08:10-09:00| Reutlilización de código en Python: | Emilio|  
-||funciones, módulos y paquetes | |  
-|09:00-10:00| Revisión dudas | Julia |  
-|10:00| Trabajo en Discord | Todos@s|  
+|08:00-08:10|	Bienvenida|	Marian|  
+|08:10-09:00| Discusión encuesta/informe |Marian	|
+|09:00-09:10|Descanso  |	
+|09:10-10:10| Revisión dudas | Julia | 
+|10:10-11:00| Reutilización de código en Python: | Emilio|  
+||funciones, módulos y paquetes | |   
+|11:00| Trabajo en Discord | Todos@s|  
 
 ## Miércoles 11 de noviembre 
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
 |08:00-08:10|	Bienvenida|	Marian|   
-|08:10-09:00| Reutlilización de código en R: | Héctor|  
+|08:10-09:00| Reutilización de código en R: | Héctor|  
 ||funciones, source y librerías | |  
 |09:00-10:00| Revisión dudas | Arelly  |  
 |10:00|  Trabajo en Discord | Todos@s|  
