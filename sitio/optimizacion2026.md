@@ -15,14 +15,13 @@ Además, a través del trabajo en grupo en Discord, se irán creando los equipos
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- |  
 |08:00-08:30|	Bienvenida|	Marian|   
-|08:30-09:30| Presentaciones alumn@s | alumnn@s |  
-|09:30-09:40|Descanso  |	|
-|09:40-10:50| Discusión encuesta/informe |Marian	|  
-|10:50-11:00|Descanso  |	|
-|11:00-11:30|Tarea de la semana  |Marian|
-|11:30-11:45| Jupyterhub |Emilio|
-|11:45-12:00| Dudas |  |  
-|12:00-13:00| Trabajo en Discord | Todos |  
+|08:30-09:45| Presentaciones alumn@s | alumnn@s |  
+|09:45-10:00|Descanso  |	|
+|10:15-10:45|Materiales de estudio y  |Marian|
+||Tarea de la semana | |  
+|10:45-11:15| Jupyterhub |Emilio|
+|11:15-11:30| Dudas |  |  
+|11:30-12:30| Trabajo en Discord | Todos |  
  
 ## Martes 10 de noviembre
 | Hora |	Charla |	Presentador/a |   
