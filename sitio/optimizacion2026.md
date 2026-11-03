@@ -54,7 +54,7 @@ Además, a través del trabajo en grupo en Discord, se irán creando los equipos
 | ------------- |-------- | ------------- | 
 |08:00-08:20|	Bienvenida|	Marian|   
 |08:20-11:00| Presentación resultados || alumnn@s|  	| 
-|11:00-11:30| equipos hackatón: equipos;buenas prácticas | Todos | alumnn@s|  	| 
+
 
 
 
