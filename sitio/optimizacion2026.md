@@ -58,11 +58,7 @@ Además, a través del trabajo en grupo en Discord, se irán creando los equipos
 
 
 
-- Coordinación e informe: Marian
-- Presentaciones: Emilio y Héctor
-- Sesiones de dudas
-  - Python: Julia 
-  - R: Arelly   
+
 - Resolución de dudas por Discord (asincrónico): Denisse 
 - Revisión de trabajos de los alumnos y Discord (sincrónico):
   - Python: Laura y Yeray
