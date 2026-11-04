@@ -17,8 +17,9 @@ Además, a través del trabajo en grupo en Discord, se irán creando los equipos
 |08:00-08:30|	Bienvenida|	Marian|   
 |08:30-09:45| Presentaciones alumn@s | alumnn@s |  
 |09:45-10:00|Descanso  |	|
-|10:15-10:45|Materiales de estudio y  |Marian|
-||Tarea de la semana | |  
+|10:15-10:30|Materiales de estudio y  |Marian|
+||Tarea de la semana | | 
+|10:30-10:45|Ideas proyectos |Elmer, Jesús|
 |10:45-11:15| Jupyterhub |Emilio|
 |11:15-11:30| Dudas |  |  
 |11:30-12:30| Trabajo en Discord | Todos |  
