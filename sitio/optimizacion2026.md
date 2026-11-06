@@ -47,8 +47,8 @@ Además, a través del trabajo en grupo en Discord, se irán creando los equipos
 ## Jueves 12 de noviembre 
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
-|08:00-08:10|	Revisión y dudas|	Marian|   
-|08:10-10:10| Equipos en Discord | Todos@s|  
+
+|09:00-10:00| Trabajo en Discord| Todos@s|  
 
 ## Viernes 13 de noviembre   
 | Hora |	Charla |	Presentador/a |   
