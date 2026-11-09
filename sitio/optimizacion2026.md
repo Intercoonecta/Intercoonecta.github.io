@@ -21,7 +21,7 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 |10:15-10:30| Materiales de estudio y [Tarea de la semana](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/ejercicio2026.md) |Marian|
 |10:30-10:45| Ideas proyectos |Elmer, Jesús|
 ||  |Paulette, Kevin|
-|10:45-11:15| Jupyterhub |Julia|
+|10:45-11:15| Jupyterhub |Emilio|
 |11:15-11:30| Dudas |  |  
 |11:30-12:30| Trabajo en Discord | Todos |  
  
