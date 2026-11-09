@@ -12,7 +12,6 @@ parts:
     title: JupyterHub
 - caption: Aula invertida
   chapters:
-  
   - file: aulainvertida
     sections:
     - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-github/Github.md
@@ -25,13 +24,14 @@ parts:
       title: Python
     - url: https://github.com/Intercoonecta/Aula-invertida/blob/main/Intro-a-Markdown/Markdown.md
       title: Markdown y Rmarkdown
- 
 - caption: Hackatón
   chapters:
   - file: optimizacion2026.md
     title: OHWe 2026 - 1ra semana
   - file: primeros-pasos-hackaton
     title: Primeros pasos
+  - file: ejercicio2026.md
+    title: Ejercicio, 1ra semana
   - file: ohw2026
     title: OHWe 2026 - Hackatón
   - file: hackaton-que-es
@@ -53,7 +53,6 @@ parts:
   chapters:
   - file: aulainvertida2025
     title: Aula invertida Edición 2025
-
   - file: tutorialesintermedios2025
     title: Tutoriales intermedios 2025
     sections:
@@ -113,7 +112,6 @@ parts:
       title: Simulaciones de trayectorias de plásticos en Python 
     - url: https://github.com/Intercoonecta/tutoriales/tree/ohwe24/miercoles/datos_climaticos
       title: Datos de clima en Python
-  
   - file: ohw2023
     title: OHWe 2023 
     sections:
