@@ -29,11 +29,12 @@ parts:
 - caption: Hackatón
   chapters:
   - file: optimizacion2026.md
-  - file: hackaton-que-es
+    title: OHWe 2026 - 1ra semana
   - file: primeros-pasos-hackaton
     title: Primeros pasos
   - file: ohw2026
-    title: OHWe 2026
+    title: OHWe 2026 - Hackatón
+  - file: hackaton-que-es
 - caption: Proyectos
   chapters:
   - file: proyectos/index

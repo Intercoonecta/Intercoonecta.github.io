@@ -102,11 +102,7 @@ RStudio abrirá en otra pestaña del navegador:
 
 ## Cómo cargar el repositorio de los tutoriales al Hub
 
-Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/) para clonar y extraer el repositorio de los tutoriales, o actualizar la copia que ya tienes. `nbgitpuller` se aplica a través de un enlace especial, adaptado a un repositorio específico (para el Taller Intermedio o Hackatón). 
-
-Instrucciones y enlaces específicos se encuentran bajo cada evento:
-- [Instrucciones para el **Taller Intermedio**](hub-cargartutoriales:taller-intermedio)
-- [Instrucciones para el **Hackatón**](hub-cargartutoriales:hackaton)
+Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/) para clonar y extraer el repositorio de los tutoriales, o actualizar la copia que ya tienes. `nbgitpuller` se aplica a través de un enlace especial, adaptado al repositorio de tutoriales. Instrucciones y enlaces específicos se encuentran [en esta página.](hub-cargartutoriales:hackaton)
 
 ### Alternativa con comandos de `git` (¡con cuidado!)
 
@@ -122,7 +118,7 @@ Puedes obtener el mismo resultado que `nbgitpuller` utilizando `git` directament
 
 **Es muy importante cerrar la sesión en el Hub cuando termines de usarla por el día o por un período prolongado.** Esto nos ayuda a reducir el costo de la infraestructura en la nube.
 
-```{admonition} Presiona la pestaña correspondiente a la sesión (entorno) que estás usando actualmente
+```{admonition} Presiona la pestaña correspondiente a la aplicación que estás usando actualmente
 
 ::::{tab-set}
 

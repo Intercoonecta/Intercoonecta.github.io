@@ -1,4 +1,4 @@
-# Primeros pasos para el hackaton
+# Primeros pasos para los eventos
 
 ## Introducción
 
@@ -15,7 +15,7 @@ Los hackatones son altamente interactivos gracias al uso de la plataforma [Jupyt
 
 Los tutoriales se ejecutarán en vivo en el [JupyterHub de OceanHackWeek (**"El Hub"**, https://oceanhackweek.2i2c.cloud](https://oceanhackweek.2i2c.cloud)) en tu navegador, ya sea como _Jupyter notebooks_ o como _scripts_ y _notebooks_ en `RStudio`. Él/la instructor/a y todas las personas que participen pueden estar ejecutando sus propias copias del tutorial en su cuenta del Hub al mismo tiempo, con archivos clonados desde la fuente en `GitHub`, https://github.com/Intercoonecta/tutoriales. Nuestra página [JupyterHub](JupyterHub) contiene instrucciones detalladas sobre el uso del Hub.
 
-El calendario de tutoriales está disponible [aquí](ohw2025), y los enlaces a los materiales de los tutoriales y algunos otros recursos estarán disponibles allí también.
+**Calendarios de tutoriales** están disponibles [aquí para la primera semana](optimizacion2026), y [aquí para la segunda semana](ohw2026). Enlaces a los materiales de los tutoriales y algunos otros recursos estarán disponibles allí también.
 
 (hub-cargartutoriales:hackaton)=
 ## Cómo cargar el repositorio de los tutoriales al Hub
@@ -26,7 +26,7 @@ Hacemos uso de la herramienta [nbgitpuller](https://jupyterhub.github.io/nbgitpu
 
 Para cargar (subir, hacer un "pull" de git) o actualizar los tutoriales del repositorio [`tutoriales`](https://github.com/Intercoonecta/tutoriales) en tu cuenta en el Hub, presiona este enlace:
 
-https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/tutoriales&urlpath=lab/tree/tutoriales&branch=ohwe25
+https://oceanhackweek.2i2c.cloud/hub/user-redirect/git-pull?repo=https://github.com/Intercoonecta/tutoriales&urlpath=lab/tree/tutoriales&branch=main
 
 Presionar el enlace probablemente abrirá una pestaña nueva del navegador. Puedes cerrarla y regresar a la pestaña dónde tienes o JupyterLab o RStudio (no importa cual)
 ```
