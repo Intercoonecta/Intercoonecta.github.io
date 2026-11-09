@@ -30,8 +30,9 @@ parts:
     title: OHWe 2026 - 1ra semana
   - file: primeros-pasos-hackaton
     title: Primeros pasos
-  - file: ejercicio2026.md
-    title: Ejercicio, 1ra semana
+  # Esta página no está estructurada de manera convencional, así que no se puede integrar al sitio actualmente
+  # - file: ejercicio2026.md
+  #  title: Ejercicio, 1ra semana
   - file: ohw2026
     title: OHWe 2026 - Hackatón
   - file: hackaton-que-es
