@@ -26,7 +26,7 @@ https://oceanhackweek-e.org/primeros-pasos/#r
 
 ---
 
-# Día 1 - Introducción, GitHub y JupyterHub
+# Introducción, GitHub y JupyterHub
 
 
 ## Actividad 1 (Entrega: martes)
@@ -52,21 +52,9 @@ Ser capaz de:
 
 ---
 
-# Día 2 - Python para análisis de datos (Entrega: jueves)
 
 
-## Objetivos
-
-Ser capaz de:
-- Crear gráficos.
-- Utilizar funciones.
-### Entregable
-
-- Notebook con gráficos y funciones.
-- Segundo commit realizado.
----
-
-# Día 3 - R para análisis de datos (Entrega: jueves)
+# R/Python para análisis de datos (Entrega: jueves)
 
 
 ## Objetivos
@@ -81,7 +69,7 @@ Ser capaz de:
 - Segundo commit realizado.
 ---
 
-# Día 4 - Funciones y GitHub
+# Funciones y GitHub
 
 
 Revisión de proyectos y dudas
@@ -122,8 +110,10 @@ datos/
 figuras/
 notebook.ipynb
 ```
+---
 
-
+# Correciones
+Individualmente por chat de Discord
 ---
 
 # Criterios de evaluación
