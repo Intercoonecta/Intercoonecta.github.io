@@ -9,12 +9,12 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 
 ## PROYECTO 1
 
-- **Tema:** Creación de librería/paquete de algoritmos para el procesado acústico
-- **Mentores:** Héctor Villalobos, Marian peña
+- **Tema:** 
+- **Mentoras:** 
 - **breve descripción:** 
-- **Lenguaje:** R/Python. 
-- **Participantes:** 
-- **Repositorio en GitHub:** 
+- **Lenguaje:** Python
+- **Participantes:**
+- **Repositorio en GitHub:**
 
 ## PROYECTO 2
 
