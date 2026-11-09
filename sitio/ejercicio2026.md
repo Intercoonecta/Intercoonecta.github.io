@@ -112,7 +112,8 @@ notebook.ipynb
 ```
 ---
 
-# Correciones
+# Correciones  
+
 Individualmente por chat de Discord
 ---
 
