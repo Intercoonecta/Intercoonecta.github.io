@@ -46,7 +46,7 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 ## Jueves 12 de noviembre 
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
-|09:00-10:00| Trabajo en Discord| Todos@s|  
+|| Trabajo en Discord| Todos@s|  
 
 ## Viernes 13 de noviembre   
 | Hora |	Charla |	Presentador/a |   
