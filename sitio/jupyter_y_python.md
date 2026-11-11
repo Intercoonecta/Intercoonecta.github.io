@@ -31,7 +31,7 @@ Algunos recursos en español. Tambien abarca Anaconda y entornos virtuales
 - [Carpentries-es](https://carpentries.org/latam-tf/), Carpentries en español, brindando "conocimiento de calidad público y gratuito para promover el uso de herramientas informáticas en el contexto hispanoparlante."
 - [Traducción al español de Ecología con Python, una lección de Data Carpentry](https://carpentries.org/blog/2019/01/python-ecologia-es/)
 - [Análisis y visualización de datos usando Python - Data Carpentry](https://datacarpentry.org/python-ecology-lesson-es/)
-- [Primera experiencia traduciendo lecciones online dentro de la CarpentryCon@HOME - Carpentries](https://carpentries.org/blog/2020/08/Hablamos/)
+- [Primera experiencia traduciendo lecciones online dentro de la CarpentryCon@HOME - Carpentries](https://carpentries.org/blog/2020/08/hablamos/)
 
 ## Otros
 
