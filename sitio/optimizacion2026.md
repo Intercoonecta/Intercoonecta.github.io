@@ -32,7 +32,7 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 |08:10-09:00| Discusión encuesta/informe |Marian	|
 |09:00-09:10| Descanso  |	
 |09:10-10:10| Reutilización de código en Python: funciones, módulos y paquetes | Emilio|  
-|10:10-11:00| Revisión dudas | Julia | 
+|10:10-11:00| Revisión dudas GIT | Julia | 
 |11:00| Trabajo en Discord | Todos@s|  
 
 ## Miércoles 11 de noviembre 
