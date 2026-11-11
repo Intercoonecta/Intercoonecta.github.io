@@ -40,7 +40,7 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 | ------------- |-------- | ------------- | 
 |08:00-08:10|	Bienvenida|	Marian|   
 |08:10-09:00| Reutilización de código en R: funciones, source y librerías | Héctor|  
-|09:00-10:00| Revisión dudas | Arelly  |  
+|09:00-10:00| Estadística en R | Arelly  |  
 |10:00|  Trabajo en Discord | Todos@s|  
 
 ## Jueves 12 de noviembre 
