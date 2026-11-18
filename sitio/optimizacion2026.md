@@ -31,7 +31,7 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 |08:00-08:10|	Bienvenida|	Marian|  
 |08:10-09:00| Discusión encuesta/informe |Marian	|
 |09:00-09:10| Descanso  |	
-|09:10-10:10| [Reutilización de código en Python: funciones, módulos y paquetes](https://github.com/Intercoonecta/tutoriales/tree/main/10-martes) [video]([https://youtu.be/XG-YloDLdGY](https://youtu.be/XG-YloDLdGY?si=j6r_oP98ayJdaXnj&t=4796)| Emilio|  
+|09:10-10:10| [Reutilización de código en Python: funciones, módulos y paquetes](https://github.com/Intercoonecta/tutoriales/tree/main/10-martes)   [video]([https://youtu.be/XG-YloDLdGY](https://youtu.be/XG-YloDLdGY?si=j6r_oP98ayJdaXnj&t=4796) | Emilio|  
 |10:10-11:00| Revisión dudas GIT | Julia | 
 |11:00| Trabajo en Discord | Todos@s|  
 
@@ -39,8 +39,8 @@ Las horas incluidas en el programa son en horario de [Guatemala, UTC-6](https://
 | Hora |	Charla |	Presentador/a |   
 | ------------- |-------- | ------------- | 
 |08:00-08:10|	Bienvenida|	Marian|   
-|08:10-09:00| [Reutilización de código en R: funciones, source y librerías](https://github.com/Intercoonecta/tutoriales/tree/main/11-miercoles/R_codigo_reusable)[video]() | Héctor|  
-|09:00-10:00| [Estadística en R](https://github.com/Intercoonecta/tutoriales/tree/main/11-miercoles/analisis_estadistico_R)[video]() | Arelly  |  
+|08:10-09:00| [Reutilización de código en R: funciones, source y librerías](https://github.com/Intercoonecta/tutoriales/tree/main/11-miercoles/R_codigo_reusable)  [video]() | Héctor|  
+|09:00-10:00| [Estadística en R](https://github.com/Intercoonecta/tutoriales/tree/main/11-miercoles/analisis_estadistico_R)  [video]() | Arelly  |  
 |10:00|  Trabajo en Discord | Todos@s|  
 
 ## Jueves 12 de noviembre 
