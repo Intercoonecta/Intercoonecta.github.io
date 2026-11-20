@@ -12,9 +12,9 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **Tema:** 
 - **Mentoras:** 
 - **breve descripción:** 
-- **Lenguaje:** Python
+- **Lenguaje:** R
 - **Participantes:**
-- **Repositorio en GitHub:**
+- **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe26-proy1-GBIF_analisis_espacial
 
 ## PROYECTO 2
 
@@ -23,7 +23,7 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **breve descripción:** 
 - **Lenguaje:** Python
 - **Participantes:**
-- **Repositorio en GitHub:**
+- **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe26-proy2-python
 
 ## PROYECTO 3
 
@@ -32,6 +32,6 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **breve descripción:**
 - **Lenguaje:** Python
 - **Participantes:** 
-- **Repositorio en GitHub:** 
+- **Repositorio en GitHub:** https://github.com/Intercoonecta/OHWE_26_ATUN_TEMP
 
 
