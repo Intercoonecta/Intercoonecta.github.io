@@ -5,33 +5,40 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 -	Cambio climático: este reto incluirá propuestas en torno al análisis del efecto del cambio climático en los ecosistemas y los recurso pesqueros y potenciales herramientas de preservación y protección 
 -	Plásticos marinos: este reto se centrará en analizar la distribución espacial de los plásticos marinos en nuestros océanos, el papel  de las corrientes marinas, y el perjuicio sobre la biodiversidad marina y los recursos pesqueros. 
 - Sensibilización ciudadana: la concienciación ciudadana en materia de recursos pesqueros, medio ambiente, cambio climático etc es primordial. En una época de sobreinformación por redes sociales, la creación de dispositivos online con visualizadores atractivos y de carácter interactivo permitirán al ciudadano obtener información veraz con base científica .
-
-
 ## PROYECTO 1
 
-- **Tema:** 
-- **Mentoras:** 
-- **breve descripción:** 
+- **Tema:** Variabilidad espacio-temporal de la biodiversidad marina y su relación con las condiciones oceanográficas
+- **Mentores:** Jorge, Arelly, Hector
+- **breve descripción:** Caracterizar la variabilidad de la diversidad marina (alfa y beta) y evaluar su asociación con las condiciones oceanográficas durante 1993–2020. Se integran registros de OBIS y GBIF, con control de calidad y estandarización taxonómica, y series ambientales de Copernicus Marine (temperatura y salinidad superficial del mar), organizadas a resolución anual.
 - **Lenguaje:** R
 - **Participantes:**
+  - Tomás I. Marina (CADIC-CONICET, Argentina) – GitHub: (pendiente)
+  - Elmer Quispe-Salazar (IMARPE, Perú) – GitHub: (pendiente)
+  - Eduardo Martínez Angeles (IMIPAS, México) – GitHub: (pendiente)
+  - Marina Bezerra Figueiredo (UEMA, Brasil) – GitHub: (pendiente)
+  - Anthony Rojas Archbold (AUNAP, Colombia) – GitHub: (pendiente)
 - **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe26-proy1-GBIF_analisis_espacial
 
 ## PROYECTO 2
 
-- **Tema:** 
-- **Mentoras:** 
-- **breve descripción:** 
+- **Tema:** (pendiente: no se pudo leer el repositorio)
+- **Mentoras:** Julia, Laura
+- **breve descripción:** (pendiente)
 - **Lenguaje:** Python
-- **Participantes:**
+- **Participantes:** (pendiente)
 - **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe26-proy2-python
 
 ## PROYECTO 3
 
-- **Tema:** 
-- **Mentores:** 
-- **breve descripción:**
+- **Tema:** Temperatura superficial del mar y captura por lance de atún aleta amarilla en el Domo Térmico de Costa Rica
+- **Mentores:** Yeray, Nico
+- **breve descripción:** Exploración de la relación entre las anomalías mensuales de temperatura superficial del mar (Copernicus Marine) y la captura por lance de atún aleta amarilla (*Thunnus albacares*, datos de la CIAT) en el Domo Térmico de Costa Rica. Incluye regresiones con corrección HAC y una comparación complementaria por fases de un patrón regional de temperatura (PC1/EOF).
 - **Lenguaje:** Python
-- **Participantes:** 
+- **Participantes:**
+  - Silvia Ramírez – GitHub: (pendiente)
+  - Barbara Závala – GitHub: (pendiente)
+  - Jesús C. Compaire – GitHub: (pendiente)
 - **Repositorio en GitHub:** https://github.com/Intercoonecta/OHWE_26_ATUN_TEMP
+
 
 
