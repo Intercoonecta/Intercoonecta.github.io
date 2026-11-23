@@ -16,7 +16,7 @@ Colaboradores previos: Charles Troupin, Denisse Fierro Arcos, David Correa
 | Año|     Fechas |  Actividad| Estado| 
 | ------|  --------------- | ------------------------| ----------| 
 |2026| 09 al 13 de noviembre | [Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026)](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/optimizacion2026.md) | Acabada| 
- |2026| 16 al 20 de noviembre | [Hackaton Oceanhackweek en español (Edición 2026)](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/ohw2026.md) | En marcha|
+ |2026| 16 al 20 de noviembre | [Hackaton Oceanhackweek en español (Edición 2026)](https://github.com/Intercoonecta/Intercoonecta.github.io/blob/main/sitio/ohw2026.md) | Acabada|
  |2027| 08 al 12 de noviembre | Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2027) | En preparación|
  |2027| 15 al 19 de noviembre | Hackaton Oceanhackweek en español (Edición 2027) | En preparación|
 
