@@ -13,19 +13,19 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **Lenguaje:** R
 - **Participantes:**
   - Tomás I. Marina (CADIC-CONICET, Argentina) – GitHub: (pendiente)
-  - Elmer Quispe-Salazar (IMARPE, Perú) – GitHub: (pendiente)
-  - Eduardo Martínez Angeles (IMIPAS, México) – GitHub: (pendiente)
-  - Marina Bezerra Figueiredo (UEMA, Brasil) – GitHub: (pendiente)
-  - Anthony Rojas Archbold (AUNAP, Colombia) – GitHub: (pendiente)
+  - Elmer Quispe-Salazar (IMARPE, Perú)
+  - Eduardo Martínez Angeles (IMIPAS, México) 
+  - Marina Bezerra Figueiredo (UEMA, Brasil) 
+  - Anthony Rojas Archbold (AUNAP, Colombia) 
 - **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe26-proy1-GBIF_analisis_espacial
 
 ## PROYECTO 2
 
 - **Tema:** (pendiente: no se pudo leer el repositorio)
 - **Mentoras:** Julia, Laura
-- **breve descripción:** (pendiente)
+- **breve descripción:**
 - **Lenguaje:** Python
-- **Participantes:** (pendiente)
+- **Participantes:** 
 - **Repositorio en GitHub:** https://github.com/Intercoonecta/ohwe26-proy2-python
 
 ## PROYECTO 3
@@ -35,9 +35,9 @@ Las temáticas principales de estos proyectos se enmarcarán dentro de los sigui
 - **breve descripción:** Exploración de la relación entre las anomalías mensuales de temperatura superficial del mar (Copernicus Marine) y la captura por lance de atún aleta amarilla (*Thunnus albacares*, datos de la CIAT) en el Domo Térmico de Costa Rica. Incluye regresiones con corrección HAC y una comparación complementaria por fases de un patrón regional de temperatura (PC1/EOF).
 - **Lenguaje:** Python
 - **Participantes:**
-  - Silvia Ramírez – GitHub: (pendiente)
-  - Barbara Závala – GitHub: (pendiente)
-  - Jesús C. Compaire – GitHub: (pendiente)
+  - Silvia Ramírez 
+  - Barbara Závala
+  - Jesús C. Compaire 
 - **Repositorio en GitHub:** https://github.com/Intercoonecta/OHWE_26_ATUN_TEMP
 
 
